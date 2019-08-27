@@ -1,0 +1,137 @@
+#############################################################################
+## Directory: \ROBOTICS                                                    ##
+#############################################################################
+6811SRVO.ZIP    1167 08-08-93 Assembler source for controlling RC-type servos
+                              from a 6811 CPU
+ADR1INFO.ZIP   98034 05-02-94 Information on the Aclypse ADR-1 robot kit in
+                              ASCII text format with GIF image of robot.
+ARM_CODE.ZIP    2078 05-14-88 3 motor robot arm control sequences/8052 asm.
+DEADRECK.ZIP  158757 11-13-91 Src implementing dead-reckoning UNIX UUENCODED
+DIG_CONT.ZIP  160016 10-27-88 Controller design utilities
+DMCS_CFG.ZIP  258434 08-11-94 Honeywell PID controller utility
+FTLOGO.ZIP      5902 08-25-89 IBM LOGO interface for Fischertechnik robots
+PROTOLAB.ZIP   40604 08-06-90 PROTOLAB CIRCUIT SIM DEMO
+RCCL_1.ZIP    117927 08-23-87 1 of 3  Robotics Unix/C code from Purdue
+RCCL_2.ZIP    117256 02-02-87 2 of 3     "        "     "    "     "
+RCCL_3.ZIP    118688 11-31-87 3 of 3     "        "     "    "     "
+ROBIX1.ZIP    145210 11-05-94 Information and GIF images of Robix (tm) RCS-6
+                              robot arm construction set. This simple arm is
+                              built using standard R/c servos. C and QBASIC
+                              control libraries are also available.
+ROBOTPRO.ZIP    6924 00-01-80 Prolog robot manipulation code
+SERVO.ZIP     183244 03-28-93 Scott Edward's serial R/C servo controller.
+                              Includes text file of instructions and parts
+                              list, PS artwork for PCB, and PS schematic.
+STIQDOCS.ZIP    7257 08-28-92 Info & order form for the Stiquito hexapod robot
+STIQUITO.ZIP  232351 08-28-92 PostScript report  about the cheap hexapod robot
+SWTCHPS.ZIP   151653 06-24-92 Roll your own switching power supply
+TCROM2.ZIP     13073 01-02-89 TC2.0 Microcontroller ROM code kit
+-----------------------------------------------------------------------------
+-- Papers, reports, and other information -----------------------------------
+-----------------------------------------------------------------------------
+BBROWN.ZIP      2432 08-08-93 Ben Brown's list of robotic parts sources
+BIBLIOGR.ZIP   19769 08-08-88 Bibliography of articles on Robotics
+CMUROBOT.ZIP   18070 04-09-92 List of reports from CMU robotics dept
+GAMEPORT.ZIP    1764 09-13-90 Pin-outs & schematic for PC game port
+GIT_9137.ZIP  164442 01-06-93 PAPER:Describes a robot control system
+JOYSTICK.ZIP   18739 05-07-88 MSC 5.1 src demostrating use of PC joystick port
+KICKSTEP.ZIP    2534 01-06-90 Stepper motor optimization hints
+LPTFAQ.ZIP     17909 06-15-94 Usenet FAQ on the IBM PC parallel port and how
+                              to use it for various types I/O.
+NANOTECH.ZIP   14011 07-29-92 Bibliography of nano-technology references
+MAGAZINE.ZIP    3111 08-08-93 Chuck McManis' periodicals listing from 6/93
+MCGRAW1.ZIP    55772 07-04-93 PAPER: Control & planning in autonomous vehicles
+MOBOTS.ZIP     17823 06-19-92 Information on mobile robots
+ROBI_R1.ZIP     5060 03-04-93 Seattle Robotics Society ROBot Interface
+                              Standard Revision 1
+ROBOTFAQ.ZIP  115076 06-15-94 Usenet comp.robotics FAQ - contains info on
+                              parts sources, books, magazines, etc.
+ROBOFEST.ZIP 1430022 05-08-93 28 snapshots from Robofest IV in Austin, TX in
+                              GIF format.  The Robot Group logo and images
+                              are copyrighted materials used by permission.
+ROBOFST5.ZIP 1629242 05-20-94 More than 50 images from Robofest V in Austin,
+                              Texas. JPEG and GIF format.  The Robot Group
+                              logo and images are copyrighted materials used
+                              by permission.
+ROBOPART.ZIP    2652 09-03-90 Good sources for robot components
+ROBOTFAQ.ZIP   38662 05-05-93 Usenet comp.robotics newsgroup FAQ
+TELEROBO.ZIP   13911 08-24-91 Report on a lunar telerobotics project
+WHOSWHO.ZIP    23415 07-11-94 "Who's Who in Robotics" - a list of graduate
+                              students working in robotics along with
+                              summaries of their work and email addresses.
+-----------------------------------------------------------------------------
+-- Robotics contests and competitions ---------------------------------------
+-----------------------------------------------------------------------------
+AAAIRC92.ZIP    5431 09-11-91 AAAI '92 Robot competition rules & info.
+AAAI93.ZIP      9177 08-08-93 Report on the 1993 AAAI Robot competition
+AUVSARCF.ZIP    3695 08-31-94 The Association for Unmanned Vehicle Systems
+                              International Aerial Robotics Competition
+                              [AUVSARC] FAQ.  ASCII format.
+AUVSARCI.ZIP  972161 08-31-94 AUVS Aerial Robotics Competition information
+                              kit.  Includes Q&A sheet, diagram of playing
+                              field, diagram of target objects, list of 1994
+                              competitors, and the official rules. All files
+                              except rules in both Post Script and MacDraw II
+                              formats.  Rules in Mac Aldus Pagemaker format.
+AUVSARCL.ZIP   33730 08-31-94 AUVS Aerial Robotics Competition mailing list
+                              archives, issues 1-32.
+BEAM93.ZIP      6527 01-01-93 BEAM '93 Robot Olympics - rules & entry form
+CC1994.ZIP     12519 09-07-94 Rules and information on the 1994 Critter Cruch
+                              The annual competition of armed robots, held by
+                              Mad Scientists Club in Denver, CO.
+IAV95.ZIP       1787 05-24-94 Rules for the 1995 IFAC Intelligent Autonomous
+                              Vechicle competition.
+RF5_SUMO.ZIP    4221 05-24-94 Robofest V Robot Sumo competition rules.
+ROBOCOMP.ZIP    4108 08-31-94 comp.robotics Robot competition FAQ. A listing
+                              of all known robot competitions with contact
+                              information and descriptions.
+SFRSSUMO.ZIP    6577 05-24-94 Agenda and Rules for the San Francisco Robotics
+                              Society 1994 Robot Sumo Competition.
+-----------------------------------------------------------------------------
+-- Robot simulators ---------------------------------------------------------
+-----------------------------------------------------------------------------
+ARENA21B.ZIP   82462 01-05-86 Detailed battle-robot simulation/game
+ARSMAGNA.ZIP  295303 00-06-93 ARS-Magna v1.0 NISP-based mobile robot simulator
+CROBOTS.ZIP    54498 01-12-88 C based robot "simulation" game
+CUG139.ZIP     59786 09-03-89 CUG C src for KAREL 2-d robot simulator for CP/M
+CUG202.ZIP     58595 08-04-91 CUG C source for KAREL, newer MS-DOS version
+MODULESH.ZIP  623933 04-28-93 Demo of ModulesH robot design sw. Istanbul Tech.
+P_ROBOTS.ZIP   94201 10-20-88 Pascal based robot "simulation" game
+PCROB13.ZIP   106755 10-02-92 Robot simulator for C, Pascal, & BASIC
+SIMD102.ZIP   529453 07-27-93 Simderella v1.02 robot simulation package C src
+-----------------------------------------------------------------------------
+-- Robotic sensors ----------------------------------------------------------
+-----------------------------------------------------------------------------
+CCSONAR.ZIP    44024 06-22-88 Ultrasonic range finder and tracking code in
+                              Pascal and assembler.  See the July '88 issue
+                              of Circuit Cellar magazine for details.
+IR_DIODE.ZIP    1180 08-08-93 Infra-red diode proximaty detector schematic
+IR_PD.ZIP       1676 01-25-93 Infra-red proximity detector schematic
+IR_RANGE.ZIP    2251 02-29-93 Infra-red ranging-parts source and descriptions
+RANGE.ZIP       3019 10-03-91 Schematic for ultrasonic range finder
+RTSM.ZIP      477385 04-13-94 Complete kit for converting Radio Shack's
+                              ultrasonic tape measure into a range sensor for
+                              robotic use.  Includes C and ASM source for
+                              the 6.270 SBC. Created by Brain Van Mondfrans
+                              of the Seattle Robotics Society.
+SONAR.ZIP       9328 01-21-93 Tech data useful to ultrasonic experimenters
+SONARART.ZIP    3084 04-01-93 Plans for cheap sensor using Digi-Key parts
+SONARKIT.ZIP    2174 11-05-94 Information on a complete sonar ranging kit for
+                              robotics use from Scott Edwards.
+SWORLD.ZIP     37536 03-21-90 Demo of SWorld v0.5 Sonar mapper by Robots Etc.
+ULTRA1.ZIP      4500 08-14-93 An account of using ultrasonic ranging hardware
+ULTRASON.ZIP   19230 10-03-92 Ultrasonic sensor assembler code for MC68HC05K1
+                              from Circuit Cellar #30
+-----------------------------------------------------------------------------
+-- Stepper motors -----------------------------------------------------------
+-----------------------------------------------------------------------------
+CONT_PC.ZIP    72327 00-06-89 MAX-FORTH programs for LAB-40 controller
+MF_STEP.ZIP     4556 11-09-88 MAX-FORTH code for LAB-40 stepper motor
+MOTOR40.ZIP    25553 05-14-88 Utility to predict motor loads...
+MS_EVAL.ZIP   181125 00-19-90 MotionSoft v1.0 demo for LAB-40 controller
+SEQUENCE.ZIP   14974 06-22-88 S. Ciarcia's stepper motor utilities
+STEPPER.ZIP    33987 01-13-90 Controls stepper motor via printer port
+STEP_LPT.ZIP   28795 04-11-94 PCB layout, silk screens, parts list, and
+                              instructions to make a stepper motor controller
+                              that operates from a PC printer port.
+

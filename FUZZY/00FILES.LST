@@ -1,0 +1,275 @@
+##############################################################################
+## Directory: \Fuzzy - Fuzzy Logic                                          ##
+##############################################################################
+FCM2.ZIP       46396 09-26-93 Example of a Fuzzy Cognitive Map with C source
+                              code and DOS executables. Written by Josef
+                              Betancourt.
+FIDE20DM.ZIP 1289574 09-13-94 Demo version Aptronix, Inc's Fuzzy Inference
+                              Development Environment v2.0 for DOS/Windows. 
+                              Demo version operates only with the 6 provided
+                              examples and will not save or compile new
+                              files.
+FLIE.HQX      203051 09-06-94 The Institut fuer Robotik Fuzzy Logic Inference
+                              Engine (FLIE) for the Macintosh  with Modula-2
+                              source code.
+FMS.ZIP        80196 05-03-94 Borland C++ IDE files required to build the 
+                              demos from the "Fuzzy Systems Handbook" by Earl
+                              Cox. IDE files are from Sandy Warrick of MAST.
+FUZZYFAN.ZIP   65931 09-07-94 DOS binaries and C source code for a fuzzy logic
+                              expert fan controller. Provides a VGA graphics
+                              interface to display the controller actions and
+                              a utility to generate MatLAB compatible
+                              numerical representations of the fuzzy control
+                              surface. Written by Henry Hurdon.
+FUZ_PEN.ZIP    85182 09-07-94 Inverted Pendulum simulation for use with
+                              Intel/DOS or Omron FB30-AT fuzzy inference
+                              board.  Binaries only. No documentation. VGA
+                              real-time display of fuzzy variables but not
+                              pendulum.  Written by Michelangelo Sebastiani.
+FUZRTAPP.ZIP    6351 09-09-94 Example of an embedded fuzzy realtime
+                              application - quantification of light levels in
+                              the presense of noise. Includes C source and
+                              descriptive text by Brian Bush.
+FUZZGEN.ZIP    53977 05-11-93 Fuzzy Logic Source Code Generator v1.0. Allow
+                              user to graphically model FL systems and
+                              outputs source code in BASIC, C, or Pascal.
+FUZZ11B3.ZIP    4681 09-19-94 Assembler source for the Motorola HC11 fuzzy
+                              logic inference engine.  No documentation but
+                              source code is well commented.
+GAF110B.ZIP   147931 01-25-94 Genetic-Adapt Fuzzy control system v1.10 beta.
+                              Fuzzy Logic control system that uses genetic
+                              algorithms to adapt rules and membership sets.
+                              Runs on DOS machines.
+KBG_224.ZIP   138076 09-19-94 Motorola Knowledge Base Generator V2.24 for the
+                              HC11 fuzzy logic engine. Runs under DOS.
+                              Requires EGA/VGA graphics. Includes
+                              documentation in Wordperfect format and a
+                              sample knowledge base.
+LINDH.ZIP      79468 09-15-93 Fuzzy logic engine with Turbo Pascal source code
+                              Includes DOS and Windows executables.
+NC1_DOCS.ZIP  109478 06-16-94 NEFCON-I v1.0 NEural Fuzzy CONtroller.  Based
+                              on Interviews.  An X11 simulation environment
+                              to build and test neural fuzzy controllers
+                              based on the NEFON model. PostScript Docs
+NC1_CSRC.ZIP  320723 06-16-94 NEFCON-I v1.0 NEural Fuzzy CONtroller.  Based
+                              on Interviews.  An X11 simulation environment
+                              to build and test neural fuzzy controllers
+                              based on the NEFON model. C Source code.
+NC1LINUX.ZIP  581973 06-16-94 NEFCON-I v1.0 NEural Fuzzy CONtroller.  Based
+                              on Interviews.  An X11 simulation environment
+                              to build and test neural fuzzy controllers
+                              based on the NEFON model.  Binaries for LINUX.
+NC1SUNOS.ZIP 1428644 06-16-94 NEFCON-I v1.0 NEural Fuzzy CONtroller.  Based
+                              on Interviews.  An X11 simulation environment
+                              to build and test neural fuzzy controllers
+                              based on NEFON model.  SunOS v4.1.1 binaries.
+ROBOTARM.ZIP   59107 09-09-91 A demonstration of fuzzy meta-control and the
+                              dynamic selection of control strategies. Demo
+                              runs under DOS and requires VGA graphics.
+TILDEMO2.ZIP  505309 09-09-94 Togai InfraLogic, Inc's TILShell+ v2.0 demo for
+                              DOS/Windows. The demostration version is
+                              complete with the exception that it will not
+                              save or compile files.
+TILPEN25.ZIP   31026 12-09-92 Togai InfraLogic, Inc's inverted pendulum demo.
+                              Version 2.5, C source code only.
+TILPEN30.ZIP   44187 09-07-94 Togai InfraLogic, Inc's inverted pendulum demo.
+                              Version 3.0 DOS binaries but no source.  Nice
+                              VGA graphic demo of pendulum movement and fuzzy
+                              variables in realtime.
+TILSLIDE.ZIP 1325687 09-19-94 DOS based slide show demonstrating TIL's new
+                              version 3.0 TILShell.
+TRACKER.ZIP    85210 09-07-94 Demostration program comparing real-time fuzzy
+                              logic vs Kalman-filter target tracking. 
+                              DOS/VGA graphics.
+-------------------------------------------------------------------------------
+-- Fuzzy logic research papers and information files --------------------------
+-------------------------------------------------------------------------------
+APT_BROC.ZIP   58937 09-13-94 Aptronix, Inc. brochure describing their FIDE
+                              product.  File contains text and graphics in MS
+                              Word for Windows format. 
+APT_N001.ZIP   42337 09-24-94 Aptronix, Inc. FIDE Application note #001: Fuzzy
+                              logic control of a washing machine. ASCII text
+                              and Postscript file format included. 
+APT_N002.ZIP   39055 09-24-94 Aptronix, Inc. FIDE Application note #002: A
+                              Fuzzy logic based automatic focusing system. 
+                              ASCII text and Postscript file formats
+                              included.
+APT_N003.ZIP   37811 09-24-94 Aptronix, Inc. FIDE Application note #003: Fuzzy
+                              logic servo motor force controller.  ASCII text
+                              and Postscript file formats included.
+APT_N004.ZIP   50483 09-24-94 Aptronix, Inc. FIDE Application note #004: Fuzzy
+                              logic temperature control of a glass smelting
+                              furnace.  ASCII text and Postscript file
+                              formats included.
+APT_N005.ZIP   15294 09-24-94 Aptronix, Inc. FIDE Application note #005: Fuzzy
+                              logic temperature control for air conditioning
+                              systems.  ASCII text and Postscript file
+                              formats included. 
+APT_N006.ZIP   89275 09-24-94 Aptronix, Inc. FIDE Application note #006: Fuzzy
+                              logic temperature control for a process
+                              reactor.  ASCII text and Postscript file
+                              formats included.
+APT_N007.ZIP   24025 09-24-94 Aptronix, Inc. FIDE Application note #007: The
+                              use of fuzzy logic in an automatic transmission
+                              to select gears. ASCII text and Postscript file
+                              formats included.
+APT_N008.ZIP   56287 09-24-94 Aptronix, Inc. FIDE Application note #008:
+                              Desiging a two stage inverted pendulum.  ASCII
+                              text and Postscript file formats included.
+APT_N009.ZIP   78151 09-24-94 Aptronix, Inc. FIDE Application note #009: Using
+                              fuzzy design to improve control of automated
+                              manufacturing. ASCII text and Postscript file
+                              formats included. 
+APT_N010.ZIP    8091 09-13-94 Aptronix, Inc. FIDE Application note #010:
+                              Comparison of fuzzy and classical control
+                              applied to disc drive spindle servos. 
+BRUB1.ZIP       2625 01-28-93 The Huntington Technical Brief Number 21 by
+                              David Brubaker Ph.D., "A Fuzzy Web Tension
+                              Controller".
+BRUB2.ZIP       3417 01-28-93 The Huntington Technical Brief Number 22 by
+                              David Brubaker Ph.D., "Dynamic Extent of Fuzzy
+                              Variables" 
+BRUB3.ZIP       2212 09-24-94 The Huntington Technical Brief Number 27 by
+                              David Brubaker Ph.D., "Hedges" 
+BRUB4.ZIP       2995 09-24-94 The Huntington Technical Brief Number 28 by
+                              David Brubaker Ph.D., "Fuzzy Evidence in
+                              Character Recognition" 
+BRUB5.ZIP       3853 09-24-94 The Huntington Technical Brief Number 31 by
+                              David Brubaker Ph.D., "Fuzzy Environmental
+                              Control" 
+BRUB6.ZIP       4605 09-24-94 The Huntington Technical Brief Number 32 by
+                              David Brubaker Ph.D., "Fuzzy References" 
+BRUB7.ZIP       2653 09-24-94 The Huntington Technical Brief Number 33 by
+                              David Brubaker Ph.D., "Pseudo-Fuzzy,
+                              Table-Driven Kernel" 
+BRUB8.ZIP       2643 09-24-94 The Huntington Technical Brief Number 34 by
+                              David Brubaker Ph.D., "Fuzzy System Design
+                              Rules of Thumb" 
+BRUB9.ZIP       2311 09-24-94 The Huntington Technical Brief Number 36 by
+                              David Brubaker Ph.D., "A Fuzzy State Machine
+                              Model" 
+CELKAN.ZIP     43887 09-24-94 Paper: The Paradoxical Success of Fuzzy Logic,
+                              Charles Elkan. Post Script format.  Attempts to
+                              show that fuzzy logic, when looked at as a
+                              formal system, collapes mathematically to
+                              two-valued logic!
+CE_REPLY.ZIP    8882 09-24-94 Two informal replies to C. Elkans paper, "The
+                              Paradoxical Success of Fuzzy Logic".  ASCII
+                              Text format.
+EKN001.ZIP     36409 09-27-94 Paper: "Distributing Errors in Neural Fuzzy
+                              Control" by P. Eklund, F. Klawonn, D. Nauck. 
+                              Describes a procedure to integrate techniques
+                              for the adaptation of membership functions in a
+                              linguistic variable based fuzzy control
+                              environment.  Postscript format.
+FLCBIB.ZIP      4826 11-05-94 Fuzzy Logic Control applications bibliography.
+                              Compiled by David E. Thomas.
+FUZZAPPS.ZIP   17208 01-28-93 Desc. of 5 practical applications of FL
+FUZZY1.ZIP     18479 06-08-93 Kahaner report: Japanese fuzzy logic research.
+                              ASCII format
+FUZZY2.ZIP     17152 06-08-93 Kahaner report: Japanese fuzzy logic research as
+                              of 5/93. ASCII format
+FZCOPTER.ZIP    5011 09-05-91 Info on Japanese fuzzy logic project
+NK001.ZIP      39599 09-27-94 Paper: "Interpreting Changes in the Fuzzy Sets
+                              of a Self-Adaptive Neural Fuzzy Controller", by
+                              D. Nauck, R. Kruse. Describes a procedure for
+                              the adaptation of membership functions in a
+                              fuzzy control environment by using neural
+                              network learning principals. Postscript format.
+NK002.ZIP      49797 09-27-94 Paper: "A Neural Fuzzy Controller Learning by
+                              Fuzzy Error Propagation", by D. Nauck, R.
+                              Kruse. Describes a procedure to integrate
+                              techniques for the adaptation of membership
+                              functions in a linguistic variable based fuzzy
+                              control environment by using neural network
+                              learning principles. Postscript format.
+NK003.ZIP      43253 09-27-94 Paper: "A Fuzzy Neural Network Learning Fuzzy
+                              Control Rules and Membership Functions by Fuzzy
+                              Error Backpropagation", by D. Nauck, R. Kruse.
+                              Presents a new kind of neural network
+                              architecture designed for control tasks, called
+                              a fuzzy neural network. Postscript format.
+NK004.ZIP      81837 09-27-94 Paper: "NEFCON-I: An X-Windows Based Simulator
+                              for Neural Fuzzy Controllers" by D. Nauck, R.
+                              Kruse. Presents the NEFCON-I graphical
+                              simulation environment for building and
+                              training neural fuzzy controllers based on the
+                              NEFCON model. Postscript format.
+NKK001.ZIP     91049 09-27-94 Paper: "Fuzzy Sets, Fuzzy Controllers, and
+                              Neural Networks" by D. Nauck, F. Klawonn, R.
+                              Kruse. Contains a short introduction to fuzzy
+                              set theory, an overview of fuzzy controllers,
+                              and discusses possible combinations of fuzzy
+                              controllers and neural networks.  Postscript
+                              format.
+NKK002.ZIP     46182 09-27-94 Paper: "Combining Neural Networks and Fuzzy
+                              Controllers" by D. Nauck, F. Klawonn, R. Kruse.
+                              Discussion of approaches which combine fuzzy
+                              controllers and neural networks using a unqiue
+                              hybrid architecture. Postscript format. 
+PID_FUZ.ZIP     2007 01-28-93 Comparison of Fuzzy Logic and PIDs
+TILBENCH.ZIP   11651 09-24-94 Post Script file containing Togai InfraLogic's
+                              Fuzzy Logic performance benchmarks.
+TILPROD.ZIP     2236 09-09-94 List or products available from Togai
+                              InfraLogic, Inc., a company specializing in
+                              fuzzy logic and fuzzy expert system.
+TILV1I1.ZIP   183140 09-09-94 Volume 1, Issue 1 of Togai InfraLogic, Inc's
+                              "The Fuzzy Source" newsletter. Postscript
+                              format.
+TILV1I2.ZIP   236586 09-09-94 Volume 1, Issue 2 of Togai InfraLogic, Inc's
+                              "The Fuzzy Source" newsletter. Postscript
+                              format.
+TILV2I1.ZIP   126053 09-09-94 Volume 2, Issue 1 of Togai InfraLogic, Inc's
+                              "The Fuzzy Source" newsletter. Postscript
+                              format.
+TILV2I2.ZIP    78079 09-09-94 Volume 2, Issue 2 of Togai InfraLogic, Inc's
+                              "The Fuzzy Source" newsletter. Postscript
+                              format.
+-------------------------------------------------------------------------------
+-- Fuzzy Logic Bibliographies -------------------------------------------------
+-------------------------------------------------------------------------------
+BIBLIO.ZIP      1279 09-24-94 Short bibliography of books related to Fuzzy
+                              Logic. ASCII text format.
+FUZBOOKS.ZIP    8715 09-24-94 Extensive list of Fuzzy Logic books compiled by
+                              Josef Benedikt for the FLAI '93 conference.
+                              ASCII text format.
+FUZPETRI.ZIP    3950 09-09-94 Bibliography on fuzzy Petri nets.
+FUZZY_NN.ZIP   52277 09-27-94 Bibliography of Neuro-Fuzzy issues by Detlef
+                              Nauck of the Technical University of
+                              Braunschweig.  Includes Bibtex/ASCII, DVI, and
+                              Postscript versions of the file.
+FUZZYMAG.ZIP    3462 09-07-94 List of magazine articles between June '91 and
+                              Oct. '92 that mention fuzzy logic. Compiled by
+                              Erik Horstkotte of Togai InfraLogic, Inc.
+-------------------------------------------------------------------------------
+-- Fuzzy Logic Tutorials ------------------------------------------------------
+-------------------------------------------------------------------------------
+CLEARFUZ.ZIP   17413 01-25-93 OMRON Corp _CLEARLY FUZZY_ FL tutorial
+FREEFUZZ.ZIP   22499 10-29-93 Jim Huffman's fuzzy logic tutorial uses the
+                              example of a heater controller to show how
+                              fuzzy logic works.  A video taped tutorial and
+                              disk are available from the author.
+FUZFAQ.ZIP     26545 06-15-94 Frequently Asked Questions list from the Usenet
+                              comp.ai.fuzzy newsgroup. ASCII format.
+FUZINTRO.ZIP   95353 09-24-94 Fuzzy Logic: From Conecpt to Implementation. 
+                              Paper from Aptronix introducing fuzzy logic and
+                              related concepts. Postscript format.
+FUZZY.ZIP      10458 10-05-90 Paper: "Fuzzy Systems - A Tutorial" by James F.
+                              Brule'.  An introduction to fuzzy logic with
+                              examples and references. ASCII text format.
+FUZZYLAB.ZIP  201126 09-07-94 MS-Windows based interactive education program
+                              designed to give hands-on experience designing
+                              and analyzing a fuzzy control system.  No prior
+                              experience with fuzzy logic is need to use this
+                              instructional tool.
+FUZZYTEC.ZIP  146315 09-06-94 DOS Fuzzy logic demo - documentation and help is
+                              in German but the program is easy to run and
+                              fairly intuitive.  It consists of a graphic
+                              simulation of a car using fuzzy logic to avoid
+                              obstacles in the road.  Several real-time
+                              values used in the FL equations are graphed on
+                              screen as the demo runs.
+PRIMER.ZIP     26802 09-09-94 A short introduction to fuzzy logic and fuzzy
+                              expert systems from Togai InfraLogic, Inc. 
+                              Postscript format.
+

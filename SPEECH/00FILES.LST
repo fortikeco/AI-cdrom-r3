@@ -1,0 +1,72 @@
+##############################################################################
+## Directory: \SPEECH - Speech and sound recognition and generation         ##
+##############################################################################
+ADDA10.ZIP    175662 08-25-92 Details on building a simple DSP board for PC
+ACCENT.ZIP     56738 05-26-89 Demo of Accent's speech synthesizer software
+ACCSET.ZIP     20623 07-29-90 Utility to adjust Accent speech synth settings
+COMPRAW.ZIP    11124 10-08-92 Lossy compression/decomp. for sound files w/src
+HYPER.ZIP     192965 02-11-88 Demo of Hyperception's Hypersignal DSP sw
+OGITOOLS.ZIP 1712565 10-20-93 OGI Speech Tools version 1.0. ANSI C source code
+                              for the Oregon Graduate Institute speech data
+                              manipulation tools. Includes tools to compute
+                              and display signal representations, label
+                              speech at phonetic, phonemic, and word levels,
+                              and display output of classification or
+                              recognition algorithms in time-aligned format.
+SAMPLE20.ZIP  231482 04-21-89 Turbo Pascal src for sound sampling & playback
+SYNTH.ZIP      14465 00-01-80 SYNTH 90 demo disk from code works
+VOICE200.ZIP   42529 10-01-90 Voice synthesis tools for Clipper
+VOICETRS.ZIP    6460 04-06-94 Abstracts of research papers on voice
+                              recognition and speech generation.
+------------------------------------------------------------------------------
+-- Sound file format information and utilities -------------------------------
+------------------------------------------------------------------------------
+AUDIOFMT.ZIP   34522 05-16-93 Guide to differnet audio file formats
+RIFFMCI.ZIP   134819 10-08-91 IBM/MS docs on RIFF (.WAV) file format
+SOXSRC7.ZIP    95889 01-12-93 Sound Tools v4 source code for UNIX
+SOXV10.ZIP    145993 11-14-93 Contains the SOX sounds tools v10 executable
+                              for DOS and the v6 executable for OS/2 as well
+                              as documentations.
+------------------------------------------------------------------------------
+-- Sound Blaster related files -----------------------------------------------
+------------------------------------------------------------------------------
+BLAST13.ZIP   178579 06-11-91 Sound Blaster drivers with Tubro-C source
+SB_SCOPE.ZIP    9116 01-02-93 Undocumented DOS program displays Sound Blaster
+                              signal on screen in the form of an o-scope.
+SBF.ZIP       242862 03-10-92 Soundblaster programming examples with C source
+SBPROG.ZIP      6702 09-04-92 J.S.Lee's programming guide to the Sound Blaster
+------------------------------------------------------------------------------
+-- Sound editors -------------------------------------------------------------
+------------------------------------------------------------------------------
+WAVE10.ZIP     79006 10-05-91 WaveForm v1.0, a soundblaster wave editor
+WAVES16A.ZIP  109734 05-26-93 Demo version of WaveS, a Windows sound editor
+                              that supports echo and flange effects, and FFT
+                              equalization.
+------------------------------------------------------------------------------
+-- Speech using the PC's built in speaker ------------------------------------
+------------------------------------------------------------------------------
+123_TALK.ZIP  177377 09-14-91 Female voice on PC speaker teaches kids
+CVOICE.ZIP     18827 09-20-89 Demo of DOS speech sw toolkit using PC speaker
+PARROT.ZIP     15904 02-18-87 BASIC Text -> Speech program
+PCTALK.ZIP     17356 08-05-91 Talks on PC speaker. Add new sounds
+REMAC.ZIP     162025 05-08-90 Plays MAC sound files using PC speaker
+RESPLAY1.ZIP   66211 01-09-91 Sampling & play back functions for programmers
+SAY.ZIP        17808 02-13-86 TSR for text->speech use from DOS or BASIC
+SHOW_TAL.ZIP  199974 09-01-91 v1.3 - Demo of a PC speech product
+SPEAKUP.ZIP    68117 04-10-87 BASIC Text -> Speech system
+SPEECH20.ZIP   45075 02-06-88 BASIC, Pascal for text->speech
+SPEECH98.ZIP   39377 05-04-91 DOS program generators 98 phonemes on PC speaker
+SWTLK171.ZIP  163365 08-05-91 SW-Talk v1.71 programmers toolkit. PC speaker
+TLKKEYS.ZIP   173309 02-13-91 Speaks alphabet & over 100 words
+TRAN.ZIP       35994 08-10-88 ASCII -> speech translation program
+TTALK106.ZIP  191025 06-29-91 TinyTalk v1.06 PC access for the blind
+TXT2SPCH.ZIP   29018 05-04-88 Another Text -> Speech program
+------------------------------------------------------------------------------
+-- Voice & sound recognition  ------------------------------------------------
+------------------------------------------------------------------------------
+IN3DEM.ZIP    141527 03-18-93 InCube Windows voice recognition demo.
+LPC05B.ZIP     46880 04-23-92 v0.5b LPC, Parcor, LPC-Cepstrum encoding for
+                              DOS & Unix
+SPCHREC.ZIP    46759 00-05-93 Speech recognition program - 10 words
+VDIGIT.ZIP    197443 10-05-89 Farpoint audio digitizer V1.0
+

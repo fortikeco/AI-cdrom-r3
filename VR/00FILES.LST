@@ -1,0 +1,235 @@
+##############################################################################
+## Directory: \VR - Virtual Reality, Cyberspace, and simulation             ##
+##############################################################################
+3DV25.ZIP      73312 04-29-92 3D graphic environment for DOS platforms.
+BTMATE3.ZIP   135969 06-21-93 MATE beta v0.90Rel3 of a virtual chess game for
+                              2 players.  Played over modem.
+DGHAND.ZIP     10454 11-17-91 Undocumented hand-rendering C src code for SGI
+GALCUBE.ZIP    57295 10-19-92 Simple demo of Galilean anti-aliasing
+GALSRC.ZIP     24092 11-29-92 Source for Galilean anti-aliasing demo
+GARAGEVR.ZIP     606 08-09-93 Info on _Garage VR_ from SAMS Publishing
+GENPINS.ZIP     2832 03-27-92 Pinout information for Genesis Joysticks
+HANDSRC.ZIP    54034 01-18-92 Src & EXE for MSDOS 3d powerglove software
+NINJOY.ZIP     12032 02-06-92 C source for using a Nintendo Joystick on 386
+                              and AT&T Unix 3.2
+OGRE41.ZIP     63773 04-02-93 Object GeneRator/Editor - For REND386 & other
+                              VR development systems
+POLHEM.ZIP     62819 08-26-91 Src for use w/Polhemus 3Space tracking devices
+SEGA_232.ZIP    1811 08-12-91 Schematic for using Sega glasses with RS-232
+SEGA_PS.ZIP    11495 11-29-94 Post Script file of Sega to RS-232 schematic
+SEGA.ZIP       70355 04-11-92 Source code for use with Sega 3D glasses
+VEOS20.ZIP    397884 07-05-92 Virtual Environment Operating Shell v2.0 TAR
+VICMAX.ZIP      2412 11-17-93 Text about Victor Max 3D glasses 
+VIEW3D.ZIP    211573 06-08-93 Simple 3 dimensional object viewer for OS/2
+------------------------------------------------------------------------------
+-- IRIT solid modelling system -----------------------------------------------
+------------------------------------------------------------------------------
+IRIT40E1.ZIP  623965 01-05-94 IRIT version 4.0 solid modeler for OS/2 1/2
+IRIT40E2.ZIP 1291819 01-05-94 IRIT version 4.0 solid modeler for OS/2 2/2
+IRIT40I.ZIP   650165 01-05-94 IRIT version 4.0 addition GIF images.
+IRIT386E.ZIP  495433 02-12-92 IRIT solid modelling program for DOS/386+
+                              platforms [DJGPP]
+IRITSM3E.ZIP  539012 02-11-92 IRIT solid modelling program for DOS/386+
+                              platforms [BC++]
+IRITSM3S.ZIP  697255 02-12-92 IRIT solid modelling program C source code
+                              with docs
+------------------------------------------------------------------------------
+-- REND386 development system and related files ------------------------------
+------------------------------------------------------------------------------
+3DS2PLG.ZIP    27088 03-29-92 Converts 3d Studio ASCII files to REND386 format
+BYU2PLG.ZIP    19389 03-30-92 Converts Movie BYU files to REND386 .PLG format
+CHECKER.ZIP     6450 08-01-93 Utility to render "checker-board" planes in .PLG
+                              file format
+COMBVERT.ZIP   19895 03-30-92 Utility to combine vertices in a REND386 file
+DACTYL.ZIP     95975 06-27-93 Beginings of a REND386-based VR game
+DEMO4.ZIP     118095 09-09-92 REND386 Virtual world development system demo
+DEVEL4.ZIP    201908 08-01-93 REND386 Development system v4.01 w/source & docs
+DEVEL4_C.ZIP  217585 09-01-93 REND386 v4.01 w/mods by Charlie Lindahl of UTA
+DRKIT.ZIP     159393 09-08-92 REND386 Driver development kit for version 4.01
+DXF2PLG.ZIP   122998 10-18-92 Converts AutoCAD .DXF files to REND386 .PLG file
+                              format - with samples
+FORMLA.ZIP     29981 10-17-92 Utility to render formulas as 3D .PLG graphs
+GLOBE10A.ZIP   40939 02-01-93 Utility to render globe-shaped objects in 
+                              REND386 .PLG format
+IEGEOM.ZIP     81329 08-02-93 Isdale Engineering Geometry Library toolkit
+                              for REND386
+IRIT2PLG.ZIP   55960 03-30-92 Converts IRIT data files to REND386 .PLG format
+MOBIUS.ZIP     30733 03-04-93 Utility generates mobius strips in PLG format
+MOUNTAIN.ZIP    7919 01-23-93 Utility to generate mountain-like objects
+                              in PLG format
+NP_DEMO.ZIP    45440 06-20-93 David Boeren's wireframe .PLG file viewer
+OFF2PLG.ZIP    24085 03-30-92 Converts OFF files to REND386 .PLG format
+PLGFILES.ZIP  239180 08-02-93 Collection of .PLG files ready to use w/REND386
+PLGFILT.ZIP    14115 08-01-93 Utility to filter unwanted polys from NCad V9.8
+                              .PLG files
+PLGSTARS.ZIP    6939 10-09-92 Utility to generate PLG files of a star fields
+PRISM.ZIP      28765 07-13-92 Utility to generate PLG files of multi-sided
+                              solid objects
+SHD2PLG.ZIP    19189 06-14-92 Converts Sun "shaded" files to REND386 format
+SOCCER.ZIP     29914 03-10-93 Utility generates REND386 "soccer-ball" shapes
+SRF2PLG.ZIP    19373 06-14-92 Converts SURFMODL files to REND386 .PLG format
+------------------------------------------------------------------------------
+-- Ray Tracing graphics utilities --------------------------------------------
+------------------------------------------------------------------------------
+DKBOS2.ZIP    331288 09-11-92 DKBTrace v2.12 OS/2 raytracer with source and
+                              examples.
+DKBPM2.ZIP    451926 09-25-92 DKBTrace integrated OS/2 PM interface kit
+PMPOVF.ZIP    652808 10-22-93 POVFrame - an OS/2 PM interface for POV-Ray
+POV22F.ZIP    559244 03-12-94 Persistance of View Raytracer version 2.2.
+                              Includes source and executables for OS/2 and DOS
+POVSCN22.ZIP  499735 03-07-94 POV v2.2 example scene files
+RAYSHADE.ZIP  108668 07-04-92 RayShade v4.0.6 ray tracer for OS/2
+RT.ZIP        403711 11-11-93 Public domain ray tracing package with complete
+                              C source and makefiles for OS/2 and Unix.
+------------------------------------------------------------------------------
+-- Conference reports --------------------------------------------------------
+------------------------------------------------------------------------------
+CYBER2.ZIP     16768 02-30-93 Reports on the 2nd International Conference
+                              on Cyberspace
+EFDPMA92.ZIP   16531 05-27-92 Report on EFDPMA '92 Virtual Reality conference
+IC91.ZIP        8620 02-30-93 Report on Munich/Siemens "In Cyberspace" symp.
+ICAT92.ZIP     18100 07-17-92 Report on ICAT '92 conference
+ISARTE91.ZIP    2934 02-30-93 Kahaner report on Japan's VR&Telepresence conf
+VW91CONF.ZIP   23451 02-30-93 Reports on the 1991 Virtual Worlds Conference
+------------------------------------------------------------------------------
+-- Demos of commercial VR software packages ----------------------------------
+------------------------------------------------------------------------------
+GFDEMO.ZIP    473328 01-26-93 Demo of Girlfriend, a cross between virtual
+                              reality and natural language processing. Talk
+                              to a virtual girl who learns and comprehends.
+                              From AIdeaLabs. Requires DOS/VGA.
+MOANBIRD.ZIP   99727 10-28-92 Demo of Virtual Reality Studio by Incentive SW
+SEEVREAM.ZIP  498614 01-13-93 Demo of VREAM VR software-needs math coprocessor
+VR_DEMO.ZIP   100208 03-04-91 Demo of SuperScapes VR v1.1 (386/486+VGA)
+VRSDEMO.ZIP    47027 00-06-92 Virtual Reality Studio software demo
+------------------------------------------------------------------------------
+-- Power Glove ---------------------------------------------------------------
+------------------------------------------------------------------------------
+GLOVE6.ZIP      7376 05-21-93 .BMP format image of 6d conversion of PG
+MACVR.ZIP      51135 02-22-92 Schematic for MAC-to-powerglove interface
+NAVSPACE.ZIP   49931 01-02-92 C source and Postscript documentation for
+                              spatial naviagation using a PowerGlove
+OGLOVE.ZIP     38739 10-29-91 Enhanced source for powerglove interface
+PCVRJET.ZIP   139273 11-11-92 PCVR's Virtual Jet - requires PC, Powerglove,
+                              and Sega glasses
+PG_FAQ.ZIP     13213 05-05-93 sci.virtual-worlds newsgroup PowerGlove FAQ
+PG68HC11.ZIP   21608 00-15-92 Ron Menelli's Powerglove code for the 68HC11
+PGLOVE.ZIP      6176 10-16-91 Powerglove interface schematic & source
+PGTIMG.ZIP     19236 06-24-93 Hires GIF image of PowerGlove timing diagrams
+RACBALL.ZIP   185763 09-17-92 Virtual Racquet Ball - requires PC & powerglove
+------------------------------------------------------------------------------
+-- Reports and Papers --------------------------------------------------------
+------------------------------------------------------------------------------
+5BUCK_VR.ZIP    9260 03-02-93 Paper:VR on Five Dollars a Day by R. Pausch
+5D_REF.ZIP     33384 03-02-93 Reference manual to the 5D VR implementation
+AUTOCDK.ZIP     2874 06-25-93 Autodesk PR on the Cyberspace Developers Kit
+CDKVSWTK.ZIP    9661 05-05-93 Comparison of Autodesk's CDK & Sense8's WTK
+CH_VR.ZIP      10039 06-25-93 Report on VR research at W Industries by C. Hand
+CTERMDOC.ZIP   12752 06-23-93 Cyberterm VR protocol document
+CYBERTRM.ZIP   13716 05-02-92 Early proposal for the Cyberterm VR protocol
+CYBOOKS.ZIP    12966 08-30-92 Cyberpunk reading list (mostly fiction)
+DISINTRO.ZIP   25903 08-02-93 Introduction to the Distributed Interactive
+                              Simulation format
+DIS_12.ZIP     80858 08-02-93 Documentation and example C source for the DIS
+                              file format
+DM_HMD.ZIP      5943 06-23-93 Diego Montefusco's HMD listing
+GALIAS.ZIP    117376 08-02-93 Paper on the Galias anti-aliasing technique
+IBVA.ZIP        7080 06-08-93 Info on an Interactive Brainwave Visual Analyzer
+                              for the MAC
+INTROM.ZIP     29331 12-02-92 Text file introducing the concept of morphing
+JAPAN_ST.ZIP   17153 04-20-93 Kahaner report on Japan's Sci & Tech in VR field
+JAPAN01.ZIP    13325 01-11-92 Details on Japanese VR research at ATR
+JAPAN02.ZIP    21928 10-03-92 More information on Japanese VR research
+JL_VR.ZIP      15615 03-02-93 Paper: Implementing Virtual Reality by J. Lee
+JP_VEC.ZIP      5959 06-23-93 Paper: Virtual Egocenters & Display FOV by
+                              J. Psotka, Ph.D.
+JW_VR.ZIP      12479 06-25-93 Paper: Inside Virtual Reality by Jeremy Wolff
+LN_VR.ZIP       5929 03-02-93 Paper: We Need a New Language by L. Norskog
+MARS_VR.ZIP     5825 03-02-93 Paper: Virtual Mars? by S. Carlson, Ph.D.
+MED_VR.ZIP     27719 03-25-93 Paper: Virtual Reality:Medical Researches by
+                              G.Molendi & M.Patriarca
+OFFSPEC.ZIP    56215 08-02-93 Specifications for the OFF 3D object file format
+POLHEMUS.ZIP     609 05-05-93 Listing of patents covering Polhemus hardware
+RJ_1.ZIP        7802 03-02-93 R. Jacobson report on Virtual Reality research
+                              in Western Europe
+RJ_2.ZIP       14608 03-09-93 R. Jacobson report on Virtual Reality research
+                              in Sweden, Munich,and the EC
+RJ_3.ZIP       19071 03-09-93 R. Jacobson report on VR research in Japan
+RW_VR.ZIP      12628 06-23-93 Paper: A De Facto Anti-Standard for Cyberspace
+                              by R. Walser
+SCHOOLS.ZIP    49167 02-30-93 List of Schools doing VR related research
+SENSE8.ZIP      3878 08-02-93 Report on the Sense8 NFF file format specs
+TELEPRES.ZIP   28665 06-06-93 companies/people doing Telepresence research
+UNC_1.ZIP       3741 06-23-93 Report on VR research at UNC-Chapel Hill
+VOXEL_VR.ZIP    9794 03-02-93 Paper: Component Structure Systems by Lateiner
+VR_BIB.ZIP     28962 07-05-92 Unix format Bibliography of VR information
+VR_COMP.ZIP    70061 02-30-93 Information on companies that make VR gear
+VR_IA.ZIP      12835 00-18-93 Result of a VR immersion analysis study
+VR_SITES.ZIP    1450 02-15-93 Listing of VR archive sites on The Internet
+VRFAQ.ZIP       8691 03-07-93 Usenet sci.virtual-worlds FAQ
+VRFIN.ZIP      13468 05-15-94 Discussion of pros and cons of VR. File is in
+                              a word processor format (WORD? WP?)
+VRPAPER.ZIP   112053 07-29-91 Swiss research paper on VR (post script)
+VRPRIMER.ZIP    6622 06-24-93 Primer on the basics of VR by M. Wells
+WHATISVR.ZIP   31253 03-02-93 Paper: What is VR? A Homebrew Introduction
+------------------------------------------------------------------------------
+-- Simulation programs of a more traditional nature --------------------------
+------------------------------------------------------------------------------
+BCASE.ZIP     151080 06-24-88 Comprehensive business/market simulator
+BWBASIM.ZIP   133206 06-24-88 Business Week's simulation of MicroSoft
+CHEMICAL.ZIP  156527 11-14-87 Molecular modeling & simulation program for DOS
+COSMOS6.ZIP    93458 10-04-88 COSMOS Planetarium simulator v6.11L
+CURA22.ZIP     86308 10-25-91 SIR-method pest control simulation for Windows
+FIRESIMS.ZIP  326447 05-26-92 Firefighter training simulator
+FORDSIM1.ZIP  148977 00-28-88 Ford Motors - car simulator I
+FORDSIM2.ZIP  332578 10-20-89 Ford Motors - car simulator II
+GEP202C.ZIP   539374 10-18-92 Gepasi v2.02c metabolic pathway simulator for
+                              DOS/Windows
+GRAVITY2.ZIP   96685 03-12-90 Gravity v2.0 Planetary gravity simulator
+HYPER.ZIP       5848 03-25-86 Hypercube simulator based on Sci.Am. article
+IRFTBALL.ZIP   77859 07-25-87 Simulates football games using NFL data
+LAUNCHER.ZIP   48165 03-30-88 1-stage space vehicle launch simulator
+LE6_22.ZIP   1207266 09-13-88 Load-Energy-6 version 2.2. A DOS package that
+                              can simulate HVAC loads and energy conditions
+LSCS_V1.ZIP    23708 00-01-80 Large Scale Combat Simulator for ADD
+MARKET.ZIP     67326 11-08-84 Stock market simulation
+OAKFLAT3.ZIP  262489 11-12-93 The Oakflat Nuclear Power Plant Simulator v3.1
+                              A DOS interactive simulation of light-water,
+                              pressure fission reactor.
+ORBIT.ZIP     121407 01-28-91 Orbit propogation & orbital mechanic utilities
+                              w/source
+PARTY.ZIP      11185 07-23-87 Simulates peoples movements at party
+PENDULUM.ZIP  150544 01-02-94 Pendulum v3.1 is DOS program that simulates the
+                              movement of pendulum. User may alter suspension
+                              points, mass, gravity, and other factors.
+PERCOLAT.ZIP   16613 10-15-85 Simulation of percolation in 2 & 3 dimensions
+PROCESS1.ZIP   31337 05-08-91 Process control gravity tank simulator
+REACTOR.ZIP    84685 00-12-89 Nuclear reactor simulator
+RUSHHR.ZIP     33631 08-10-87 Rush hour traffic simulator
+SIMULATR.ZIP  142659 07-29-92 Common lisp TRUCKWORLD simulator UNIX TAR
+SOLAR.ZIP      34892 09-12-88 Crude Earth-moon orbital simulator DOS
+SOLSYS.ZIP     56587 06-23-89 Planetary system simulator with C src
+SFS101B.ZIP   254252 09-21-91 Space Flight Simulator v1.01 binaries for DOS
+SFS101S.ZIP   401266 06-26-93 SFS v1.01 source for all platforms
+SKYCHART.ZIP  193870 10-08-90 Planetarium like star map generator for OS/2
+SOP9338A.ZIP  246935 09-14-93 STS Orbit v.9338, orbit simulator, part 1 of 2
+SOP9338B.ZIP  246335 09-14-93 STS Orbit v.9338, orbit simulator, part 2 of 2
+SSIIM13.ZIP   853543 04-06-94 Sediment Simulation In Intakes with Multiblock
+                              version 1.3. An OS/2 based graphic simulator
+                              of river/hydraulic sedimentation equations.
+SSS.ZIP       295109 03-23-91 Simulation Subroutine Set - discrete event
+                              simulation library
+TEDDEMO2.ZIP  134456 04-23-90 Teddy v2.0 Kinetic gas model simulator
+TURING10.ZIP   26375 05-04-92 Classic turing machine simulator
+TUTSIM.ZIP     21978 01-21-89 Simulation of continuous dynamic systems
+WATOR.ZIP      13832 10-06-86 Wa-Tor planet simulator as described by A. K.
+                              Dewey in the Computer Recreations column of the
+                              December 1984 issue of Scientific American.
+WATORS.ZIP     21179 11-05-94 WaTor simulator implemented in Scheme. Two
+                              versions of the source are included: The first
+                              is coded in procedural style and the second in
+                              object-oriented style.
+WSSWIN.ZIP    154494 08-22-94 Wall Street Simulator for Windows from Larax
+                              Software. Realistic simulation of brokerage
+                              account. Allows trades using real price data.
+

@@ -1,0 +1,398 @@
+##############################################################################
+## Directory: \AI Artificial Intelligence                                   ##
+##############################################################################
+AI_DEF.ZIP      2647 05-29-91 Detailed definition of AI
+AI_DEMO.ZIP    25437 05-27-90 Undocumented AI program solves puzzle
+AI20.ZIP       33479 08-22-90 AI command line interpreter for DOS
+AIAUTHOR.ZIP  191116 10-08-89 AI program writes reports from data
+AIWORD.ZIP    139469 10-25-87 MindReader v1.02 AI word processor
+ANOSE.ZIP       4767 08-15-92 Artificial Noses - uses and sources
+EXTOL3.ZIP     72640 01-07-88 EXTOL V3.1 CAI (Comp. Aided Instruction)
+INSANITY.ZIP   28436 06-20-90 Funny attempt at an AI "knowledge base"
+ILS_RPT.ZIP    18614 01-09-93 Report on ILS & R. Schank by ex-employee
+KNOW30.ZIP     42625 00-01-80 AI knowledge base door for BBS use.
+LOEBNER1.ZIP   74118 05-17-92 Transcripts of the 1st annual Loebner contest
+MAILBOT.ZIP    69983 09-16-94 Information about MailBot, an intelligent mail
+                              processing agent for MS-Mail that can sort,
+                              filter, route, and resond to email. This file
+                              contains for ASCII and MS-Word documents.
+MENTIFEX.ZIP  380826 11-31-94 PAPER: Project Mentifex theories about a
+                              complete AI Mind
+MINSKY.ZIP     28151 06-20-93 Two of unpublished Marvin Minsky chapters
+                              from _The_Turing_Option_
+MIZAR22.ZIP   150649 07-04-92 Mizar v2.2 UNIX TAR & PC versions
+NTZ051.ZIP    173117 04-18-94 Notizer Database v0.5.1 - an AI-based personal
+                              database and "idea manager".
+ONTO10.ZIP    517115 05-17-92 Ontolingua Release 1.0 Lisp source code & docs
+PARAMI.ZIP    398052 06-10-94 Paramind, an AI-based brainstorming / ideation
+                              program designed for research institutes.
+PAIL21.ZIP   1033734 08-01-93 Personal AI lab v2.1 - Integrated toolkit of AI
+                              techniques
+WISDOM2.ZIP   219300 09-16-92 Wisdom v2. A DOS-based DJIA forecaster that
+                              claims to use a new, proprietary form of AI to
+                              learn that does not involve neural nets, fuzzy
+                              logic, expert system, or other conventional AI.
+ZIS10.ZIP      69858 04-03-91 Zeus Intelligence System v1.0
+------------------------------------------------------------------------------
+-- Japanese AI research & Fifth Generation Computer System project -----------
+------------------------------------------------------------------------------
+5THGEN.ZIP     13202 05-09-92 5th generation project - final report
+FGCS.ZIP       65959 04-04-93 Report on 5th GP by Prof. E. Tick
+JSEARCH.ZIP     1534 11-03-94 How to perform free searches of Japanese 
+                              databases via the National Science Foundation.
+PARALLEL.ZIP   14394 05-05-93 Kahaner report on Japanese AI research
+------------------------------------------------------------------------------
+-- Misc. AI resources --------------------------------------------------------
+------------------------------------------------------------------------------
+AI_BIB.ZIP    442981 06-20-92 Extensive bibliography of AI information
+AI_UE.ZIP      12081 09-26-92 AI tech reports available from Univ. Ediburgh
+AI_UGA.ZIP      5707 06-09-92 AI tech reports available from U.G.A.
+AIBKLST.ZIP     1352 01-09-92 Old AI ECHO reading list - update 2/1/92
+AICDREV1.ZIP   28895 07-31-92 Listing of files on the Rev 1 AI CD-ROM
+AICDREV2.ZIP   45191 09-14-93 Listing of files on the Rev 2 AI CD-ROM
+AIFAQ_F.ZIP    10545 11-04-94 Fidonet AI ECHO FAQ
+AIFAQ_U.ZIP   129866 05-25-94 Usenet comp.ai FAQ
+AIJOURNA.ZIP    2585 06-05-91 AI journals world-wide
+AIMAGIND.ZIP   12269 06-15-91 AI magazine article index
+AIORG.ZIP       3715 05-13-91 Worldwide AI organizations
+AISOFT.ZIP     22988 09-29-92 Mott Given's Internet AI software list
+DJC_BIB.ZIP    59313 07-04-93 D.J.Chalmer's bibliography on philosophy of
+                              mind and cognition
+GRADUATE.ZIP   10609 09-02-91 Information on AI graduate programs
+HCI_BIB.ZIP    13565 05-02-92 Bibliography of Human-Computer-Interaction info
+IMHO_FAQ.ZIP   24140 11-08-94 IMHO FAQ from comp.ai.  Jorn Barger's alternate
+                              AI FAQ.  Smaller and more fun than the "real"
+                              comp.ai FAQ.
+IUCOGSCI.ZIP    3104 07-04-93 Description of Indiana University Cognitive
+                              Science program
+LIDO.ZIP        3671 03-05-92 Info about the LIDO mailserver for AI literature
+LITEBULB.ZIP    1469 11-18-94 Finally, an explanation of how many AI people it
+                              will take to change a lightbulb!
+LOEBNER.ZIP     1720 09-04-91 Info on the Loebner AI contest & video
+NAECON.ZIP     12236 11-15-92 Paper on AI info. sources - NROFF format
+NTAAI93.ZIP    96426 04-25-93 Paper: Essential Info. Resources for AI
+PCCAT93D.ZIP  988822 07-10-93 Catalog on disk of NASA software available from
+                              COSMIC - US only version
+PCCAT93I.ZIP  736706 07-10-93 Catalog on disk of NASA software available from
+                              COSMIC - International version
+PHIL_FAQ.ZIP   14775 11-08-94 Usenet comp.ai.philosophy FAQ
+PHILOS.ZIP       657 10-15-90 Computer & Philosophy newsletter information
+SEIRPRTS.ZIP   88703 04-30-92 Software Engineering Institute report listing
+SWREPORT.ZIP   66275 10-28-91 Listing of software-related technical reports
+                              available on Internet
+------------------------------------------------------------------------------
+-- Cognition, Consciousness, Psychology & Philosophy -------------------------
+------------------------------------------------------------------------------
+ABRAIN.ZIP      5719 11-03-94 Paper:Overview of the Amphibian Brain by David
+                              Daniel Olmstead. Describes the functions of the
+                              various regions of an amphibian brain.
+AI_SELF.ZIP    17366 01-28-91 Paper:Concept of "self" in relation to AI
+AMPRO.ZIP      24593 10-04-94 PROlog implementation of Artificial Morality
+ASSERT.ZIP     50097 04-26-89 MSDOS program to test assertiveness
+ATMSAAAI.ZIP   93721 09-02-91 Assumption, justification, & logic truth
+                              maintenance systems
+BELIEF11.ZIP  158985 10-20-90 Belief v1.1 for Sun with Common Lisp source
+CFH1.ZIP       74886 07-04-93 Paper:High-Level Perception, Representation,
+                              and Analogy
+CLIFE.ZIP      32286 11-21-94 Transmigration Analysis v1.0. A DOS program that
+                              illustrates graphically the personal identity
+                              problem involved in downloading a mind from a
+                              brain into a computer
+DEPRESS.ZIP    55338 04-25-89 MSDOS program to test for depression
+DJC1.ZIP       19753 07-04-93 Paper: The Computational Foundation for the
+                              Study of Cognition
+DJC3.ZIP       59096 07-04-93 Paper: Consciousness and Cognition
+DJC5.ZIP       58873 07-04-93 Paper: Subsymbolic Computation and the Chinese
+                              Room
+FRENCH3.ZIP    34851 07-04-93 Paper: Subcognition and the Limits of the
+                              Turing Test
+GREGORC.ZIP    25196 00-01-80 MSDOS program to determine "Gregorc" style
+KEIRSEY.ZIP    67217 07-12-87 MSDOS program gives Keirsey temperament test
+MATTER.ZIP      8086 01-28-91 Paper:"Matter-as-mind" idea related to AI
+MBTYPE12.ZIP  113267 02-12-90 Basic source for a Myers-Briggs personality test
+MYERS.ZIP      21077 07-18-86 MSDOS EXE for a Myers-Briggs personality test
+------------------------------------------------------------------------------
+-- General AI related tutorials ----------------------------------------------
+------------------------------------------------------------------------------
+AITUTR.ZIP    130896 03-08-91 Tutorial covering ANNs, experts, NLP, etc.
+------------------------------------------------------------------------------
+-- Computer creativity, planning & reasoning ---------------------------------
+------------------------------------------------------------------------------
+12COIN.ZIP      2001 11-03-94 A description of the 12 Coin problem along with
+                              the solution and hints at coding approaches.
+                              ASCII text file.
+8QUEEN.ZIP     25585 11-05-94 DOS/VGA program solves the 8 Queens problem.
+ACM_GO.ZIP     27803 02-16-94 Paper:"Smart Game Board and Go Explorer: a study
+                              in software and knowledge engineering". by Chen,
+                              Kierulf, Nievergelt. From the Communcations of
+                              the ACM. Copied by permission of ACM.
+CHESS_PP.ZIP   72736 01-14-92 C src for Chess move pre-processor algorithm
+DECISION.ZIP   10742 05-11-91 Paper:The Decision making process
+DPS_NQ.ZIP     35836 07-29-92 Paper:Rivin/Zabih, Solution to n-Queens Problem
+GBB120.ZIP    825053 07-04-92 Generic BlackBoard system v.1.2.0 UNIX TAR
+HANOI.ZIP       1158 11-28-85 Pascal source for a Towers of Hanoi problem
+KEK_TSP.ZIP    57126 04-25-89 K.E. Knauss, Poor man's solution to traveling
+                              salesman problem
+MCGRAW3.ZIP   167055 07-04-93 Paper: McGraw & Hofstadter, Letter Spirit
+                              Project
+MCGRAW4.ZIP    36474 07-04-93 Paper: A Brief Synopsis of the Letter
+                              Spirit Project
+NEWTILEW.ZIP  316002 07-30-91 New TileWorld planning simulator - Allegro CL
+N_QUEENS.ZIP   48310 07-29-92 Paper: Rivin, Vardi, Zimmermann, The n-Queens
+                              Problem
+NTUMIN10.ZIP  283054 02-12-92 Demonstration of logic minimazation with 
+                              C source MSDOS & VAX
+SNLP.ZIP       23400 05-25-92 Systematic Non-Linear Planner UNIX TAR format
+SPA.ZIP        50781 03-21-92 The Systematic Plan Adapter UNIX TAR format
+THEO092B.ZIP 1368290 02-05-92 Theorist 0.9.2 / XTheorist 0.9.2beta
+TILEWRLD.ZIP   80666 07-29-92 New TileWorld description & critique PS format
+TSP.ZIP        15092 04-26-88 Differential equations used on the Traveling
+                              Salesman Problem
+TSP_SRC.ZIP    10712 04-28-92 Two different implementations of the Traveling
+                              Salesman Problem
+WANG1.ZIP      33866 07-04-93 Paper: Belief Revision in Probability Theory
+WANG2.ZIP      94561 07-04-93 Paper: Non-Axiomatic Reasoning System (NARS)
+WANG3.ZIP      78465 07-04-93 Paper: From Inheritance Relation to
+                              Non-Axiomatic Logic
+WANG4.ZIP      38836 07-04-93 Paper: A Defect in Dempster-Shafer Theory
+------------------------------------------------------------------------------
+-- AI Expert Magazine source code --------------------------------------------
+------------------------------------------------------------------------------
+AIEXPERT.ZIP    7128 02-12-91 AI Expert magzine writer's guide
+AIE8607.ZIP    41700 07-29-86 AI Expert magazine code Jul 86 (premier issue)
+AIE8610.ZIP    60371 07-21-86 AI Expert magazine code Oct 86
+AIE8611.ZIP    35750 09-06-86 AI Expert magazine code Nov 86
+AIE8612.ZIP    30271 10-28-86 AI Expert magazine code Dec 86
+AIE8701.ZIP   102311 11-18-86 AI Expert magazine code Jan 87
+AIE8702.ZIP     7167 00-30-87 AI Expert magazine code Feb 87
+AIE8703.ZIP     9273 01-20-87 AI Expert magazine code Mar 87
+AIE8704.ZIP    36979 02-12-87 AI Expert magazine code Apr 87
+AIE8705.ZIP    40000 03-20-87 AI Expert magazine code May 87
+AIE8706.ZIP    20937 04-19-87 AI Expert magazine code Jun 87
+AIE8707.ZIP    15243 05-18-87 AI Expert magazine code Jul 87
+AIE8708.ZIP    37962 05-16-87 AI Expert magazine code Aug 87
+AIE8709.ZIP    72096 08-28-90 AI Expert magazine code Sep 87
+AIE8710.ZIP     4377 08-23-87 AI Expert magazine code Oct 87
+AIE8711.ZIP    26612 07-25-87 AI Expert magazine code Nov 87
+AIE8712.ZIP     4263 00-21-88 AI Expert magazine code Dec 87
+AIE8801.ZIP    41802 11-15-87 AI Expert magazine code Jan 88
+AIE8802.ZIP    10309 00-19-88 AI Expert magazine code Feb 88
+AIE8803.ZIP     3129 01-29-88 AI Expert magazine code Mar 88
+AIE8804.ZIP     4952 02-25-88 AI Expert magazine code Apr 88
+AIE8808.ZIP    40494 06-23-88 AI Expert magazine code Aug 88
+AIE8811.ZIP    17749 10-07-88 AI Expert magazine code Nov 88
+AIE8812.ZIP    28673 11-05-88 AI Expert magazine code Dec 88
+AIE8901.ZIP    32021 04-04-88 AI Expert magazine code Jan 89
+AIE8905.ZIP    37554 02-29-89 AI Expert magazine code May 89
+AIE8906.ZIP    16366 07-19-88 AI Expert magazine code Jun 89
+AIE8907.ZIP    12338 04-04-88 AI Expert magazine code Jul 89
+AIE8908.ZIP     6657 04-04-88 AI Expert magazine code Aug 89
+AIE8909.ZIP     9632 08-01-89 AI Expert magazine code Sep 89
+AIE8910.ZIP     7250 09-03-89 AI Expert magazine code Oct 89
+AIE8911.ZIP   161133 05-13-90 AI Expert magazine code Nov 89
+AIE8912.ZIP   113073 07-04-89 AI Expert magazine code Dec 89
+AIE9001.ZIP    59869 11-27-89 AI Expert magazine code Jan 90
+AIE9002.ZIP   337252 01-01-90 AI Expert magazine code Feb 90
+AIE9003.ZIP   111550 02-01-90 AI Expert magazine code Mar 90
+AIE9004.ZIP     1876 03-02-90 AI Expert magazine code Apr 90
+AIE9006.ZIP    83992 01-23-90 AI Expert magazine code Jun 90
+AIE9008.ZIP     5978 07-14-90 AI Expert magazine code Aug 90
+AIE9009.ZIP   139954 08-17-90 AI Expert magazine code Sep 90
+AIE9010.ZIP    61926 09-01-90 AI Expert magazine code Oct 90
+AIE9011.ZIP   216908 09-11-90 AI Expert magazine code Nov 90
+AIE9012.ZIP    97522 00-29-91 AI Expert magazine code Dec 90
+AIE9101.ZIP     6991 00-29-91 AI Expert magazine code Jan 91
+AIE9102.ZIP     9667 02-06-91 AI Expert magazine code Feb 91
+AIE9103.ZIP     2488 03-03-91 AI Expert magazine code Mar 91
+AIE9104.ZIP    21879 03-03-91 AI Expert magazine code Apr 91
+AIE9106.ZIP     1516 03-24-92 AI Expert magazine code Jun 91
+AIE9107.ZIP     2225 03-24-92 AI Expert magazine code Jul 91
+AIE9108.ZIP     3262 03-24-92 AI Expert magazine code Aug 91
+AIE9109.ZIP     3168 07-22-91 AI Expert magazine code Sep 91
+AIE9110.ZIP     2088 03-24-92 AI Expert magazine code Oct 91
+AIE9111.ZIP   115278 04-18-92 AI Expert magazine code Nov 91
+AIE9112.ZIP     1742 03-24-92 AI Expert magazine code Dec 91
+AIE9202.ZIP    48528 04-18-92 AI Expert magazine code Feb 92
+AIE9203.ZIP     7000 04-18-92 AI Expert magazine code Mar 92
+AIE9204.ZIP     1794 04-18-92 AI Expert magazine code Apr 92
+AIE9206.ZIP     2561 04-18-92 AI Expert magazine code Jun 92 (last issue for
+                              which a compilation archive was released)
+------------------------------------------------------------------------------
+-- AI List - All the surviving issues we could locate. If anyone knows the ---
+-- whereabouts of any additional issues, we'd like to have copies of them. ---
+------------------------------------------------------------------------------
+AI07_002.ZIP   12774 07-29-92 AI List Volume 07, Issue 002
+AI07_003.ZIP   13131 07-29-92 AI List Volume 07, Issue 003
+AI07_004.ZIP   18995 07-29-92 AI List Volume 07, Issue 004
+AI07_005.ZIP   15389 07-29-92 AI List Volume 07, Issue 005
+AI07_006.ZIP   18325 07-29-92 AI List Volume 07, Issue 006
+AI07_007.ZIP    7122 07-29-92 AI List Volume 07, Issue 007
+AI07_008.ZIP   20707 07-29-92 AI List Volume 07, Issue 008
+AI07_009.ZIP   25881 07-29-92 AI List Volume 07, Issue 009
+AI07_010.ZIP    7410 07-29-92 AI List Volume 07, Issue 010
+AI07_011.ZIP   10510 07-29-92 AI List Volume 07, Issue 011
+AI07_012.ZIP    7056 07-29-92 AI List Volume 07, Issue 012
+AI07_013.ZIP   21625 07-29-92 AI List Volume 07, Issue 013
+AI07_014.ZIP   19305 07-29-92 AI List Volume 07, Issue 014
+AI07_015.ZIP    8019 07-29-92 AI List Volume 07, Issue 015
+AI07_016.ZIP    4638 07-29-92 AI List Volume 07, Issue 016
+AI07_017.ZIP   11376 07-29-92 AI List Volume 07, Issue 017
+AI07_018.ZIP    7397 07-29-92 AI List Volume 07, Issue 018
+AI07_019.ZIP   12105 07-29-92 AI List Volume 07, Issue 019
+AI07_020.ZIP    6215 07-29-92 AI List Volume 07, Issue 020
+AI07_021.ZIP    9486 07-29-92 AI List Volume 07, Issue 021
+AI07_022.ZIP    4306 07-29-92 AI List Volume 07, Issue 022
+AI07_023.ZIP   11074 07-29-92 AI List Volume 07, Issue 023
+AI07_024.ZIP    7100 07-29-92 AI List Volume 07, Issue 024
+AI07_025.ZIP   11205 07-29-92 AI List Volume 07, Issue 025
+AI07_026.ZIP    8276 07-29-92 AI List Volume 07, Issue 026
+AI07_027.ZIP    9462 07-29-92 AI List Volume 07, Issue 027
+AI07_028.ZIP    6300 07-29-92 AI List Volume 07, Issue 028
+AI07_029.ZIP    8502 07-29-92 AI List Volume 07, Issue 029
+AI07_030.ZIP    6223 07-29-92 AI List Volume 07, Issue 030
+AI07_031.ZIP   24961 07-29-92 AI List Volume 07, Issue 031
+AI07_032.ZIP    3902 07-29-92 AI List Volume 07, Issue 032
+AI07_033.ZIP    4719 07-29-92 AI List Volume 07, Issue 033
+AI07_034.ZIP    2859 07-29-92 AI List Volume 07, Issue 034
+AI07_035.ZIP    7779 07-29-92 AI List Volume 07, Issue 035
+AI07_036.ZIP   16595 07-29-92 AI List Volume 07, Issue 036
+AI07_037.ZIP    6093 07-29-92 AI List Volume 07, Issue 037
+AI07_038.ZIP    4962 07-29-92 AI List Volume 07, Issue 038
+AI07_039.ZIP    7459 07-29-92 AI List Volume 07, Issue 039
+AI07_040.ZIP    7247 07-29-92 AI List Volume 07, Issue 040
+AI07_041.ZIP    8708 07-29-92 AI List Volume 07, Issue 041
+AI07_042.ZIP    6669 07-29-92 AI List Volume 07, Issue 042
+AI07_043.ZIP   13335 07-29-92 AI List Volume 07, Issue 043
+AI07_044.ZIP    4504 07-29-92 AI List Volume 07, Issue 044
+AI07_045.ZIP    4673 07-29-92 AI List Volume 07, Issue 045
+AI07_046.ZIP    5795 07-29-92 AI List Volume 07, Issue 046
+AI07_047.ZIP    5243 07-29-92 AI List Volume 07, Issue 047
+AI07_048.ZIP    2735 07-29-92 AI List Volume 07, Issue 048
+AI07_049.ZIP    4992 07-29-92 AI List Volume 07, Issue 049
+------------------------------------------------------------------------------
+AI08_001.ZIP    4603 07-29-92 AI List Volume 08, Issue 001
+AI08_002.ZIP   10142 07-29-92 AI List Volume 08, Issue 002
+AI08_003.ZIP   11293 07-29-92 AI List Volume 08, Issue 003
+AI08_004.ZIP    4855 07-29-92 AI List Volume 08, Issue 004
+AI08_005.ZIP   11361 07-29-92 AI List Volume 08, Issue 005
+AI08_006.ZIP    6021 07-29-92 AI List Volume 08, Issue 006
+AI08_007.ZIP   17104 07-29-92 AI List Volume 08, Issue 007
+AI08_008.ZIP    8729 07-29-92 AI List Volume 08, Issue 008
+AI08_009.ZIP   10766 07-29-92 AI List Volume 08, Issue 009
+AI08_010.ZIP    9695 07-29-92 AI List Volume 08, Issue 010
+AI08_011.ZIP    3204 07-29-92 AI List Volume 08, Issue 011
+AI08_012.ZIP   10646 07-29-92 AI List Volume 08, Issue 012
+AI08_013.ZIP    8726 07-29-92 AI List Volume 08, Issue 013
+AI08_014.ZIP    6993 07-29-92 AI List Volume 08, Issue 014
+AI08_015.ZIP    3133 07-29-92 AI List Volume 08, Issue 015
+AI08_016.ZIP    4307 07-29-92 AI List Volume 08, Issue 016
+AI08_017.ZIP    9017 07-29-92 AI List Volume 08, Issue 017
+AI08_018.ZIP    6548 07-29-92 AI List Volume 08, Issue 018
+AI08_019.ZIP    2153 07-29-92 AI List Volume 08, Issue 019
+AI08_020.ZIP    4663 07-29-92 AI List Volume 08, Issue 020
+AI08_021.ZIP    5909 07-29-92 AI List Volume 08, Issue 021
+AI08_022.ZIP    5991 07-29-92 AI List Volume 08, Issue 022
+AI08_023.ZIP    8289 07-29-92 AI List Volume 08, Issue 023
+AI08_024.ZIP    6843 07-29-92 AI List Volume 08, Issue 024
+AI08_025.ZIP    7483 07-29-92 AI List Volume 08, Issue 025
+AI08_026.ZIP   13845 07-29-92 AI List Volume 08, Issue 026
+AI08_027.ZIP    6198 07-29-92 AI List Volume 08, Issue 027
+AI08_028.ZIP    6468 07-29-92 AI List Volume 08, Issue 028
+AI08_029.ZIP    8362 07-29-92 AI List Volume 08, Issue 029
+AI08_030.ZIP    3408 07-29-92 AI List Volume 08, Issue 030
+AI08_031.ZIP    7942 07-29-92 AI List Volume 08, Issue 031
+AI08_032.ZIP    3028 07-29-92 AI List Volume 08, Issue 032
+AI08_033.ZIP    6846 07-29-92 AI List Volume 08, Issue 033
+AI08_034.ZIP    5485 07-29-92 AI List Volume 08, Issue 034
+AI08_035.ZIP    3332 07-29-92 AI List Volume 08, Issue 035
+AI08_036.ZIP    4252 07-29-92 AI List Volume 08, Issue 036
+AI08_037.ZIP    2317 07-29-92 AI List Volume 08, Issue 037
+AI08_038.ZIP    4479 07-29-92 AI List Volume 08, Issue 038
+AI08_039.ZIP    6752 07-29-92 AI List Volume 08, Issue 039
+AI08_040.ZIP    4834 07-29-92 AI List Volume 08, Issue 040
+AI08_041.ZIP    2969 07-29-92 AI List Volume 08, Issue 041
+AI08_042.ZIP    2521 07-29-92 AI List Volume 08, Issue 042
+AI08_043.ZIP    4583 07-29-92 AI List Volume 08, Issue 043
+AI08_044.ZIP    6538 07-29-92 AI List Volume 08, Issue 044
+AI08_045.ZIP    8182 07-29-92 AI List Volume 08, Issue 045
+AI08_046.ZIP    5929 07-29-92 AI List Volume 08, Issue 046
+AI08_047.ZIP    9249 07-29-92 AI List Volume 08, Issue 047
+AI08_048.ZIP    4119 07-29-92 AI List Volume 08, Issue 048
+AI08_049.ZIP    9115 07-29-92 AI List Volume 08, Issue 049
+AI08_050.ZIP    4577 07-29-92 AI List Volume 08, Issue 050
+AI08_051.ZIP    4688 07-29-92 AI List Volume 08, Issue 051
+AI08_052.ZIP    3082 07-29-92 AI List Volume 08, Issue 052
+AI08_053.ZIP    6199 07-29-92 AI List Volume 08, Issue 053
+AI08_054.ZIP    5669 07-29-92 AI List Volume 08, Issue 054
+AI08_055.ZIP    5850 07-29-92 AI List Volume 08, Issue 055
+AI08_056.ZIP    6501 07-29-92 AI List Volume 08, Issue 056
+AI08_057.ZIP    3182 07-29-92 AI List Volume 08, Issue 057
+AI08_058.ZIP    6505 07-29-92 AI List Volume 08, Issue 058
+AI08_059.ZIP    3068 07-29-92 AI List Volume 08, Issue 059
+AI08_060.ZIP    3720 07-29-92 AI List Volume 08, Issue 060
+AI08_061.ZIP    3184 07-29-92 AI List Volume 08, Issue 061
+AI08_062.ZIP    4845 07-29-92 AI List Volume 08, Issue 062
+AI08_063.ZIP    4983 07-29-92 AI List Volume 08, Issue 063
+AI08_064.ZIP    6183 07-29-92 AI List Volume 08, Issue 064
+AI08_065.ZIP    7286 07-29-92 AI List Volume 08, Issue 065
+AI08_066.ZIP    6533 07-29-92 AI List Volume 08, Issue 066
+AI08_067.ZIP    4864 07-29-92 AI List Volume 08, Issue 067
+AI08_070.ZIP    3483 07-29-92 AI List Volume 08, Issue 070
+AI08_072.ZIP    7861 07-29-92 AI List Volume 08, Issue 072
+AI08_086.ZIP    6405 07-29-92 AI List Volume 08, Issue 086
+AI08_095.ZIP    9180 07-29-92 AI List Volume 08, Issue 095
+AI08_096.ZIP    5273 07-29-92 AI List Volume 08, Issue 096
+AI08_097.ZIP    4464 07-29-92 AI List Volume 08, Issue 097
+AI08_106.ZIP    6413 07-29-92 AI List Volume 08, Issue 106
+AI08_107.ZIP    7350 07-29-92 AI List Volume 08, Issue 107
+AI08_108.ZIP    7572 07-29-92 AI List Volume 08, Issue 108
+AI08_109.ZIP    5039 07-29-92 AI List Volume 08, Issue 109
+AI08_110.ZIP    4301 07-29-92 AI List Volume 08, Issue 110
+AI08_111.ZIP    9096 07-29-92 AI List Volume 08, Issue 111
+AI08_112.ZIP    4490 07-29-92 AI List Volume 08, Issue 112
+AI08_114.ZIP    8376 07-29-92 AI List Volume 08, Issue 114
+AI08_115.ZIP    6359 07-29-92 AI List Volume 08, Issue 115
+AI08_116.ZIP    6412 07-29-92 AI List Volume 08, Issue 116
+AI08_117.ZIP    5656 07-29-92 AI List Volume 08, Issue 117
+AI08_118.ZIP   16069 07-29-92 AI List Volume 08, Issue 118
+AI08_119.ZIP    5192 07-29-92 AI List Volume 08, Issue 119
+AI08_120.ZIP    5491 07-29-92 AI List Volume 08, Issue 120
+AI08_121.ZIP    7836 07-29-92 AI List Volume 08, Issue 121
+AI08_122.ZIP    8102 07-29-92 AI List Volume 08, Issue 122
+AI08_123.ZIP   17951 07-29-92 AI List Volume 08, Issue 123
+AI08_124.ZIP    4973 07-29-92 AI List Volume 08, Issue 124
+AI08_125.ZIP    8058 07-29-92 AI List Volume 08, Issue 125
+AI08_126.ZIP   11098 07-29-92 AI List Volume 08, Issue 126
+AI08_127.ZIP    9642 07-29-92 AI List Volume 08, Issue 127
+AI08_128.ZIP    4868 07-29-92 AI List Volume 08, Issue 128
+AI08_130.ZIP    6876 07-29-92 AI List Volume 08, Issue 130
+AI08_131.ZIP    8677 07-29-92 AI List Volume 08, Issue 131
+AI08_132.ZIP    6369 07-29-92 AI List Volume 08, Issue 132
+AI08_133.ZIP    7045 07-29-92 AI List Volume 08, Issue 133
+AI08_134.ZIP    5274 07-29-92 AI List Volume 08, Issue 134
+AI08_135.ZIP    7705 07-29-92 AI List Volume 08, Issue 135
+AI08_136.ZIP    8650 07-29-92 AI List Volume 08, Issue 136
+AI08_137.ZIP    5856 07-29-92 AI List Volume 08, Issue 137
+AI08_138.ZIP    5873 07-29-92 AI List Volume 08, Issue 138
+AI08_140.ZIP    7297 07-29-92 AI List Volume 08, Issue 140
+AI08_141.ZIP    2917 07-29-92 AI List Volume 08, Issue 141
+AI08_142.ZIP    4058 07-29-92 AI List Volume 08, Issue 142
+AI08_143.ZIP    3706 07-29-92 AI List Volume 08, Issue 143
+------------------------------------------------------------------------------
+AI09_001.ZIP   10100 07-29-92 AI List Volume 09, Issue 001
+AI09_002.ZIP   10543 07-29-92 AI List Volume 09, Issue 002
+AI09_003.ZIP   17265 07-29-92 AI List Volume 09, Issue 003
+AI09_004.ZIP   12061 07-29-92 AI List Volume 09, Issue 004
+AI09_005.ZIP    9122 07-29-92 AI List Volume 09, Issue 005
+AI09_006.ZIP   10821 07-29-92 AI List Volume 09, Issue 006
+AI09_007.ZIP   20430 07-29-92 AI List Volume 09, Issue 007
+AI09_008.ZIP   18801 07-29-92 AI List Volume 09, Issue 008
+AI09_009.ZIP   30172 07-29-92 AI List Volume 09, Issue 009
+AI09_010.ZIP   13188 07-29-92 AI List Volume 09, Issue 010
+AI09_011.ZIP    5756 07-29-92 AI List Volume 09, Issue 011
+AI09_012.ZIP   16722 07-29-92 AI List Volume 09, Issue 012
+AI09_013.ZIP    7728 07-29-92 AI List Volume 09, Issue 013
+AI09_014.ZIP    5633 07-29-92 AI List Volume 09, Issue 014
+AI09_015.ZIP   16210 07-29-92 AI List Volume 09, Issue 015
+AI09_016.ZIP   17632 07-29-92 AI List Volume 09, Issue 016 [Final Issue]
+

@@ -1,0 +1,105 @@
+##############################################################################
+## Directory: \LISP                                                         ##
+##############################################################################
+32XLISP.ZIP   169413 03-30-91 32bit OS/2 2.0 vers of Betz' Xlisp 2.1
+ADLER.ZIP      26252 10-25-86 Lisp interpreter by M. Adler
+APTERY.ZIP    207174 01-28-94 Apteryx Common LISP for Window v1.01. From
+                              Apteryx Lisp, Ltd in New Zealand.
+CLCP.ZIP       57803 09-09-90 Common LISP Compatibility Package for PC Scheme.
+                              Turns PC Scheme into LISP by translating a
+                              subset of CL commands. Version 3.02
+CLISPDOS.ZIP 1394066 10-28-94 DOS implementation of CLISP Common Lisp
+CLISPOS2.ZIP 1150036 08-28-94 32bit OS/2 implementation of CLICP Common Lisp
+CLISPE.ZIP    242207 11-10-91 Common LISP for the ATARI (CLtL 1)
+CLISPSRC.ZIP 2720484 01-27-94 Full source code to CLISP Common Lisp
+CM15.ZIP      549215 08-07-93 *LISP simulator for UNIX and MAC in UNIX TAR
+FOOLS132.ZIP  102382 07-23-92 Fools Lisp v1.3.2 source in UNIX TAR format
+ILISP.ZIP      98281 04-28-86 Z80 CP/M Lisp w/SCHEME extensions
+KALYPSO1.ZIP  207323 07-15-89 Portable C src for Kalypso 1 LISP interpreter
+LISP217.ZIP   138076 02-30-89 PC-LISP v2.17 with many examples
+NISP0992.ZIP  385384 09-12-92 Neutral Lisp macros for Common or "T" Lisp
+OPS5TAR.ZIP    33400 06-12-92 PD Unix Common Lisp src for OPS5
+OS2XLISP.ZIP  169283 06-28-88 XLISP V2.0 for OS/2 by Dave Betz
+OS2XLSP1.ZIP   87556 06-28-88 OS/2 port of XLISP by Andrew Schulman
+PASLISP.ZIP     6084 04-27-85 Pascal source for Lisp interpreter
+PCL.ZIP       405862 05-09-89 Portable Common Loops from Xerox AI Systems
+PCLMAC.HQX    420072 11-21-94 Portable Common Loops for Macintosh computers
+PCLSP3.ZIP    151666 08-12-91 PC-LISP v3.02 program/doc update
+MULISP.ZIP     13290 06-02-94 Text files describing MuLISP-90 for the PC
+NLISP30.ZIP   175912 10-01-94 NewLISP version 3.0 for Windows from Interdata
+                              Development Group.
+TP_LISP.ZIP     6093 04-27-85 Simple Lisp interpreter in Turbo Pascal
+TRANS100.ZIP  199386 01-26-87 TRANSLISP v1.00 + Many DOCS & examples
+TRANS102.ZIP  156882 04-07-87 TRANSLISP v1.02 EXEs (faster than 1.00)
+TRANSLSP.ZIP   90275 07-23-92 TRANSLISP in UNIX TAR format
+VTLISP.ZIP     19120 01-02-87 AI Expert Very Tiny LISP interpreter V2.0
+WINLISP.ZIP   268460 10-02-89 Lisp interpreter for MS Windows
+XL21ALMY.ZIP  669216 03-12-91 Dave Betz' XLISP 2.1 w/ Tom Almy extras
+XLISP20.ZIP   175778 03-01-89 XLISP 2.0 Lisp interpreter
+XLISP21D.ZIP  841667 05-04-92 Complete v2.1d of Tom Almy's XLISP-PLUS
+XLSP21EX.ZIP   64826 03-14-91 Xlisp 2.1 compiled (no docs)
+XLSP21PC.ZIP   94305 03-23-89 Xlisp 2.1 compiled (with docs)
+XLSP21TC.ZIP  152175 03-14-91 Xlisp 2.1 Turbo 'C' source
+XLSP2REF.ZIP  112064 11-11-89 Xlisp 2 reference & object primer
+XLSPM201.HQX  156242 11-21-94 Xlisp v2.01 executables for the Macintosh
+------------------------------------------------------------------------------
+-- Lisp/Xlisp libraries, utilities, and programs -----------------------------
+------------------------------------------------------------------------------
+ADALISP.ZIP   101719 04-03-88 LISP extensions for ADA
+BLACKBRD.ZIP    3164 11-16-91 Simple Blackboard system example
+BROWSE.ZIP      1945 11-05-94 A CLOS Class Hierarchy, Method, and Slot browser
+                              for Allegro CL/PC
+CALCLISP.ZIP    2149 09-12-88 Simple calculator implemented in LISP
+CHECKLSP.ZIP    3259 04-12-89 Check LISP - LISP syntax checker
+CLICC062.ZIP 1113682 01-04-94 CLiCC v0.6.2. DOS compatible port of source code
+                              for the Common Lisp to C compiler.
+CLICC064.ZIP 1506957 06-23-94 CLiCC v0.6.4. Common Lisp to C Compiler. Main
+                              source code package. This program generates
+                              C executables from common Lisp source code.
+CLXR5.ZIP     257911 08-18-91 Common LISP X-Windos library source version 5
+CMULISP.ZIP   732366 06-12-92 Lisp source from CMU archive site
+CORALTK1.HQX   46214 11-18-94 Coral Common LISP Toolkit #1, a shareware LISP
+                              Library for the Macintosh. 15% of the tools are
+                              available in now and access to the remainder is
+                              provided when the user registers. Includes a
+                              graphic function call browser and file/class
+                              tree browser.
+CSA317.ZIP     30033 04-22-87 Catagorical Syllogism Analyzer v3.17
+ENIGMA.ZIP      2476 11-05-94 LISP source to simulate the ENIGMA code machine
+                              A simplified, single-rotor version of the ENIGMA
+                              is simulated and sample data is provided to
+                              verify that the program is working.
+EXAMPLES.ZIP  116160 10-23-91 A collection of LISP programming examples on
+                              various mathematical themes.  No documentation
+                              and comments are non-English.  Incluse the
+                              XEROX closette mini-CLOS implementation.
+FLISPTLS.ZIP  207776 02-01-88 Franz Lisp tools-src from Franz, Inc.
+FROBS23.ZIP   206826 07-05-92 Frobs v2.3 Frame/Object structure UNIX TAR
+FROLC116.ZIP  168958 07-05-92 Frolic v1.16 Frobs+Logic UNIX TAR
+GO05.ZIP        9121 11-05-94 GO implemented in XLISP by George Acton
+GTOOLSET.ZIP  575153 08-08-93 OSU LAIR Generic Task Toolset Release 1.1-DoD
+LCK.ZIP        18196 07-01-87 Lisp ChecKer v1.0b - source code checker
+LSOCKETS.ZIP   19572 06-12-92 Socket communications with lisp
+LSPBEN.ZIP     36950 12-02-86 A collection of LISP benchmarks. Includes the
+                              Gabriel suite and Boyer benchmark.
+MATSTAT3.ZIP   42665 10-01-94 Dynamic Link Libraries for newLISP 3.x that
+                              provide matrix and statistical functions.
+MVL.ZIP       254970 07-05-92 Source & Docs for MultiValueLogic UNIX TAR
+PSGRAPH.ZIP     7583 06-12-92 PSgrapher - creates post-script graphs
+QSIM20.ZIP   1560049 07-22-92 QSIM v2.0 LISP source in UNIX TAR format
+QUINE.ZIP      18010 11-02-92 Lisp source for the Quine Algorithm
+SUZY.ZIP       13108 06-23-86 Latin<->English Ditionary for PC-Lisp
+UFG11.ZIP      22304 05-05-87 Xlisp universal game playing functions v1.1
+UL_203.ZIP    212276 02-11-90 Xlisp 2.0 extensions & function library
+USERXM.ZIP     10212 11-05-94 Created LISP program documentation from the
+                              programmer documentation within the routines.
+XMATH.ZIP       3536 05-30-88 Implements math functions for Xlisp
+XPTAR.ZIP      69586 06-12-92 XP Pretty Printer-R.C.Waters-11/26/91
+------------------------------------------------------------------------------
+-- Lisp Tutorials and text files ---------------------------------------------
+------------------------------------------------------------------------------
+AUTOLISP.ZIP   13877 08-17-88 Discusion of Autodesk's AutoLISP
+CRASH.ZIP       9081 03-04-88 Michael A. Covington's "Crash Course in Lisp"
+                              A very old (1985) ASCII file with hints for
+                              users of "old fashioned LISP implementations"
+

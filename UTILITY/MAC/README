@@ -1,0 +1,63 @@
+WELCOME TO THE AI CD-ROM REVISION 3!
+
+The AI CD-ROM is the original and most complete collection of files about
+artificial intelligence and other advanced machine technologies available.
+Unlike many other CD-ROMs that are around today, this one is not a disk
+image of single Internet or BBS site or but a collection of files individually
+gathered from all over the world, from many different Internet sites, public
+and private research organizations, universities, BBS systems and individual
+researchers.
+
+On this new revision of the AI CD-ROM are over 4,000 archives containing more
+than 40,000 individual files.  Many of the files that were on the revision 1
+and revision 2 discs have been replaced with newer versions and there are
+also many completely new files that have been added to this new revision.
+A small number of files that were present on earlier revisions have been
+removed either because they were time sensitive and no longer of any interest
+or because of copyright conflicts or other legal reasons.  We have included
+more OS/2 and Macintosh material in this revision due to user requests but
+continue to add files for all platforms.
+
+Getting started:
+
+Getting things going with Macintosh is a little tricky because we are not able
+to put native Macintosh files onto a standard ISO-9660 format disc.  We have
+included all of the utilities you will need to get started in self-extracting
+archive and put them on the disc in two different formats.  Before you can
+start using the disc, you will need to install these utilities on your Mac.
+
+We have converted the Utility archive into two different formats that are
+transportable to non-Macintosh disks such as this CD-ROM.  To install them,
+you will need to be able convert at least one of the two.  One is in a format
+called BinHex 4.0 - the filename is MACUTILS.HQX - and the other file is in a
+format called MacBinary - the filename is MACUTILS.BIN.  Fortunately there are
+many Macintosh applications that can read and convert the formats back into
+standard Mac files.  Probably one of the most common is Stuffit Deluxe.  Other
+Mac applications that can translate one or both of these file formats include
+most file format translator utilities such as MacLink Plus file exchange.
+
+Here's what you need to do:
+
+First, check to see if any of your existing Mac programs can translate a
+MacBinary or BinHex file.
+
+If none if your applications have the ability to read either MacBinary or
+BinHex format files, don't give up!  If your Mac has a modem you can obtain
+utilities to do the conversion on virtually any online service such as
+Compuserve, Prodigy, America Online, Internet, and most Mac-oriented bulletin
+board systems.  Network Cybernetics operates a BBS that you can reach at
+214-258-1832 that has the utilities available for download as well.  Also,
+you can probably find someone who has them at any Mac user group - or check
+with the local Mac "power user" at your school or office.  If all else fails,
+please give us a call at 214-650-2002 and we will try to help you out.
+
+Once you have a utility that can convert one of the two formats (the files are
+identical, so you only need to be able to convert one of them - you don't need
+to convert them both!), convert the file and place the resulting
+self-extracting archive on your Macs hard disk.  Extract the contents of this
+archive and the result will be a folder called "AI CD-ROM Utilities".
+
+If you've gotten this far, the hard part is over.  You should see a file in
+the new folder entitled "READ ME 1st!".  Double click on this and it will
+have further help for getting you started exploring the AI CD-ROM.
+

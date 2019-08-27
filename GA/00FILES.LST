@@ -1,0 +1,353 @@
+##############################################################################
+## Directory: \GA                                                           ##
+##############################################################################
+AIX_GA.ZIP      5117 01-05-93 C++ Genetic Algorthim source code from Larry
+                              O'Brien's Expert Toolbox column in AI Expert.
+                              From the August, 1991 issue.
+BUGS.ZIP       95371 08-17-92 Better to Use Genetic System for SUN, XWindows,
+                              and UNIX
+CDARWIN2.ZIP  134373 06-14-92 Slide-show type demonstration Novacast's program
+                              for working with genetic algorithms - called
+                              C Darwin II
+DDJGA01.ZIP    36493 04-30-91 GA code from Doctor Dobb's Journal 4/91
+EOS.ZIP       961800 12-01-93 Evolutionairy Object System Sample disk and
+                              white paper from Man Machine Interfaces. EOS is
+                              DOS/Windows genetic algorithm environment and
+                              the white paper is in AMI Pro format.
+EOSVBX.ZIP    620937 12-22-93 EOS-VBX, a genetic algorithm custom control for
+                              Visual Basic. This demo is a Visual Basic 
+                              implementation of the traveling salesman problem
+                              for DOS/Windows platforms.
+EVO_21.ZIP     40219 02-04-94 Evolver 2.1 update from Axcelis, Inc. This is an
+                              upgrade for users of the Axcelis, Inc. Evolver
+                              program that provides compatibility with Excel
+                              version 5.
+EVO_VB.ZIP     34163 01-10-94 Sample Visual Basic calls to the Evolver library
+                              functions from Axcelis, Inc. For Evolver users.
+GA_FAQ.ZIP     48250 04-13-93 Usenet comp.ai.genetic FAQ
+GA_PUBS.ZIP     1199 07-05-93 Ordering info on GA conf. proceedings and books
+GA_SW.ZIP      12467 07-05-93 Genetic Algorithm software listing
+GADEMO.ZIP     76162 09-28-92 Demo of MicroGA for Windows that solves the
+                              traveling salesman problem. MicroGA is a C++
+                              object-oriented framework for GA problem solving
+GANNDOS.ZIP     7880 11-05-94 DOS Smalltalk source code implementing a GA that
+                              solves two problems - maximizing a sum of ten
+                              bytes and finding weights for a neural network.
+GATOOLS.ZIP    27506 06-24-92 GATools v1J. for bit string manipulation
+GAW110.ZIP    162395 05-29-92 Genetic Algorithm Workshop version 1.10
+GAWIN.ZIP     256202 08-17-93 Demo of GAWindows that solves the Traveling
+                              Salesman problem. GAWindows is GA programming
+                              tool from BioComp Systems, Inc.
+GECO_V1.HQX   141551 12-03-94 Genetic Evolution by Combination of Objects
+                              v1.0. for Macintosh
+GECO_V1.ZIP    76652 10-16-92 Portable Common Lisp source for Geco v1.0
+                              Genetic Evolution by Combination of Objects
+GENALG.ZIP     32065 06-21-90 Simple genetic algorithm demo
+GENETIC.ZIP    16562 07-17-92 v2n Optimization of nonlinear transportation
+                              problem by Genetic Algorithms
+GENETIC2.ZIP  600929 09-15-94 Genetica V2.0 for Windows.  A standalone GA
+                              equation solver/optimizer supporting up to
+                              32,767 variables.
+GENOCOP.ZIP    18021 07-24-92 v1.0 Optimization of functions with nonlinear
+                              constraints
+GP.ZIP          4832 11-05-94 C source for a Genetic Programming paradigm
+                              similar to Koza's. Written for PC but easily
+                              portable.
+GRAYCODE.ZIP    3106 07-05-93 C source for a bitstring gray code translator
+KOZA_GP.ZIP    19750 07-06-93 Common Lisp code for J. Koza's Genetic
+                              Programming Paradigm
+LIBGA100.ZIP   36993 06-23-93 A. Corcoran's GA library - portable C source
+METAMF.ZIP      5972 01-05-93 LISP source code for Metamorph, a genetic
+                              algorithm tool. Described in August, 1990 issue
+                              of AI Expert.
+PGA24.ZIP      33582 06-06-93 The Parallel Genetic Algorithm testbed v2.4
+PRE93.ZIP      50507 11-23-94 Predicto '93, a DOS genetic algorithm market
+                              forecaster written by Robert C. Moore.
+SGA_C.ZIP      48313 07-05-93 C source for the "Simple Genetic Algorithm"
+SGA_CUBE.ZIP   61482 07-05-93 nCube port of C source for SGA
+SGPC101.ZIP    59107 05-10-93 Fast C implementation of Koza's GA algorithm
+------------------------------------------------------------------------------
+-- Genesis related and inspired files ----------------------------------------
+------------------------------------------------------------------------------
+GAC.ZIP        17040 07-06-93 Simple GA C code conceptually based on Genesis
+GAL.ZIP        14051 07-06-93 GA Lisp code conceptually based on Genesis
+GAUCSD14.ZIP  130869 07-05-93 C src for GAucsd v1.4, portable Genesis inspired
+                              Genetic Algorithm package
+GENESIS.ZIP    62232 04-03-91 Genesis v5.0 - the real thing. C source code.
+GENESYS1.ZIP  421235 06-03-92 GENEsYs v1.0 C src for Genesis-based system
+PGENESIS.ZIP   91480 11-09-92 Paragenesis, a parallel Genesis GA
+                              implementation for the CM-200
+------------------------------------------------------------------------------
+-- Genetic Algorithm Papers and Abstracts ------------------------------------
+------------------------------------------------------------------------------
+DJC4.ZIP      101092 07-04-93 Paper: "An Experiment in Genetic Connectionism"
+EC_001.ZIP     22189 11-05-94 Paper: "A Guide to a Provisional Bibliography
+                              for Evolutionary Models in the Social Sciences"
+                              by Edmund Chattoe. Draft version. ASCII format.
+FOGA90.ZIP      7941 07-05-93 Abstracts of papers presented at the 1990 FOGA
+FOGA92.ZIP      7990 07-05-93 Abstracts of papers presented at the 1992 FOGA
+GAINTRO.ZIP     9289 11-05-94 A useful introduction to the use of genetic
+                              algorithms in financial trading.
+MCGRAW2.ZIP    79562 07-04-93 Paper: A system of explaining GA solutions w/CBR
+MEMES.ZIP      13345 01-02-93 Paper: Detailed explanation of memes
+TR92_014.ZIP   57133 03-07-92 Paper: Genetically Generated ANN I
+TR92_015.ZIP   51650 03-07-92 Paper: Genetically Generated ANN II
+------------------------------------------------------------------------------
+-- NASA/COSMIC SPLICER Genetic Algorithm Tool Version 1.0                  ---
+------------------------------------------------------------------------------
+SPLICDOC.ZIP  342487 12-03-94 Splicer documentation. Original Word for Mac
+                              files from Macintosh version and a Word for
+                              Windows copy with no graphics.
+SPLICER1.ZIP 1607334 05-06-93 Splicer main source code archive. COSMIC part#
+                              MSC 22009.  Includes full ANSI-C source for the
+                              GA library. Source for X-windows, Mac, or TTY
+                              interface and make files. Does not include any
+                              Documentation.
+SPLICERM.HQX  959874 12-03-94 Splicer for Macintosh. COSMIC part# MSC 21904
+                              Includes binaries, Think C source code, and
+                              Documentation in Word for Mac format.
+------------------------------------------------------------------------------
+-- Genetic Algorithm Digest --------------------------------------------------
+------------------------------------------------------------------------------
+GADINDEX.ZIP   11461 07-05-93 Index of subjects by volume & issue
+------------------------------------------------------------------------------
+GAD1_01.ZIP     1975 05-23-92 Genetic Algorithm Digest Volume 1 Issue 01
+GAD1_02.ZIP     4198 05-23-92 Genetic Algorithm Digest Volume 1 Issue 02
+GAD1_03.ZIP     4322 05-23-92 Genetic Algorithm Digest Volume 1 Issue 03
+GAD1_04.ZIP     5762 05-23-92 Genetic Algorithm Digest Volume 1 Issue 04
+GAD1_05.ZIP     4190 05-23-92 Genetic Algorithm Digest Volume 1 Issue 05
+GAD1_06.ZIP     1652 05-23-92 Genetic Algorithm Digest Volume 1 Issue 06
+GAD1_07.ZIP     2426 05-23-92 Genetic Algorithm Digest Volume 1 Issue 07
+------------------------------------------------------------------------------
+GAD2_01.ZIP     1542 05-23-92 Genetic Algorithm Digest Volume 2 Issue 01
+GAD2_02.ZIP     1866 05-23-92 Genetic Algorithm Digest Volume 2 Issue 02
+GAD2_03.ZIP     4921 05-23-92 Genetic Algorithm Digest Volume 2 Issue 03
+GAD2_04.ZIP     7851 05-23-92 Genetic Algorithm Digest Volume 2 Issue 04
+GAD2_05.ZIP     3477 05-23-92 Genetic Algorithm Digest Volume 2 Issue 05
+GAD2_06.ZIP     7326 05-23-92 Genetic Algorithm Digest Volume 2 Issue 06
+GAD2_07.ZIP     4777 05-23-92 Genetic Algorithm Digest Volume 2 Issue 07
+GAD2_08.ZIP     4512 05-23-92 Genetic Algorithm Digest Volume 2 Issue 08
+GAD2_09.ZIP     7214 05-23-92 Genetic Algorithm Digest Volume 2 Issue 09
+GAD2_10.ZIP     4148 05-23-92 Genetic Algorithm Digest Volume 2 Issue 10
+GAD2_11.ZIP     2228 05-23-92 Genetic Algorithm Digest Volume 2 Issue 11
+GAD2_12.ZIP      760 05-23-92 Genetic Algorithm Digest Volume 2 Issue 12
+GAD2_13.ZIP      836 05-23-92 Genetic Algorithm Digest Volume 2 Issue 13
+GAD2_14.ZIP     5633 05-23-92 Genetic Algorithm Digest Volume 2 Issue 14
+GAD2_15.ZIP     1410 05-23-92 Genetic Algorithm Digest Volume 2 Issue 15
+GAD2_16.ZIP     2175 05-23-92 Genetic Algorithm Digest Volume 2 Issue 16
+GAD2_17.ZIP     2038 05-23-92 Genetic Algorithm Digest Volume 2 Issue 17
+GAD2_18.ZIP     3522 05-23-92 Genetic Algorithm Digest Volume 2 Issue 18
+GAD2_19.ZIP     3717 05-23-92 Genetic Algorithm Digest Volume 2 Issue 19
+GAD2_20.ZIP     2616 05-23-92 Genetic Algorithm Digest Volume 2 Issue 20
+GAD2_21.ZIP     2145 05-23-92 Genetic Algorithm Digest Volume 2 Issue 21
+GAD2_22.ZIP     2781 05-23-92 Genetic Algorithm Digest Volume 2 Issue 22
+GAD2_23.ZIP     5311 05-23-92 Genetic Algorithm Digest Volume 2 Issue 23
+GAD2_24.ZIP     4881 05-23-92 Genetic Algorithm Digest Volume 2 Issue 24
+GAD2_25.ZIP     2586 05-23-92 Genetic Algorithm Digest Volume 2 Issue 25
+GAD2_26.ZIP     7955 05-23-92 Genetic Algorithm Digest Volume 2 Issue 26
+------------------------------------------------------------------------------
+GAD3_01.ZIP    10034 05-23-92 Genetic Algorithm Digest Volume 3 Issue 01
+GAD3_02.ZIP     5413 05-23-92 Genetic Algorithm Digest Volume 3 Issue 02
+GAD3_03.ZIP     5318 05-23-92 Genetic Algorithm Digest Volume 3 Issue 03
+GAD3_04.ZIP     5285 05-23-92 Genetic Algorithm Digest Volume 3 Issue 04
+GAD3_05.ZIP     3036 05-23-92 Genetic Algorithm Digest Volume 3 Issue 05
+GAD3_06.ZIP     5682 05-23-92 Genetic Algorithm Digest Volume 3 Issue 06
+GAD3_07.ZIP     7193 05-23-92 Genetic Algorithm Digest Volume 3 Issue 07
+GAD3_08.ZIP     6955 05-23-92 Genetic Algorithm Digest Volume 3 Issue 08
+GAD3_09.ZIP     2911 05-23-92 Genetic Algorithm Digest Volume 3 Issue 09
+GAD3_10.ZIP     1996 05-23-92 Genetic Algorithm Digest Volume 3 Issue 10
+GAD3_11.ZIP     5241 05-23-92 Genetic Algorithm Digest Volume 3 Issue 11
+GAD3_12.ZIP     4433 05-23-92 Genetic Algorithm Digest Volume 3 Issue 12
+GAD3_13.ZIP     2234 05-23-92 Genetic Algorithm Digest Volume 3 Issue 13
+GAD3_14.ZIP     2188 05-23-92 Genetic Algorithm Digest Volume 3 Issue 14
+GAD3_15.ZIP     3546 05-23-92 Genetic Algorithm Digest Volume 3 Issue 15
+GAD3_16.ZIP     3664 05-23-92 Genetic Algorithm Digest Volume 3 Issue 16
+GAD3_17.ZIP     3563 05-23-92 Genetic Algorithm Digest Volume 3 Issue 17
+GAD3_18.ZIP     4639 05-23-92 Genetic Algorithm Digest Volume 3 Issue 18
+GAD3_19.ZIP     3587 05-23-92 Genetic Algorithm Digest Volume 3 Issue 19
+------------------------------------------------------------------------------
+GAD4_01.ZIP     3070 05-23-92 Genetic Algorithm Digest Volume 4 Issue 01
+GAD4_02.ZIP     7253 05-23-92 Genetic Algorithm Digest Volume 4 Issue 02
+GAD4_03.ZIP     4140 05-23-92 Genetic Algorithm Digest Volume 4 Issue 03
+GAD4_04.ZIP     9785 05-23-92 Genetic Algorithm Digest Volume 4 Issue 04
+GAD4_05.ZIP     7301 05-23-92 Genetic Algorithm Digest Volume 4 Issue 05
+GAD4_06.ZIP     1705 05-23-92 Genetic Algorithm Digest Volume 4 Issue 06
+GAD4_07.ZIP     8726 05-23-92 Genetic Algorithm Digest Volume 4 Issue 07
+GAD4_08.ZIP     3526 05-23-92 Genetic Algorithm Digest Volume 4 Issue 08
+GAD4_09.ZIP     3838 05-23-92 Genetic Algorithm Digest Volume 4 Issue 09
+GAD4_10.ZIP     5847 05-23-92 Genetic Algorithm Digest Volume 4 Issue 10
+GAD4_11.ZIP     7251 05-23-92 Genetic Algorithm Digest Volume 4 Issue 11
+GAD4_12.ZIP     4684 05-23-92 Genetic Algorithm Digest Volume 4 Issue 12
+GAD4_13.ZIP     5511 05-23-92 Genetic Algorithm Digest Volume 4 Issue 13
+GAD4_14.ZIP     6625 05-23-92 Genetic Algorithm Digest Volume 4 Issue 14
+GAD4_15.ZIP     7881 05-23-92 Genetic Algorithm Digest Volume 4 Issue 15
+GAD4_16.ZIP     3920 05-23-92 Genetic Algorithm Digest Volume 4 Issue 16
+GAD4_17.ZIP     5083 05-23-92 Genetic Algorithm Digest Volume 4 Issue 17
+GAD4_18.ZIP     7343 05-23-92 Genetic Algorithm Digest Volume 4 Issue 18
+GAD4_19.ZIP     4394 05-23-92 Genetic Algorithm Digest Volume 4 Issue 19
+GAD4_20.ZIP     4185 05-23-92 Genetic Algorithm Digest Volume 4 Issue 20
+GAD4_21.ZIP     2924 05-23-92 Genetic Algorithm Digest Volume 4 Issue 21
+GAD4_22.ZIP     5022 05-23-92 Genetic Algorithm Digest Volume 4 Issue 22
+GAD4_23.ZIP     5158 05-23-92 Genetic Algorithm Digest Volume 4 Issue 23
+GAD4_24.ZIP     3415 05-23-92 Genetic Algorithm Digest Volume 4 Issue 24
+GAD4_25.ZIP     5035 05-23-92 Genetic Algorithm Digest Volume 4 Issue 25
+GAD4_26.ZIP     4779 05-23-92 Genetic Algorithm Digest Volume 4 Issue 26
+GAD4_27.ZIP     4860 05-23-92 Genetic Algorithm Digest Volume 4 Issue 27
+------------------------------------------------------------------------------
+GAD5_01.ZIP     6183 05-23-92 Genetic Algorithm Digest Volume 5 Issue 01
+GAD5_02.ZIP     4573 05-23-92 Genetic Algorithm Digest Volume 5 Issue 02
+GAD5_03.ZIP     6300 05-23-92 Genetic Algorithm Digest Volume 5 Issue 03
+GAD5_04.ZIP     4343 05-23-92 Genetic Algorithm Digest Volume 5 Issue 04
+GAD5_05.ZIP     5146 05-23-92 Genetic Algorithm Digest Volume 5 Issue 05
+GAD5_06.ZIP     4330 05-23-92 Genetic Algorithm Digest Volume 5 Issue 06
+GAD5_07.ZIP     4990 05-23-92 Genetic Algorithm Digest Volume 5 Issue 07
+GAD5_08.ZIP     3521 05-23-92 Genetic Algorithm Digest Volume 5 Issue 08
+GAD5_09.ZIP    10887 05-23-92 Genetic Algorithm Digest Volume 5 Issue 09
+GAD5_10.ZIP     4662 05-23-92 Genetic Algorithm Digest Volume 5 Issue 10
+GAD5_11.ZIP     4299 05-23-92 Genetic Algorithm Digest Volume 5 Issue 11
+GAD5_12.ZIP     5297 05-23-92 Genetic Algorithm Digest Volume 5 Issue 12
+GAD5_13.ZIP     5841 05-23-92 Genetic Algorithm Digest Volume 5 Issue 13
+GAD5_14.ZIP     5435 05-23-92 Genetic Algorithm Digest Volume 5 Issue 14
+GAD5_15.ZIP     3911 05-23-92 Genetic Algorithm Digest Volume 5 Issue 15
+GAD5_16.ZIP     3613 05-23-92 Genetic Algorithm Digest Volume 5 Issue 16
+GAD5_17.ZIP     5442 05-23-92 Genetic Algorithm Digest Volume 5 Issue 17
+GAD5_18.ZIP     2272 05-23-92 Genetic Algorithm Digest Volume 5 Issue 18
+GAD5_19.ZIP     5617 05-23-92 Genetic Algorithm Digest Volume 5 Issue 19
+GAD5_20.ZIP     6401 05-23-92 Genetic Algorithm Digest Volume 5 Issue 20
+GAD5_21.ZIP     4556 05-23-92 Genetic Algorithm Digest Volume 5 Issue 21
+GAD5_22.ZIP     6590 05-23-92 Genetic Algorithm Digest Volume 5 Issue 22
+GAD5_23.ZIP     5877 05-23-92 Genetic Algorithm Digest Volume 5 Issue 23
+GAD5_24.ZIP     4660 05-23-92 Genetic Algorithm Digest Volume 5 Issue 24
+GAD5_25.ZIP     4714 05-23-92 Genetic Algorithm Digest Volume 5 Issue 25
+GAD5_26.ZIP     5079 05-23-92 Genetic Algorithm Digest Volume 5 Issue 26
+GAD5_27.ZIP     4191 05-23-92 Genetic Algorithm Digest Volume 5 Issue 27
+GAD5_28.ZIP     5410 05-23-92 Genetic Algorithm Digest Volume 5 Issue 28
+GAD5_29.ZIP     4547 05-23-92 Genetic Algorithm Digest Volume 5 Issue 29
+GAD5_30.ZIP     5275 05-23-92 Genetic Algorithm Digest Volume 5 Issue 30
+GAD5_31.ZIP     3885 05-23-92 Genetic Algorithm Digest Volume 5 Issue 31
+GAD5_32.ZIP     5451 05-23-92 Genetic Algorithm Digest Volume 5 Issue 32
+GAD5_33.ZIP     5601 05-23-92 Genetic Algorithm Digest Volume 5 Issue 33
+GAD5_34.ZIP     8370 05-23-92 Genetic Algorithm Digest Volume 5 Issue 34
+GAD5_35.ZIP     3640 05-23-92 Genetic Algorithm Digest Volume 5 Issue 35
+GAD5_36.ZIP     4948 05-23-92 Genetic Algorithm Digest Volume 5 Issue 36
+GAD5_37.ZIP     8376 05-23-92 Genetic Algorithm Digest Volume 5 Issue 37
+GAD5_38.ZIP     6181 05-23-92 Genetic Algorithm Digest Volume 5 Issue 38
+GAD5_39.ZIP     5125 05-23-92 Genetic Algorithm Digest Volume 5 Issue 39
+------------------------------------------------------------------------------
+GAD6_01.ZIP     5091 05-23-92 Genetic Algorithm Digest Volume 6 Issue 01
+GAD6_02.ZIP     5013 05-23-92 Genetic Algorithm Digest Volume 6 Issue 02
+GAD6_03.ZIP     5801 05-23-92 Genetic Algorithm Digest Volume 6 Issue 03
+GAD6_04.ZIP     4847 05-23-92 Genetic Algorithm Digest Volume 6 Issue 04
+GAD6_05.ZIP     5019 05-23-92 Genetic Algorithm Digest Volume 6 Issue 05
+GAD6_06.ZIP     5823 05-23-92 Genetic Algorithm Digest Volume 6 Issue 06
+GAD6_07.ZIP     6918 05-23-92 Genetic Algorithm Digest Volume 6 Issue 07
+GAD6_08.ZIP     6072 05-23-92 Genetic Algorithm Digest Volume 6 Issue 08
+GAD6_09.ZIP     5292 05-23-92 Genetic Algorithm Digest Volume 6 Issue 09
+GAD6_10.ZIP    11129 05-23-92 Genetic Algorithm Digest Volume 6 Issue 10
+GAD6_11.ZIP     4243 05-23-92 Genetic Algorithm Digest Volume 6 Issue 11
+GAD6_12.ZIP     4447 05-23-92 Genetic Algorithm Digest Volume 6 Issue 12
+GAD6_13.ZIP     5636 05-23-92 Genetic Algorithm Digest Volume 6 Issue 13
+GAD6_14.ZIP     5703 05-23-92 Genetic Algorithm Digest Volume 6 Issue 14
+GAD6_15.ZIP     5476 05-23-92 Genetic Algorithm Digest Volume 6 Issue 15
+GAD6_16.ZIP     6466 05-23-92 Genetic Algorithm Digest Volume 6 Issue 16
+GAD6_17.ZIP     7966 05-23-92 Genetic Algorithm Digest Volume 6 Issue 17
+GAD6_18.ZIP     7070 05-23-92 Genetic Algorithm Digest Volume 6 Issue 18
+GAD6_19.ZIP     9988 05-23-92 Genetic Algorithm Digest Volume 6 Issue 19
+GAD6_20.ZIP     8456 06-16-92 Genetic Algorithm Digest Volume 6 Issue 20
+GAD6_21.ZIP     7800 06-16-92 Genetic Algorithm Digest Volume 6 Issue 21
+GAD6_22.ZIP     7942 06-16-92 Genetic Algorithm Digest Volume 6 Issue 22
+GAD6_23.ZIP     7112 06-16-92 Genetic Algorithm Digest Volume 6 Issue 23
+GAD6_24.ZIP     6396 06-16-92 Genetic Algorithm Digest Volume 6 Issue 24
+GAD6_25.ZIP     4422 06-16-92 Genetic Algorithm Digest Volume 6 Issue 25
+GAD6_26.ZIP     5788 07-05-93 Genetic Algorithm Digest Volume 6 Issue 26
+GAD6_27.ZIP     7083 07-05-93 Genetic Algorithm Digest Volume 6 Issue 27
+GAD6_28.ZIP     3859 07-05-93 Genetic Algorithm Digest Volume 6 Issue 28
+GAD6_29.ZIP     8313 07-05-93 Genetic Algorithm Digest Volume 6 Issue 29
+GAD6_30.ZIP     8719 07-05-93 Genetic Algorithm Digest Volume 6 Issue 30
+GAD6_31.ZIP     6011 07-05-93 Genetic Algorithm Digest Volume 6 Issue 31
+GAD6_32.ZIP     5628 07-05-93 Genetic Algorithm Digest Volume 6 Issue 32
+GAD6_33.ZIP     6293 07-05-93 Genetic Algorithm Digest Volume 6 Issue 33
+GAD6_34.ZIP     9879 07-05-93 Genetic Algorithm Digest Volume 6 Issue 34
+GAD6_35.ZIP     8853 07-05-93 Genetic Algorithm Digest Volume 6 Issue 35
+GAD6_36.ZIP     8990 07-05-93 Genetic Algorithm Digest Volume 6 Issue 36
+GAD6_37.ZIP     7520 07-05-93 Genetic Algorithm Digest Volume 6 Issue 37
+GAD6_38.ZIP     6479 07-05-93 Genetic Algorithm Digest Volume 6 Issue 38
+GAD6_39.ZIP     8312 07-05-93 Genetic Algorithm Digest Volume 6 Issue 39
+GAD6_40.ZIP     8933 07-05-93 Genetic Algorithm Digest Volume 6 Issue 40
+------------------------------------------------------------------------------
+GAD7_01.ZIP     8943 07-05-93 Genetic Algorithm Digest Volume 7 Issue 01
+GAD7_02.ZIP     7862 07-05-93 Genetic Algorithm Digest Volume 7 Issue 02
+GAD7_03.ZIP     8253 07-05-93 Genetic Algorithm Digest Volume 7 Issue 03
+GAD7_04.ZIP     8235 07-05-93 Genetic Algorithm Digest Volume 7 Issue 04
+GAD7_05.ZIP     8941 07-05-93 Genetic Algorithm Digest Volume 7 Issue 05
+GAD7_06.ZIP     8006 07-05-93 Genetic Algorithm Digest Volume 7 Issue 06
+GAD7_07.ZIP     8529 07-05-93 Genetic Algorithm Digest Volume 7 Issue 07
+GAD7_08.ZIP    10401 07-05-93 Genetic Algorithm Digest Volume 7 Issue 08
+GAD7_09.ZIP     8281 07-05-93 Genetic Algorithm Digest Volume 7 Issue 09
+GAD7_10.ZIP     8622 12-03-94 Genetic Algorithm Digest Volume 7 Issue 10
+GAD7_11.ZIP     9359 12-03-94 Genetic Algorithm Digest Volume 7 Issue 11
+GAD7_12.ZIP     8840 12-03-94 Genetic Algorithm Digest Volume 7 Issue 12
+GAD7_13.ZIP     8485 12-03-94 Genetic Algorithm Digest Volume 7 Issue 13
+GAD7_14.ZIP     7976 12-03-94 Genetic Algorithm Digest Volume 7 Issue 14
+GAD7_15.ZIP     6980 12-03-94 Genetic Algorithm Digest Volume 7 Issue 15
+GAD7_16.ZIP     8623 12-03-94 Genetic Algorithm Digest Volume 7 Issue 16
+GAD7_17.ZIP     8049 12-03-94 Genetic Algorithm Digest Volume 7 Issue 17
+GAD7_18.ZIP     6092 12-03-94 Genetic Algorithm Digest Volume 7 Issue 18
+GAD7_19.ZIP    10283 12-03-94 Genetic Algorithm Digest Volume 7 Issue 19
+GAD7_20.ZIP     6130 12-03-94 Genetic Algorithm Digest Volume 7 Issue 20
+GAD7_21.ZIP     8046 12-03-94 Genetic Algorithm Digest Volume 7 Issue 21
+GAD7_22.ZIP     4443 12-03-94 Genetic Algorithm Digest Volume 7 Issue 22
+GAD7_23.ZIP     8664 12-03-94 Genetic Algorithm Digest Volume 7 Issue 23
+GAD7_24.ZIP     9149 12-03-94 Genetic Algorithm Digest Volume 7 Issue 24
+GAD7_25.ZIP     9079 12-03-94 Genetic Algorithm Digest Volume 7 Issue 25
+GAD7_26.ZIP     7942 12-03-94 Genetic Algorithm Digest Volume 7 Issue 26
+GAD7_27.ZIP     8726 12-03-94 Genetic Algorithm Digest Volume 7 Issue 27
+GAD7_28.ZIP     8510 12-03-94 Genetic Algorithm Digest Volume 7 Issue 28
+GAD7_29.ZIP     8377 12-03-94 Genetic Algorithm Digest Volume 7 Issue 29
+GAD7_30.ZIP     7696 12-03-94 Genetic Algorithm Digest Volume 7 Issue 30
+GAD7_31.ZIP     8488 12-03-94 Genetic Algorithm Digest Volume 7 Issue 31
+GAD7_32.ZIP     9050 12-03-94 Genetic Algorithm Digest Volume 7 Issue 32
+GAD7_33.ZIP     8649 12-03-94 Genetic Algorithm Digest Volume 7 Issue 33
+GAD7_34.ZIP     8197 12-03-94 Genetic Algorithm Digest Volume 7 Issue 34
+------------------------------------------------------------------------------
+GAD8_01.ZIP     8551 12-03-94 Genetic Algorithm Digest Volume 8 Issue 01
+GAD8_02.ZIP     8972 12-03-94 Genetic Algorithm Digest Volume 8 Issue 02
+GAD8_03.ZIP     7867 12-03-94 Genetic Algorithm Digest Volume 8 Issue 03
+GAD8_04.ZIP     7382 12-03-94 Genetic Algorithm Digest Volume 8 Issue 04
+GAD8_05.ZIP     8599 12-03-94 Genetic Algorithm Digest Volume 8 Issue 05
+GAD8_06.ZIP     6519 12-03-94 Genetic Algorithm Digest Volume 8 Issue 06
+GAD8_07.ZIP     7894 12-03-94 Genetic Algorithm Digest Volume 8 Issue 07
+GAD8_08.ZIP     8846 12-03-94 Genetic Algorithm Digest Volume 8 Issue 08
+GAD8_09.ZIP     7992 12-03-94 Genetic Algorithm Digest Volume 8 Issue 09
+GAD8_10.ZIP     8496 12-03-94 Genetic Algorithm Digest Volume 8 Issue 10
+GAD8_11.ZIP     9356 12-03-94 Genetic Algorithm Digest Volume 8 Issue 11
+GAD8_12.ZIP     8195 12-03-94 Genetic Algorithm Digest Volume 8 Issue 12
+GAD8_13.ZIP     9423 12-03-94 Genetic Algorithm Digest Volume 8 Issue 13
+GAD8_14.ZIP     8784 12-03-94 Genetic Algorithm Digest Volume 8 Issue 14
+GAD8_15.ZIP     8855 12-03-94 Genetic Algorithm Digest Volume 8 Issue 15
+GAD8_16.ZIP     7825 12-03-94 Genetic Algorithm Digest Volume 8 Issue 16
+GAD8_17.ZIP     8270 12-03-94 Genetic Algorithm Digest Volume 8 Issue 17
+GAD8_18.ZIP     8143 12-03-94 Genetic Algorithm Digest Volume 8 Issue 18
+GAD8_19.ZIP     6604 12-03-94 Genetic Algorithm Digest Volume 8 Issue 19
+GAD8_20.ZIP     8382 12-03-94 Genetic Algorithm Digest Volume 8 Issue 20
+GAD8_21.ZIP     8680 12-03-94 Genetic Algorithm Digest Volume 8 Issue 21
+GAD8_22.ZIP     7629 12-03-94 Genetic Algorithm Digest Volume 8 Issue 22
+GAD8_23.ZIP     8600 12-03-94 Genetic Algorithm Digest Volume 8 Issue 23
+GAD8_24.ZIP     8141 12-03-94 Genetic Algorithm Digest Volume 8 Issue 24
+GAD8_25.ZIP     8164 12-03-94 Genetic Algorithm Digest Volume 8 Issue 25
+GAD8_26.ZIP     8801 12-03-94 Genetic Algorithm Digest Volume 8 Issue 26
+GAD8_27.ZIP     7769 12-03-94 Genetic Algorithm Digest Volume 8 Issue 27
+GAD8_28.ZIP     8171 12-03-94 Genetic Algorithm Digest Volume 8 Issue 28
+GAD8_29.ZIP     9113 12-03-94 Genetic Algorithm Digest Volume 8 Issue 29
+GAD8_30.ZIP     7427 12-03-94 Genetic Algorithm Digest Volume 8 Issue 30
+GAD8_31.ZIP     7817 12-03-94 Genetic Algorithm Digest Volume 8 Issue 31
+GAD8_32.ZIP     8506 12-03-94 Genetic Algorithm Digest Volume 8 Issue 32
+GAD8_33.ZIP     5356 12-03-94 Genetic Algorithm Digest Volume 8 Issue 33
+GAD8_34.ZIP     7421 12-03-94 Genetic Algorithm Digest Volume 8 Issue 34
+GAD8_35.ZIP     8578 12-03-94 Genetic Algorithm Digest Volume 8 Issue 35
+GAD8_36.ZIP     8450 12-03-94 Genetic Algorithm Digest Volume 8 Issue 36
+GAD8_37.ZIP     8193 12-03-94 Genetic Algorithm Digest Volume 8 Issue 37
+GAD8_38.ZIP     8523 12-03-94 Genetic Algorithm Digest Volume 8 Issue 38
+GAD8_39.ZIP     8428 12-03-94 Genetic Algorithm Digest Volume 8 Issue 39
+GAD8_40.ZIP     7892 12-03-94 Genetic Algorithm Digest Volume 8 Issue 40
+

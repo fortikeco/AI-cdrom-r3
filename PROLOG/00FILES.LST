@@ -1,0 +1,120 @@
+##############################################################################
+## Directory: \PROLOG                                                       ##
+##############################################################################
+BKPROLOG.ZIP  211323 08-08-93 C & Prolog source to Berkeley Prolog (no docs)
+VTPROLOG.ZIP   40683 00-04-80 AI Expert's Very Tiny Prolog V1.1
+ESLPDPRO.ZIP  153167 00-30-91 Prolog-2 v2.3 EXE & docs
+MACPRO30.HQX  412465 12-02-94 Demo version of Mac Prolog v3.0
+PIE2.ZIP      294651 01-06-00 Prolog Inference Engine II (PIE2), a public
+                              domain Prolog for DOS machines.
+PIEDOC.ZIP     79813 01-08-00 PIE2 documentation. ASCII text format
+OPRLG101.HQX  372107 11-21-94 Open Prolog v1.01 for Macintosh. A public domain
+                              prolog from Ireland that includes an IDE, an
+                              editor, and more. 68020 or better Mac required.
+SBPRO31S.ZIP  531210 11-25-94 Stony-Brook Prolog version 3.1 source code and
+                              documentation in Latex format.
+SBPRO31W.ZIP  309149 10-31-91 Stony-Brook Prolog version 3.1 binaries and diff
+                              files for DOS/Windows.
+SDPROLOG.ZIP  126850 00-01-87 SD Prolog demo version
+SPROLOG2.ZIP  187034 00-02-92 Small-Prolog v2.0 portable C source & DOS execs
+SWI_194D.ZIP  403427 11-24-94 DOS/Windows executables for SWI Prolog v1.9.4.
+                              Contains most of the features of the full SWI
+                              Prolog with the usual DOS/Win limtation such
+                              as memory, filenames, etc.
+SWI_167O.ZIP 1205622 02-05-93 Full 32bit port of SWI Prolog v1.6.7 for OS/2
+                              v2.x and above with gcc C source code.
+SWI_194S.ZIP  692704 11-24-94 SWI Prolog v1.9.4 source code. Includes make
+                              files and/or compilation notes for SunOS, OS/2,
+                              DOS, DOS/Windows.
+SWI_DOCS.ZIP  260007 11-04-94 Extensive documentation for SWI Prolog in Four
+                              Post Script files.
+TRICIA95.HQX  386447 11-25-94 Tricia Prolog v0.95a31 for Macintosh.  A very
+                              plain implementation of Prolog from Uppsala
+                              University of Sweden. Includes a WAM format
+                              compiler.
+PIL.ZIP         1497 04-26-88 Prolog for MAC written in MACLISP
+------------------------------------------------------------------------------
+-- BinProlog and related papers ----------------------------------------------
+------------------------------------------------------------------------------
+BINPRO30.ZIP 2038945 11-08-94 BinProlog 3.0 by Paul Tarau is a fairly complete
+                              implementation of Prolog based on his BinWAM
+                              abstract machine and features both C-emulated
+                              execution and generation of standalone apps by
+                              compilation to C. Source and binaries for Linux,
+                              SunOS, MIPS, DOS/386 included. TAR format.
+ICLP94.ZIP     33599 08-20-94 Paper: "Language Embedding by Dual Compilation
+                              and State Mirroring" by P. Tarau and B. Demoen
+                              Post Script format.
+IWMM92.ZIP     96530 07-13-92 Paper: "Ecological Memory Management in a
+                              Continuation Passing Prolog Engine" by P. Tarau
+                              DVI, TEX, and Post Script formats.
+JAPLPC91.ZIP   57836 03-20-92 Paper: "A Compiler and a Simplified Abstract
+                              Machine For The Execution of Binary
+                              Metaprograms" by P. Tarau. Post Script and ASCII
+JFPL94.ZIP     57931 08-16-94 Paper: "Low-Level Issues in Implementing a
+                              High-Performance Continuation Passing Binary
+                              Prolog Engine" by P. Tarau. Post Script.
+LOPSTR94.ZIP   47224 09-25-94 Paper: "Logic Programming and Logic Grammars
+                              With Binarization and First-Order Continuations"
+                              by P. Tarau and V. Dahl. Post Script format.
+PLILP90.ZIP    62716 03-20-92 Paper: "Elementary Logic Programs" by P. Tarau
+                              Post Script and ASCII formats.
+PLILP94.ZIP    49105 08-16-94 Paper: "A Novel Term Compression Scheme and Data
+                              Representation in the BinWAM" by P. Tarau and
+                              U. Neumerkel. Post Script format.
+RCLP91.ZIP     52452 03-20-92 Paper: "Program Transformations and WAM-Support
+                              for the Complilation of Definite Metaprograms"
+                              by P. Tarau. Post Script and ASCII formats.
+TR93_01.ZIP    50152 05-11-93 Technical Report: "Memoing with Abstract Answers
+                              and Delphi Lemmas" by P. Tarau. Post Script.
+TR93_02.ZIP    61599 05-11-93 Technical Report: "A Continuation Based Prolog
+                              to C Mapping" by K. D. Bosschere and P. Tarau.
+                              Post Script format.
+TR93_02.ZIP    56265 12-22-93 Technical Report: "Compact Representation of
+                              Terms and Instruction in the BinWAM" by
+                              P. Tarau and U. Neumerkel. Post Script.
+TR94_01.ZIP    86773 09-25-94 Technical Report: "The Power of Partial
+                              Translation: an Experiment with the C-ification
+                              of Binary Prolog" by P. Tarau, B. Demoen, and
+                              K. D. Bosschere. Post Script.
+------------------------------------------------------------------------------
+-- Prolog tools/libraries ----------------------------------------------------
+------------------------------------------------------------------------------
+ADALOGIC.ZIP  567413 07-26-92 Library add Prolog-like functions to ADA
+BENCHP.ZIP      6991 01-05-93 Prolog compiler benchmarks from AI Expert
+DIAL.ZIP        2260 09-10-86 TP src for phone dialer with database
+MINMAX.ZIP      1208 06-06-86 Find min/max integers in list
+PARAMS.ZIP      1320 04-15-86 Prolog code to access DOS command line
+PPID.ZIP      234735 07-19-92 Source from Prolog Programming In Depth
+PRO2SQL.ZIP    10292 08-29-92 Prolog->SQL query convertor source
+PROLISTS.ZIP     992 11-05-94 Simple Prolog source to provide LISP-like list
+                              processing functions.
+READIN.ZIP       786 10-06-85 Arity Prolog src to get user input
+TP_SRC.ZIP      4660 00-04-80 Assorted Turbo Prolog source
+------------------------------------------------------------------------------
+-- Public Domain A.D.A. Prolog -----------------------------------------------
+------------------------------------------------------------------------------
+ALGEBRA.ZIP    17580 03-12-87 Algebra routines for A.D.A. Prolog
+PDPRLG17.ZIP  102121 10-08-85 PD A.D.A. Prolog v1.70k w/examples
+PDPRLG18.ZIP   86727 05-28-87 PD A.D.A. Prolog v1.80a update
+PDPRLG19.ZIP  133538 04-05-86 New version? Docs refer to the contents as v1.9,
+                              v1.8 & v1.7 in various places?!?
+PDPROPIE.ZIP    6051 11-31-85 Prolog for./back. inf. eng. for A.D.A.
+DREXATGS.ZIP   12886 03-05-87 PD A.D.A. source for digital design aid
+------------------------------------------------------------------------------
+-- Papers and other information files ----------------------------------------
+------------------------------------------------------------------------------
+ISOPRO94.ZIP   83116 11-23-94 Paper: "ISO Prolog, A Summary of the Draft
+                              Proposed Standard" by Michael A. Covington.
+                              Post Script format.
+PROBOOKS.ZIP    1043 00-04-80 Short list of book about Prolog
+PROLOGFQ.ZIP   31687 11-17-94 Usenet comp.lang.prolog newsgroup FAQ
+SKL001.ZIP    107940 01-27-93 Paper: "An Integrated Prolog Programming
+                              Environment" by U. Schreiweis, A. Keune, and
+                              H. Langendorfer. Describes a Prolog 
+                              visiualization concept based on a module
+                              interconnection graph.
+LPT.ZIP       519535 08-15-92 The Logic Programming Tutor. A good educational
+                              package designed by Jocelyn Paine that teaches
+                              logic programming and Prolog.
+

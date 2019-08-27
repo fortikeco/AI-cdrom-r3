@@ -1,0 +1,56 @@
+##############################################################################
+## Directory: \CA - Cellular Automata                                       ##
+##############################################################################
+9303_014.ZIP  509537 04-08-93 Paper: "Revisiting the Edge of Chaos: Evolving
+                              Cellular Automata to Perfrom Computations" by
+                              M. Mitchell, P.T. Hraber, and J.P. Crutchfield.
+                              Post Script format document.
+3DLIFE.ZIP    122939 05-05-93 3-dimensional implementation of Life by Anthony
+                              Wesley. Includes 32bit executable for DOS/386
+                              and C source code.
+AAALIFE.ZIP    40934 06-13-89 A.A. Acero's LIFE w/Turbo C source code
+AALIFE.ZIP      3171 06-25-89 Patterns for AAALIFE based on the book
+                              _The_Recursive_Universe_
+ANTS.ZIP       22454 06-24-93 DOS/VGA program takes command line arguments to
+                              produce interesting CA. No documentation.
+BLOBS.ZIP      26330 03-08-91 Growing, moving, fighting, "blobs" w/src
+CABIB.ZIP      12919 04-05-94 Bibliography of Cellular Automata references
+CAS_V10A.ZIP   56147 10-05-94 Multiplatform CA program with SUIT interface
+CELAUTO.ZIP    11775 02-09-92 DOS/Windows based demo of simple CA types
+CELL3D.ZIP    173347 00-26-91 CellView-3D, a 3d CA program for 386/DOS/VGA
+CELLPRO.ZIP     4343 03-05-90 Three Turbo Prolog source files for different
+                              cellular automata program by Karl E. Horak
+CS504.ZIP       1454 04-26-88 Prolog src demos of cellular automata
+CSIM25.ZIP    281396 06-12-92 CellSim v2.5 CA for SUNVIEW
+DB_LIFE.ZIP   214817 04-26-93 David Bell's X11 C src for life
+DR_LIFE.ZIP    27293 01-12-92 David Romik's MSDOS version of Life for EGA/VGA
+GLIFE_12.ZIP   58641 10-16-88 Alan Farmer's Green Life v1.2
+HODGE.ZIP      26170 02-03-89 Hodgepodge CA machine from 8/88 Sci.Am.
+HODGE98J.ZIP  150440 04-26-93 v0.98j multiplatform implementation of
+                              Hodgepodge CA machine
+LANGTON.ZIP    10382 04-23-94 C implementation of Langton's "self-reproducing
+                              loops". Output to ANSI terminal. Includes DOS
+                              executable. Written by Daivd I. Bell
+LCA.ZIP       162385 09-29-87 McIntosh & Cisneros CA C source & DOS binaries
+LCAU.ZIP      219613 01-01-88 Newer, updated CA programs from
+                              McIntosh & Cisneros
+LIFE.ZIP       26184 06-12-92 Life for the AMIGA w/source
+LIFE3D.ZIP     21822 10-28-87 3D implementation of Life-AMIGA
+LIFE4.ZIP       6637 11-28-85 Life v4.0 in Turbo Pascal
+LIFEMAKE.HQX  170040 12-02-94 LifeMaker v2.0b3. Cellular Automata program for
+                              Macintosh machines. Includes Conway's Life and
+                              16 other CA rule sets.  Supports user created
+                              rules sets and 256 colors. By Jesse Jones.
+NPDAGV2.ZIP   477012 06-12-92 Nondeterministic Pushdown Automata-SPARC
+OSCIL.ZIP     329128 08-30-94 Executable Windows program demonstrating the
+                              use of cellular automata as biological
+                              oscillators for artificial life.
+PMLIFE.ZIP     38355 05-17-94 An OS/2 PM version of Life that converts the
+                              entire desktop to moving life graphics.
+RUCKERCA.ZIP  127333 10-08-88 Rudy Rucker's CA program v1.2
+SCAMPER.ZIP    99515 00-08-92 Cellular automata for X11 R4 & SUN4
+SUNLIFE.ZIP     3598 00-03-93 C src for pixel-level Life on SUN
+TEXTCA.ZIP     11817 00-02-91 Very simple Cellular Automata demo
+VOTEG.ZIP      23697 03-08-91 CA-like program. EXEs & source
+XCA.ZIP         5223 01-14-92 Self-reproducing cellular automata-C src
+

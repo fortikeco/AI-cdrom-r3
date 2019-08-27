@@ -1,0 +1,157 @@
+=====AI CD-ROM submission requirements
+=====Last updated: December 1, 1994
+
+Thank you for your interest in submitting a file for the next release of
+the AI CD-ROM. Here is a brief overview of the requirement for submission:
+
+
+I       File information
+
+        We need to have the following information about any file submitted:
+
+        A. The name of the author(s) and any organizational affiliations.
+
+        B. The date and version number of the file(s).
+
+        C. The complete name of the package or files as you would like
+           it to appear in the description on the CD-ROM.
+
+        D. A short abstract of the files nature and intended use. If 
+           possible the submission abstract should be in ASCII format. 
+
+        E. Any special copyright, distribution, or export  restrictions,
+           or other important information which we should know about the
+           file. Keep in mind that many of our CD-ROMs are shipped to
+           customers outside the US. This means there are some technologies
+           that we simply cannot include on the disc (such as encryption
+           programs) due to federal regulations. If the file is interesting
+           enough, we may consider restricting sales in specific locations,
+           if required (as with some NASA software).
+
+        F. If your package is a demonstration version of a commercial
+           program or otherwise not fully functional, please state this.
+           We have no objection to including such programs (indeed, our
+           users seem to enjoy many of them) but we do not want to 
+           deceive anyone as to the nature of any given file. We do not
+           charge companies for including commercial demos as of Rev.3
+           but this is being considered as an option as space on the
+           disc become tighter on future revisions.
+
+
+II      File format
+
+        Most files on the AI CD-ROM are archived and compressed using the
+        ZIP file format. This format allow users on any computer platform
+        to have equal access to all files. If a ZIP compatible archive
+        utility is not available for you platform or if you do not have
+        such a utility, we also accept submission in standard UNIX TAR
+        format. For Macintosh files, we accept files in BinHex v4 format
+        or MacBinary format (BinHex v5). We may repack the archives in ZIP
+        format before adding them to the CD-ROM.  Files submitted in TAR
+        format should have the file extension, ".tar" or ".tar.Z" to
+        indicate their format.  If you are not able to use any of the above
+        archiving methods, please contact us and we will work something out
+        if possible.
+
+
+III     File names
+
+        The AI CD-ROM uses the ISO-9660 file and directory format. ISO-9660
+        files are composed of up to 8 characters followed by a single period
+        and an extension of up to 3 characters. Allowable characters are the
+        26 alpha characters, the numeric characters 0-9, and the underscore
+        character (i.e. "_"). 
+
+        NOTE: ISO-9660 filename are *NOT* the same as MS-DOS files names!
+        They share the 8.3 format but DOS allows many other characters
+        in filenames besides alphanumeric and underscore. The following
+        file names are valid under DOS but *NOT* on an ISO-9660 format
+        system:
+
+        AI-123.ZIP      Contains a dash character.
+        $ZIS.ZIP        Contains a dollar sign charater.
+
+        Be sure to remember this when naming your archive file. If we
+        receive a file with an incorrect name, we will rename it! If this
+        is a problem, let us know when you submit the file.
+
+        Another reason for specifying either TAR or ZIP format archives is
+        to overcome this file name limitations of the ISO-9660 format. Keep
+        in mind that ZIP and TAR support the file names and directory names
+        that your system uses.  As long as the *ARCHIVE* file meets the 8.3
+        test, we don't care what the filenames inside the ZIP or TAR archive
+        look like.  ZIP archives can also handle other system-specific file
+        features such as OS/2's extended attributes, or Macintosh file forks.
+
+
+IV     Submission methods
+
+        File may be submitted to Network Cybernetics Corporation in any of
+        the following methods:
+
+        A. Sent by standard postal mail to:
+
+                Network Cybernetics Corporation
+                Attn: AI CD-ROM Submissions
+                4201 Wingren Road, Suite 202
+                Irving, TX 75062-2763
+
+        B. Uploaded to The Interocitor AI BBS system via dial-up modem:
+
+                The Interocitor
+                Tel. 214-258-1832
+                Support modem speeds up to 14.4kbps, V.32bis, V.42bis
+
+        C. File Attached over Fidonet to node 1:124/2206
+
+        D. Made available for pickup over Internet via FTP:
+
+           We do not have an Internet FTP site at this time but we
+           are able to retrieve files from other sites. If you can
+           give us an Internet archive site name or address and the
+           file name, we can retrieve the file via FTP.
+
+        E. Internet email: submissions@ncc.com (files should be UUencoded)
+
+        F. Uploaded to other Compuserve. We have a Compuserve account and
+           can retrieve files left in any public forum. (this assumes you
+           don't mind your files being available on Compuserve, of course).
+
+        G. Uploaded to other public BBS. We are happy to make a pickup at
+           any public BBS provided you can arrange for our access to the
+           system and give us the phone number. We can file-request the
+           files directly from any RBBS or Fidonet affiliated BBS.
+
+V       Submission formats
+
+        We can accept submission on the following media formats:
+
+        -       3.5"  HD DOS format floppy disks
+        -       3.5"  DD DOS format floppy disks
+        -       5.25" HD DOS format floppy disks
+        -       5.25" DD DOS format floppy disks
+        -       3.5"  HD Macintosh format floppy disks
+        -       3.5"  DD Macintosh format floppy disks
+        -       8mm Tapes if readable in an Exabyte w/Sytos software
+        -       4mm DDS Tapes if readable by Sytos software
+        -       Conventional & 1 Off CD-ROMs in ISO-9660 or HFS format
+
+        If you do not have access to any of the above types of media but
+        still wish to submit something, please contact us. We hope to support
+        additional devices and formats soon. If it is of sufficient interest,
+        we will consider paying third party conversion costs.
+
+VI      Copyright Notes.
+
+        The copyright on files submitted is retained by the author or 
+        submitter of the file exclusively. Network Cybernetics Corp.
+        copyrights only the name, format, and layout of the CD-ROM. All
+        files contained on the disk retain whatever copyright status their
+        authors orginally placed on them. Submission of a file to NCC for
+        inclusion on the CD-ROM does NOT constitute a change of any kind
+        in the copyright status of the file. Copyrighted works will remain
+        copyrighted by the author. Shareware still requires the user to
+        meet any stipulations of the original author, etc.
+
+
+

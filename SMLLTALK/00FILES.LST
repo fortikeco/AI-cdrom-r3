@@ -1,0 +1,22 @@
+##############################################################################
+## Directory: \SMLLTALK                                                     ##
+##############################################################################
+GNUST111.ZIP  442545 08-15-91 Complete source for GNU SmallTalk V1.1.1
+GNUSTDOC.ZIP  105742 08-01-93 GNU Smalltalk documentation in ASCII and
+                              Postscript formats
+LST_UNIX.ZIP  173411 07-25-93 Original Unix implementation by Dr. Timothy Budd
+LTLST3.ZIP    125698 03-14-89 Little Small Talk V3.0 generic source
+SMALLV3.ZIP    73137 07-23-92 Little Small Talk V3.0 UNIX TAR format
+SMTLK111.ZIP  360499 07-04-92 GNU Small Talk v.1.1.1 w/source UNIX TAR
+STV3_DOS.ZIP  214600 09-12-91 Little Smalltalk V3.0 for DOS exes & source
+TST_EXE.ZIP    99814 11-09-87 Tiny Small Talk by S. H. Smith 1 of 2
+TST_SRC.ZIP   124620 11-10-87 Tiny Small Talk by S. H. Smith 2 of 2
+------------------------------------------------------------------------------
+-- Small Talk libraries, utilities, and examples -----------------------------
+------------------------------------------------------------------------------
+GROPE.ZIP    1731673 07-05-92 GROPE - implemented in SmallTalk UNIX TAR
+SMPROGS.ZIP    97147 11-14-87 Small Talk examples for most ST compilers
+SMDRAW3.ZIP    22156 05-28-92 Small Talk source for a graphics editor
+STALKFAQ.ZIP   19533 11-17-94 Usenet comp.lang.smalltalk newsgroup FAQ
+TETRIS.ZIP     19553 08-10-91 Small Talk example implementation of Tetris
+

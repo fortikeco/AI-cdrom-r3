@@ -1,0 +1,38 @@
+##############################################################################
+## Directory: \SCHEME                                                       ##
+##############################################################################
+3DS_DEMO.ZIP  224185 10-11-94 Demo of 3DScheme for Windows from Schemers Inc.
+32XSCH.ZIP    140283 04-04-91 32bit Xscheme v0.25 of OS/2 2.0
+ADOBE.ZIP       8932 02-14-93 2D, gray-scale graphics for Scheme
+ELK11.ZIP     347890 07-04-92 Extension Language Kit v1.1 UNIX TAR
+LALR.ZIP        9965 05-11-93 Mark Johnson's LALR(1) parser generator
+MULTV25.ZIP  1080653 07-05-92 Mul-T v2.5 Scheme parallel processors
+PCSCHEM1.ZIP  167251 06-09-90 PC-SCHEME source from TI 1 of 4 disks
+PCSCHEM2.ZIP  352279 05-18-88 PC-SCHEME source from TI 2 of 4 disks
+PCSCHEM3.ZIP  312810 05-24-88 PC-SCHEME source from TI 3 of 4 disks
+PCSCHEM4.ZIP  137379 05-18-88 PC-SCHEME source from TI 4 of 4 disks
+PCSCM303.ZIP  632037 02-21-92 PC-SCHEME v3.03 for DOS platforms
+PCSCMUTI.ZIP  156387 11-25-86 PC-SCHEME utilities and graphics examples
+SCHEME.ZIP    139722 05-05-92 Undocumented 386/DOS Scheme implementation
+SCHEMER.ZIP     8011 07-29-92 Scheme interpreter in common LISP UNIX TAR
+SCHEMFAQ.ZIP   22366 04-15-93 Usenet comp.lang.scheme newsgroup FAQ
+SCHMR399.ZIP  101602 07-31-89 "Report on the Algorithmic Language, Scheme"
+                              Revision 3.99
+SCM1_2.ZIP     77420 02-08-91 SCM v. 1.2 implementation of Scheme
+SIOD30.ZIP     46234 11-29-94 SIOD v3.0 Scheme interpreter - C source
+SIMPLE.ZIP      2644 08-06-93 Kent Dybvig's simple-extend for Scheme
+------------------------------------------------------------------------------
+-- MIT SCHEME Dist 7.0  ------------------------------------------------------
+------------------------------------------------------------------------------
+EXE_68K.ZIP  2694273 08-09-93 Compiled world images for 68020 machines
+CORE.ZIP      796820 06-27-89 Microcode, installation tools, & basic docs
+PSB.ZIP       648203 06-02-89 Portable binary files for platforms that do not
+                              support compiled code
+------------------------------------------------------------------------------
+-- XSCHEME -------------------------------------------------------------------
+------------------------------------------------------------------------------
+XSCHM016.ZIP   74712 07-05-92 C source for xscheme v0.16 UNIX TAR
+XSCHEME.ZIP    72539 01-08-91 Xscheme Programming language V0.25
+XSCHEME2.ZIP  175392 04-03-92 32bit XScheme V2.0 for OS/2 2.0
+XSCHMSRC.ZIP   62660 01-08-91 C source code for Xscheme  V0.25
+

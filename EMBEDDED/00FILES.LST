@@ -1,0 +1,293 @@
+##############################################################################
+## Directory: \EMBEDDED - Tools for moving AI to embedded environments      ##
+##############################################################################
+------------------------------------------------------------------------------
+-- Assemblers, disassemblers, and cross-assemblers ---------------------------
+------------------------------------------------------------------------------
+6502ASM.ZIP    79202 06-15-88 Assembler for 6502
+6805DEMO.ZIP  215583 04-24-92 Demo of Byte Craft Limited C6805 code
+                              development system. Includes macro cross-asm.
+                              integrated development environment (IDE),
+                              linking shell, expert-system optimizations, and
+                              more. Runs under DOS.
+68ASMSIM.ZIP  146190 03-10-89 Motorola 68000 assembler and simulator programs
+                              with DOS executables and C source code.
+8048DASM.ZIP   12641 08-27-87 Disassembler for 8048/8049 w/turbo C source
+8051DASM.ZIP   16246 01-04-92 C/8051 disassembler ASM/8052 M-tasker
+8051DEV.ZIP   314435 05-31-94 Mark Hopkins freeware 8051 development kit with
+                              ANSI C source for all components.  Includes an
+                              assembler, disassembler, arbitrary precision
+                              arithmetic library, debugger, and a multi-
+                              tasking kernel with demo software for serial
+                              communications, hex download, stepper motor
+                              drivers, LCD drivers, pulse counting, and data
+                              collection.
+A6502.ZIP      49444 02-17-87 PseudoSam v1.0.00 cross-Assembler:6502
+AS11V103.ZIP   34135 01-05-92 Assembler for Motorola 68HC11. Version 1.03.
+                              Includes DOS executables and documentation.
+                              Written by Motorola.
+AS31.ZIP       50212 00-23-93 Intel 8031/8051 assembler w/C source
+AS68_101.ZIP   90615 01-25-88 C src for S. Passe's 68000 cross-assembler v1.01
+ASZ8.ZIP       30563 04-16-90 Portable C source for Ziglog Z8 cross-assembler
+BAS051.ZIP     29653 05-27-94 W. Washington's 8051 BASIC compiler for DOS.
+                              Accepts a subset of BASIC and produces 8051
+                              assembler files.
+BASIC_31.ZIP   12622 05-27-94 Intel Hex format file containing a modified
+                              version of BASIC-52 that will run on 8031 and
+                              8051 CPUs in an external EPROM.
+BASIC_52.ZIP   46692 02-23-94 ASM51 Macro Assembler source for Intel BASIC-52
+                              (tm) and BCD Floating point.
+BF11.ZIP       80263 07-31-91 MCS Basic-52 Src Code(from INTEL INSITE)
+COP8DEMO.ZIP  211629 09-24-94 Demo of Byte Craft Limited COP8C code
+                              development system. Includes macro cross-asm.
+                              Integrated development environment (IDE),
+                              linking shell, expert-system optimizations,
+                              more. Run under DOS.
+CUG113.ZIP     99619 09-03-89 CUG source code for CP/M based 6800, 6801 &
+                              1802, 1805A cross-assemblers
+CUG149.ZIP    100881 09-03-89 CUG portable source code for 6801, 6805, and
+                              1805A cross-assemblers
+CUG190.ZIP     61068 09-03-89 CUG source code for CP/M based Motorola 68000
+                              cross-assembler
+CUG219.ZIP     82211 08-04-91 CUG portable source for 6502, 65C02, & 8048
+                              cross-assemblers
+CUG242.ZIP     94196 08-04-91 CUG portable source for 68HC11, 8051, & 63701
+                              cross-assemblers
+CUG267.ZIP     89259 08-04-91 CUG portable source for 8085, 2650, & S6
+                              cross-assemblers
+CUG276.ZIP     96041 08-04-91 CUG portable source for 6804, Z80 & PIC1650
+                              cross-assemblers
+CUG292.ZIP    383041 08-04-91 A. Baldwin's portable 68xx, 80xx, & Z80
+                              cross-assemblers
+CUG303.ZIP     38742 08-04-91 CUG C source for a Motorola 68K disassembler
+CUG309.ZIP     91010 08-04-91 CUG Small C compiler-supports embedded
+                              applications and CUG cross-assemblers
+CUG335.ZIP    271614 08-04-91 CUG "Frankenstein" cross-assembler collection
+                              with source code.
+CUG346.ZIP     94161 08-04-91 Updates to A. Baldwin's portable cross-assembler
+                              collection
+CUG363.ZIP    104787 11-18-91 CUG source for Motorola 68020 cross-assembler
+D51_V12.ZIP    17582 05-27-94 D51 8051/8052 3-pass disassembler for DOS by
+                              Jeffery L. Post.
+DASM48.ZIP     15336 06-22-86 Disassembler for 8048 hexfiles
+DASM80.ZIP     14498 06-22-86 Disassembler for 8080 hexfiles
+DASMZ80.ZIP    39686 06-22-86 Disassembler for Z80 hexfiles
+DIS_8048.ZIP    7281 04-14-89 8048/49 Disassembler
+DIS8048.ZIP    29220 04-07-91 Disassembler for the 8048 with C source
+DIS8051.ZIP    27169 05-25-91 DataSync cross-disassembler:Intel 8031/51
+DSP56ASM.ZIP   89357 00-09-92 C src for a DSP 56001 assembler v1.0
+EPASM13.ZIP    34125 02-17-92 Version 1.3 of DOS cross-assembler for the Intel
+                              8749H EPROM chip implementing the MCS-48
+                              instruction set.
+FORTH51.ZIP   157861 10-10-90 DOS Forth86 environment for the 8051. From the
+                              Signetics BBS.
+HITECH.ZIP    525947 05-21-93 Working demo versions of Hi-Tech software's
+                              8051, H8/300, and Z80 C cross compilers for DOS.
+                              Demo versions are limited to small C program
+                              sizes and produce assembler output only.
+ICC11.ZIP     183093 11-12-93 ImageCraft 68HC11 C cross-compiler ver.0.20.
+                              (an early alpha version). NOT public domain
+                              but freely distributable and no shareware fee.
+MC20.ZIP      191379 07-20-90 Micro-C compiler(8086,8080,68HC11..etc.)
+ML_ASM51.ZIP  127168 12-13-90 MetaLink's 8051 family macro assembler for DOS
+MOTOASMS.ZIP  281385 10-23-90 Set of Motorola cross-assemblers
+MPCDEMO.ZIP   262429 09-21-94 Byte Craft Limited Microchip PIC16/17Cxx family
+                              code development system. Includes macro asm.
+                              Integrated development environment (IDE),
+                              linking shell, expert-system optimizations, and
+                              more. Runs under DOS.
+PCMAC.ZIP      84782 04-22-91 Hungarian universal assembler
+PS18A12.ZIP    41773 02-17-87 PseudoSam v1.2 cross-assembler:RCA 1802,4,5,6
+PS48A12.ZIP    45056 02-17-87 PseudoSam v1.2 cross-assembler:Intel 8748
+PS51A14.ZIP    45870 07-13-88 PseudoSam v1.4 cross-assembler:Intel 8051
+PS65A12.ZIP    42798 02-17-87 PseudoSam v1.2 cross-assembler:Motorola 6502
+PS685A12.ZIP   43389 02-17-87 PseudoSam v1.2 cross-assembler:Motorola 6805
+PS68A12.ZIP    43884 02-17-87 PseudoSam v1.2 cross-assembler:Moto. 6800-03/08
+PS69A12.ZIP    44950 02-17-87 PseudoSam v1.2 cross-assembler:Motorola 6809
+PS85A12.ZIP    42838 02-17-87 PseudoSam v1.2 cross-assembler:Intel 8085
+PS96A12.ZIP    44905 02-17-87 PseudoSam v1.2 cross-assembler:Intel 8096
+PSZ80A13.ZIP   47444 03-08-87 PseudoSam v1.2 cross-assembler:Z-80
+SAMPROG.ZIP    20175 02-21-89 Motorola 68HC05 sample source code
+SMALLC11.ZIP   51729 06-04-88 Small C V2.0 compiler for the 68HC11
+TASM280.ZIP    90745 05-31-94 Table based assembler v2.8.0 for DOS. Includes
+                              table definitions for 10 processors. User may
+                              define additional tables for any 8bit CPU.
+TB_51TS.ZIP    92705 02-08-91 Tom Schotland's modified version of Intels's
+                              TB51 TinyBASIC interpreter for the 8051. Needs
+                              3k memory and can run in the 8051's internal
+                              memory.
+TB51ML23.ZIP   69758 04-26-92 Jim Lum's Mtealink-compatible port of the Intel
+                              TB51 TinyBASIC interpreter for the 8051 vers.2.3
+UASM14.ZIP     68466 03-10-86 Universal Assembler v1.4 with C source
+WDASM13.ZIP    88098 00-15-93 Windows-based 80x86 disassembler
+XD8051.ZIP     33229 12-23-90 P. A. D. Ferreira's DOS-based FORTH cross
+                              assembly development system for the 8051
+Z80_ASM.ZIP    75811 04-03-91 Assembler for a strange dialect of the Z-80
+Z8DEMO.ZIP    227320 04-09-92 Byte Craft Limited Z8C code development system.
+                              Includes macro assembler, integrated development
+                              environment (IDE), linking shell, expert-system
+                              optimizations, and more. Runs under DOS.
+ZMAC.ZIP       63684 02-08-88 Macro Assembler & disassembler for Z-80
+------------------------------------------------------------------------------
+-- Emulators and other debugging tools ---------------------------------------
+------------------------------------------------------------------------------
+29KSIM.ZIP    213400 03-12-88 AM29000 Streamlined Instruction Processor
+68EM10.ZIP     63243 04-06-91 Motorola 6800 emulator
+CDS_MON.ZIP     2694 05-27-94 C source for a simple 8051 monitor from Computer
+                              Design Solutions, Inc.
+DB51KS.ZIP     16949 01-03-92 Assembler source for 8051 debugger developed by
+                              Axonn Corporation. A modified version that uses
+                              RS751 UART routines is also included.
+DIGITSIM.ZIP   37191 00-03-87 Digital logic simulator
+EMILY51.ZIP    28578 04-29-91 8051 æcontroller emulator
+EMUZ80.ZIP     82995 10-12-90 Emulator\Debugger for Z80 and 8080
+MON31_11.ZIP    8740 03-11-92 TASM/PseudoSam source for a low-level 8051
+                              monitor by Ron Stubbers
+MONPLUS.ZIP    21354 07-10-90 PsuedoSam A51 source for Steve Kemplin's
+                              8031 family monitor. Based on R. Stubbers code.
+SIM05.ZIP      36578 08-12-89 Motorola 146805E2 simulator
+SIM51.ZIP     232013 02-01-93 8051 family simulator and assorted utilities.
+                              Shareware. Documentation is non-English.
+SIM68102.ZIP   80820 01-05-92 Motorola 68HC11 simulator for IBM PC v1.02
+SYM_R3.ZIP     48933 10-27-91 Motorola 68705R3 simulator
+------------------------------------------------------------------------------
+-- I2C Bus related file ------------------------------------------------------
+------------------------------------------------------------------------------
+I2C_8051.ZIP    2688 05-31-94 Generic 8051 assembler source for a software
+                              implemented I2C single master bus driver. Uses
+                              an 8051 I/O port to "bit-bang" out I2C data.
+I2C528.ZIP     40516 05-31-94 I2C drivers for the 8xC528. Library of routines
+                              with assembler source and batch files to build
+                              library.
+I2C552_C.ZIP    7125 11-10-89 I2C drivers for the 8xC522. Assembler source
+                              with a C language interface example. Written by
+                              Robert E. Engle Jr.
+I2C751MM.ZIP    9580 06-04-92 I2C Multi-master communications routines for
+                              the 83C751 and 83C752. Assembler source.
+I2C8584.ZIP     8124 05-18-90 Assembler examples for using the 8584 I2C to
+                              parallel bus i/f with the 80C31.
+I2CAPP.ZIP      3936 11-17-94 I2C single master routines for the 87C751 and
+                              87C752 with assembler source.
+I2CDEMO.ZIP    14258 11-17-94 Source code for the Signetics 87C751-based I2C
+                              evaluation board (part #S87C00KSD).
+I2CINIT.ZIP     3703 01-30-90 Assembler source for the 83C751 I2C peripheral
+                              initialization program.
+I2CSLAV.ZIP     3225 12-02-92 Assembler source for 8xC751 and 8xC752 I2C
+                              slave routines.
+PCI2C.ZIP     179019 04-14-93 IICTV v3.2 from Philips Components. A DOS I2C
+                              bus communications program for the PC parallel
+                              printer port. Requires the special port adapter
+                              board described in file PCI2CBD.ZIP
+PCI2CBD.ZIP     1732 04-14-93 Schematic for a simple port adapter board that
+                              converts a PC parallel port to an I2C port.
+------------------------------------------------------------------------------
+-- Misc processor related files ----------------------------------------------
+------------------------------------------------------------------------------
+8051BOOT.ZIP    6801 04-13-92 Assembler source for an 8051 bootstrap loader.
+                              Downloads hex code via the 8051 UART and then
+                              executes it.
+8051MATH.ZIP    5211 06-18-90 Assembler src for 8051 multi-byte math routines.
+8051UART.ZIP    1967 07-16-91 Assembler src for 8051 serial port functions.
+8051VEND.ZIP    3797 05-27-94 List of vendors who supply 8051 related products
+8051WARM.ZIP    2523 06-19-90 Assembler source showing how to distinguish
+                              between a warm and cold boot on the 8051.
+DEMO752.ZIP     2711 05-27-94 Assembler source for demonstration of the
+                              Signetics 87C752 A/D and PWM functions
+FRAME10.ZIP     4126 05-27-94 87C751 Assembler source for initializing an
+                              SAA9051 digital video board via an I2C port.
+LCDTERM.ZIP    15050 08-01-91 8031 assembler for a term program that uses an
+                              LCD display.
+MCS51INT.ZIP    1569 05-31-94 Assembler source demo of using external
+                              interrupts on an MCS-51.
+MCX11V15.ZIP   73874 01-05-92 Real time kernel for Motorola MC68C11
+MHXBIN.ZIP     11749 02-04-89 Motorola Hex <-> Bin convertor w/ C src
+PAL.ZIP        48787 09-24-88 AMD PAL C18U8Q JEDEC file converter
+REG552.ZIP      4527 05-27-94 80c552 declarations for the Franklin A51 C
+                              compiler and A51 assembler.
+ROMTOOLS.ZIP   26050 02-29-88 PC ROM tools w/src:BINHEX,CHKSUM,SPLIT
+RS751.ZIP       2398 05-31-94 Software simplex UART routines for the 83c751
+                              and 83c752. Assembler source code.
+RTX.ZIP        75968 02-09-92 Real time kernal for 80x86 load on top of MSDOS
+S87C752.ZIP     1156 05-27-94 Assembler source for A/D test with Signetics
+                              87c752 chip. Written by K. Coffey
+SERIAL_1.ZIP    1155 05-27-94 Assembler source for 87c751 serial stream
+                              generator from Signetics.
+TCROM2.ZIP     13073 02-02-89 TC2.0 Microcontroller ROM code kit
+TIMERI.ZIP      1723 08-29-89 Assembler source showing alternate usage of
+                              timer I port on 83c751 when not used as the
+                              I2C port.
+------------------------------------------------------------------------------
+-- FAQs and technical data  --------------------------------------------------
+------------------------------------------------------------------------------
+6811FAQ.ZIP    20547 11-17-94 Usenet FAQ on the Motorola 6811 CPU
+8051FAQ.ZIP    24325 11-17-94 Usenet FAQ on the Intel 8051 CPU
+ASREF.ZIP      20711 03-16-89 Reference manual for Motorola cross assemblers
+EEF202.ZIP     79353 01-10-92 v2.02 Electronic Formula Reference
+ETM130.ZIP    115518 06-28-91 Zilog E.Tech Manual for 85130
+ETM230.ZIP    115168 06-28-91 Zilog E.Tech Manual for 85230
+ETM30.ZIP     111999 06-28-91 Zilog E.Tech Manual for NMOS SCC Z8x30
+ETMC30.ZIP    112929 06-28-91 Zilog E.Tech Manual for CMOS SCC Z8x30
+ETMUSC.ZIP    138403 06-28-91 Zilog E.Tech Manual for USC controller
+MC_BBS.ZIP     21654 08-28-93 Some useful posts captured from 3 years worth
+                              of messages on the Motorola Freeware BBS. Most
+                              are 68HC11 related.
+MICROFAQ.ZIP   21777 11-17-94 Usenet Microcontroller FAQ
+PLATUT.ZIP     67397 07-17-84 Programmable logic primer.
+TSR8051.ZIP     7376 02-05-90 DOS TSR with help screens with 8051 device info.
+TUTOR51.ZIP     8186 01-05-90 Pop-up reference guide for Intel 8051
+------------------------------------------------------------------------------
+-- Circuit design tools ------------------------------------------------------
+------------------------------------------------------------------------------
+555TIMER.ZIP   54352 11-05-91 interactive 555 timer design
+ACE51FX1.ZIP  905704 07-06-91 INTELs ACE51 design expert 1/2
+ACE51FX2.ZIP  389472 07-06-91 INTELs ACE51 design expert 2/2
+DLANET10.ZIP   55570 04-21-90 Dlanet v1.0 Polynomial circuit analysis
+EDITPCBI.ZIP  119858 02-30-91 Softronix Edit PCB Intro V2.0
+EDITSCH2.ZIP  133104 07-14-91 Softronix v2.0 schematic capture utility
+EE11.ZIP      303278 03-29-92 Electrical Engineering design tools v1.1
+ELCIRC31.ZIP  184629 02-13-91 Electronic Circuit Designer v3.1
+ETB20.ZIP      98907 06-26-92 Electronic Tool Box v2.0 CAE tool
+GCPVU.ZIP     344032 01-21-91 Demo of GC-PREVUE photoplotter CAD/CAM
+LASI401A.ZIP  360017 05-02-92 LASI v4.01 IC layout program part 1 of 3
+LASI401B.ZIP  360011 05-02-92 LASI v4.01 IC layout program part 2 of 3
+LASI401C.ZIP   56604 05-02-92 LASI v4.01 IC layout program part 3 of 3
+LOGSIM.ZIP     33056 09-20-86 SSI/MSI digital circuit logic simulator
+LOGSIM21.ZIP   35354 00-03-87 LogSim v2.1 digital logic simulator for MSDOS
+MSIM53_1.ZIP 1265126 03-05-93 Design Center v5.3 evaluation version from
+                              Microsim.  A windows schematic capture and
+                              PSPICE simulation program. Part 1 of 2
+MSIM53_2.ZIP 1405325 03-05-93 Design Center v5.3 eval version Part 2 of 2
+NCAD3D42.ZIP  150739 03-18-91 NorthCAD-3D v4.2 for DOS platforms
+NETWORK2.ZIP   88198 09-31-91 ac spectral analysis of circuit
+PADSLIB.ZIP   461934 06-11-91 PADS Demo version - library files
+PADSLOG.ZIP  1061191 00-31-92 PADS Demo version - logic schematic capture
+PADSPCB.ZIP   988785 00-16-92 PADS Demo version - PCB layout
+PCBREEZE.ZIP  200557 04-04-91 PCB CAD program with AUTOROUTE
+PCROUTE2.ZIP  104499 11-13-89 PCB design program version 2 for DOS platforms
+PFWDEM10.ZIP  948420 07-03-92 Protel PCB for Windows Demo version
+PLL.ZIP       117650 02-14-89 Phase-locked-loop design program
+QR_13.ZIP     116834 04-01-92 QuickRoute version 1.3 PCB routing program
+SIMIC.ZIP    1042395 01-21-93 SIMIC is a logic simulation system that deals
+                              with logic buses, spikes, and other "real life"
+                              events.  Docs in Post Script format. DOS/386
+SOLV60A.ZIP    97837 06-13-90 AC/DC circuit problem solver v6.0a
+TDCA.ZIP       47478 05-29-91 Tiny Digital Circuit Analysis v1.1
+------------------------------------------------------------------------------
+-- SPICE and PSPICE related files --------------------------------------------
+------------------------------------------------------------------------------
+ADISPICE.ZIP  348904 00-15-91 Analog Devices Spice data for all parts
+MODELS.ZIP     22334 02-07-86 Pspice circuit simulation model library
+PSPICE.ZIP   1190276 01-29-90 32bit OS/2 evaluation version of PSpice v4.03
+PSPICE11.ZIP  352638 00-31-91 PSPICE v4.05 student version -- 1 of 6
+PSPICE12.ZIP   98176 01-12-91 PSPICE v4.05 student version -- 2 of 6
+PSPICE13.ZIP  175014 01-12-91 PSPICE v4.05 student version -- 3 of 6
+PSPICE14.ZIP  253414 00-31-91 PSPICE v4.05 student version -- 4 of 6
+PSPICE15.ZIP  301775 01-12-91 PSPICE v4.05 student version -- 5 of 6
+PSPICE16.ZIP  265768 00-31-91 PSPICE v4.05 student version -- 6 of 6
+PSPICE5A.ZIP 1187601 08-06-91 PSPICE v5.0a Evaluation version. Disk 1 of 2
+PSPICE5B.ZIP 1130448 08-16-91 PSPICE v5.0a Evaluation version. Disk 2 of 2
+PSPSCHM5.ZIP  848140 08-04-91 PSPICE Schematic v5.0a for Windows [Demo vers]
+SPICEDOC.ZIP   43235 11-16-87 Pspice manual and documentation
+SPICE2G6.ZIP  225815 08-22-92 32bit OS/2 2.x port of SPICE v2.G6
+SSPICE10.ZIP   80362 01-01-91 Symbolic SPICE circuit analyzer Demo version
+

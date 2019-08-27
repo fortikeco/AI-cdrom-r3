@@ -1,0 +1,167 @@
+##############################################################################
+## Directory: \DATA - Sample data for use in testing or teaching AT programs #
+##############################################################################
+0ML_ARCH.ZIP    9727 07-06-93 Index of databases available from the UCI
+                              Machine Learning Repository
+3DNFFOBJ.ZIP  499680 10-22-94 A collection of 18 3 dimension objects in NFF
+                              format. Useful for VR or vision applications.
+ANNEAL.ZIP      8846 07-06-93 Annealing data with some missing attributes
+ART_CHAR.ZIP 1111259 07-10-93 Artificial characters database
+AUDIOLOG.ZIP   10459 07-06-93 Audiology data in standardized and
+                              non-standardized formats
+AUTO_MPG.ZIP   15009 07-09-93 Auto-mpg data from CMU Statlib library
+AUTOS.ZIP       7760 07-10-93 Automobile data from Ward's 1985 yearbook
+BCANCER.ZIP    14754 07-10-93 Wisconsin breast-cancer data
+BRIDGES.ZIP     4796 07-10-93 Pittsburgh bridge design knowledge database
+CHESS.ZIP      43620 07-10-93 Chess data, w/example src
+CPU_PERF.ZIP    4249 07-10-93 1987 CPU Performance data from CACM
+CT_SCANS.ZIP  478450 07-25-89 3-D CT scanner image data & example C src code
+ECHOCARD.ZIP    4314 07-11-93 Echocariogram database from Reed Institute
+FLAGS.ZIP       5529 07-11-93 Flag db from Collins Gem Guide to Flags, 1986
+FUNCTION.ZIP   55176 07-11-93 352 cases of bivarate numeric data sets
+GLASS.ZIP       6149 07-11-93 Glass identification database from US Forensic
+                              Science Service
+HEART.ZIP     128524 07-11-93 Heart disease databases for 4 different
+                              geographical areas
+HERPTOX.ZIP    24523 05-21-89 ASCII format database of snake and toad toxins,
+                              effects, locations
+HORSE.ZIP      14673 07-11-93 Horse Colic database of 368 instances
+HOUSING.ZIP    14085 07-11-93 Database of Boston housing prices in suburbs
+HOUSING2.ZIP   16621 03-01-93 Gary Martin's housing data. 450 records. Used
+                              as part of a neural net test suite.
+HR.ZIP          3233 07-11-93 Hayes-Roth database from their 1977 study
+IONOSPHR.ZIP   30133 07-11-93 Database of radar returns from the ionosphere
+IRAS.ZIP      498799 07-12-93 Low resolution spectrometer database from NASA
+IRIS.ZIP        2381 07-11-93 Iris plant database - 3 classes, 150 instances
+KINSHIP.ZIP     1845 07-11-93 Relational (literally!) database
+LABOR.ZIP       5469 07-11-93 Labor-negotiations/Collective Bargaining Review
+LENSES.ZIP      1142 07-11-93 Small database of contact lenses fitting data
+LETTER.ZIP    204808 07-11-93 David Slate's letter recognition database
+LIVER.ZIP       3354 07-11-93 Liver disorder database from BUPA Medical
+                              Research
+LUNG.ZIP        1786 07-11-93 Lung cancer database
+MBIOLOGY.ZIP  115957 07-12-93 Moleculary Biology gene and protein databases
+MECHANIC.ZIP 1274557 07-12-93 Mechanical-Analysis/fault diagnosis data set
+MONKS.ZIP     467957 07-12-93 MONK's problems for testing induction algorithms
+MUSHROOM.ZIP   62279 07-12-93 Mushroom data from Audobon Society Field Guide
+NETTEST.ZIP    29362 04-09-93 A set of 5 databases used in Greg Martin's
+                              neural net comparison test. Includes a text file
+                              with descriptions of the data sets and complete
+                              instructions for testing a neural net.
+PIMA.ZIP       10473 07-12-93 Pima-Indians diabetes test database
+POST_OP.ZIP     1919 07-12-93 Post Operative patient data
+SATIMAGE.ZIP  102934 07-12-93 Landsat multi-spectral pixel value database
+SERVO.ZIP       2216 07-12-93 Servo data w/numerically valued class attribute
+SHUTTLE.ZIP     1190 07-12-93 Space shuttle landing control database
+SIC.ZIP       806020 00-04-93 Standard Industrial Classification data and
+                              search program
+SOLAR.ZIP       6517 07-12-93 Solar flare database with 1389 instances
+SOYBEAN.ZIP    26453 07-13-93 Large and small soybean disease database
+TTT.ZIP         4554 07-12-93 Tic-Tac-Toe endgame database 958 instances
+UNIV.ZIP       17220 07-16-93 Database of information on Universities
+VEHICLE.ZIP    25618 07-12-93 Database of vehicle silhouettes from the
+                              Turing Institute
+VOTES84.ZIP     4216 07-16-93 US congressional voting records from House, '84
+WATER.ZIP      39360 07-16-93 Water treatment plant data for predicting state
+WINE.ZIP        5642 07-16-93 Wine recognition/chemical analysis database
+WORLD91A.ZIP  912325 00-30-92 CIA World Factbook for 1991 in ASCII format
+ZOO.ZIP         2332 07-16-93 Artificial zoological database w/17 attributes
+------------------------------------------------------------------------------
+-- Data creation utilities ---------------------------------------------------
+------------------------------------------------------------------------------
+DGP2.ZIP       19361 07-11-93 Data generation program makes data to your specs
+LED.ZIP         5202 07-12-93 C src to create LED display domain data sets
+QUAD_GEN.ZIP    4521 07-12-93 Generates structured data about quadrapeds
+WAVEFORM.ZIP    4383 07-16-93 Generates waveform data w/continous attributes
+------------------------------------------------------------------------------
+-- Financial data sets -------------------------------------------------------
+------------------------------------------------------------------------------
+CREDIT.ZIP     13784 07-11-93 Japanese credit-screening database
+DJ302YR.ZIP    16297 01-07-94 Dow Jones 30 Industrial Average data in WK1 and
+                              XLS spreadsheet format covering Jan 17, 1992
+                              through Dec 31, 1993. Weekly data with End,
+                              High, Low, Close, and Change values.
+DJ30SM.ZIP     62541 01-30-93 Dow Jones 1982-1992 data with moving averages in
+                              Excel spreadsheet format.
+DJ30XL.ZIP   1916588 01-24-93 Dow Jones 30 Ind. averages + moving averages in
+                              Excel spreadsheet format.  Also includes utility
+                              that converts captured CompuServe quotes into a
+                              comma-delimited text file that can be imported
+                              into most spreadsheet programs.
+NVEST063.ZIP   65695 05-06-93 Stock market data for years '89, '90, '91, & '92
+                              in 2 different formats
+RATES.ZIP      34335 12-05-88 WK1 format spreadsheet of interest rate data
+                              from Jan, 1976 through Oct 1988. Includes the
+                              prime, auction average discount, UST constant
+                              maturities, and UST bond rates.
+SP500.ZIP     444302 05-09-94 2,982 days of S&P 500 data from 01/07/82 to
+                              10/18/93 in a WK1 file with 14 inputs and 1
+                              target column (5-day ahead forcast). 1st 2,535
+                              row were used as Neural net training data, last
+                              447 used as test data.
+STOCK.ZIP       2700 06-03-89 Stock market information from Jan 1969 through
+                              Dec 1978 in line delimited ASCII format. Text
+                              file describing data included.
+STUDENT.ZIP    15207 07-12-93 Student loan database useful for constructive
+                              induction studies
+TSJ8910.ZIP    28407 10-15-89 Carillion Datascribe database of key economic
+                              data in Comma delimited ASCII format. Covers
+                              1970 to Oct. 1989.
+------------------------------------------------------------------------------
+-- Misc. and/or Undocumented data sets ---------------------------------------
+------------------------------------------------------------------------------
+CHEMREF.ZIP   140337 10-11-87 Database of Chemistry data w/database program
+CHIPOLL.ZIP    43086 03-02-89 Data from a Chicago Mayoral poll
+CLOUDS.ZIP     65353 07-16-93 Cloud cover image database, sparse documentation
+COFFEE.ZIP     43677 05-23-94 Daily Coffee prices formatted for analysis by
+                              neural net. 4,772 prices from 1972 to July 24,
+                              1992. Prices were pre-processed by, "for each
+                              price, removing the average of 220 prices up to
+                              that price and dividing it by the standard
+                              deviation of the same 220 prices".
+DNA.ZIP        75658 07-16-93 DNA secondary structure data, sparse docs
+ECONOMIC.ZIP    4169 07-12-93 Mike Pazzani's economic sanctions data - no docs
+FAMILY.ZIP     50876 07-29-92 List of common family names in ASCII format
+FORT500.ZIP    31626 01-16-89 Fortune 500 data in dBase format
+GIVEN.ZIP      26286 07-29-92 List of common given names in ASCII format
+HAZMAT.ZIP     70473 07-25-92 Hazmat database in ASCII format
+HEPATITI.ZIP    3620 07-11-93 Hepatitus database from CMU w/incomplete docs
+OTHELLO.ZIP    12990 07-12-93 Prolog source useful in testing inductive
+                              learning systems
+RADDECAY.ZIP  329515 06-26-88 RSIC decay data for 497 radionuclides
+SEGMENT.ZIP   112548 07-11-93 Image segmentation database from Univ. Mass
+SPYBASE.ZIP   898747 05-10-89 Database of spies & related info.
+SUNSPOT.ZIP    23204 05-02-92 Collection of sunspot activity data
+USCEN902.ZIP   63270 07-15-92 1990 US Census data from Project Gutenberg
+ZIPCODES.ZIP  305315 10-28-90 US Zipcode data in dbase .DBF format
+------------------------------------------------------------------------------
+-- Geographical data ---------------------------------------------------------
+------------------------------------------------------------------------------
+COLOQUAD.ZIP   51163 09-01-87 Colorado quadrangle data/dBase format
+COASTMAP.ZIP 3029333 07-29-92 Database of coastline data with C source
+DAVIS.ZIP     193408 04-06-87 Geostatistical data from Davis book
+MAPVU20.ZIP   182542 00-13-89 Mapview v2.0 for view Worldmap data w/src
+PARKS.ZIP      13295 00-22-90 Line-delimited Wisconsin parks data
+STATES.ZIP      1223 04-26-89 .DBF database of state names
+STORM.ZIP     187326 07-27-89 90 years of tropical storm data
+WORLDMAP.ZIP  587718 04-12-88 The World Digitized, World map database
+------------------------------------------------------------------------------
+-- Texts & Books -------------------------------------------------------------
+------------------------------------------------------------------------------
+AESOP11.ZIP   102164 04-30-92 Aesop's Fables
+KJVBIBLE.ZIP 1571616 04-02-92 KJV Bible - 66 Books in ASCII format
+KJVCNCRD.ZIP 1132003 07-21-92 KJV Bible Concordance in ASCII format
+MOBY.ZIP      606033 06-25-85 The novel _Moby Dick_
+NIV1.ZIP      171621 10-05-94 NIV Bible - undocumented database format 1/8
+NIV2.ZIP      256478 10-05-94 NIV Bible - undocumented database format 2/8
+NIV3.ZIP      273371 10-05-94 NIV Bible - undocumented database format 3/8
+NIV4.ZIP      270371 10-05-94 NIV Bible - undocumented database format 4/8
+NIV5.ZIP      353779 10-05-94 NIV Bible - undocumented database format 5/8
+NIV6.ZIP      361160 10-05-94 NIV Bible - undocumented database format 6/8
+NIV7.ZIP      360773 10-05-94 NIV Bible - undocumented database format 7/8
+NIV8.ZIP      361592 10-05-94 NIV Bible - undocumented database format 8/8
+OEDIP10.ZIP   103284 03-18-92 English xlation of Sophocles' Oedipus Trilogy
+PHILQUOT.ZIP   36465 03-04-88 Random philosophical quotes in ASCII format
+TIMEM10.ZIP    84641 06-06-92 _The Time Machine_ by H. G. Wells
+WARW10.ZIP    161767 06-05-92 _War of the Worlds_ by H. G. Wells
+

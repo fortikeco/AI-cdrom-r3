@@ -1,0 +1,842 @@
+##############################################################################
+## Directory: \NLP                                                          ##
+##############################################################################
+AFGREP12.ZIP   14098 11-05-92 Source for a high-speed string search algorithm
+AGREP204.ZIP  139656 06-30-92 Source "approximate pattern" text srch algorithm
+AIBASE15.ZIP   97507 02-19-93 Saturn v1.5 free form NLP knowledge base
+AIBT15.ZIP    138260 02-19-93 Saturn v1.5 professional tool collection
+AINPAD.ZIP     66841 10-18-94 AI Note Pad v1.0 - program converses with user
+                              in order to learn new information.
+ANAGRAM2.ZIP  109406 04-17-93 OS/2 Utility to decrypt anagrams. With C source.
+AVSRCTAR.ZIP   27227 06-15-92 Mark Johnson's Attribute Value Parser
+BAB200.ZIP    160500 01-08-91 Babbles endlessly in selected formats...
+C_LIST.ZIP      9735 10-07-90 Lisp-like text processing functions in C
+CGPARSER.ZIP   16655 07-23-93 CGParser - a linear parser of conceptual graphs.
+COMEDYGN.ZIP   36325 01-06-91 Another multi-format text mangler
+CPARSE.ZIP     10554 10-20-90 Text parser/tokenizer for Clipper
+DCOUNT12.ZIP   20817 00-28-88 V1.2 text statistics generator
+DB3NLP.ZIP      2598 01-02-91 Prolog src for a dBASE III NLP front end
+DIASTEXT.ZIP   34891 02-29-89 Diatic text manipulation in C & Pascal
+DIMAP2PC.ZIP  120473 10-07-91 Demo of DIMAP-2, a dictionairy creation and
+                              maintenance utility
+DRAW.ZIP        3315 07-19-92 Prolog program to diagram sentences
+EASYIO.ZIP     20108 03-30-91 EXE and Pascal source for NLP DOS shell
+FILTERS.ZIP    88249 04-26-93 Large collection of Text filters
+FONOL421.ZIP  161197 11-18-91 Generative phonological rule simulator v4.2.1
+FREQCH12.ZIP   29062 05-27-90 V1.2 Character frequency analyzer
+GTU15.ZIP      27196 08-03-91 GMUtant's text filters and utilities
+GULP.ZIP      172585 06-15-92 Unification Based Grammer example in Prolog
+GRAMT411.ZIP  360473 01-28-91 Interpreter for transformational grammar
+HUM.ZIP        73371 07-18-93 Concordance and textual analysis package
+IT11C.ZIP     306031 08-11-91 Interlinear Text Processor vers 1.1c
+JMORPH.ZIP   1117340 06-22-92 Japanese morphological dictionairy with C src
+                              for a related search program
+LDBDEMOC.ZIP  276001 07-26-93 DEMO version of the Linguistic DataBase (LDB)
+LEX.ZIP       119458 01-26-84 Generates table driven lexical analyzers
+LEXUTI.ZIP    107137 03-01-93 Word part-of-speech lookup utility for PC Scheme
+                              with Scheme/C src and 11,000 word dictionairy
+LGRAMMAR.ZIP  512028 11-08-92 Link Grammar English parser with C source & docs
+LPARSER.ZIP    11736 03-30-88 Simple English parser in Lisp
+LQ_TEXT.ZIP   446571 07-26-93 Liam Quin's text search & retrieval system
+MARKV13.ZIP    57734 09-17-91 Probabilistic text generator
+MEL.ZIP        66829 11-31-89 Universal Metalanguage - C src NLP app front end
+MORFOGEN.ZIP  113431 01-25-92 Morphological parser demonstration
+MTAS11.ZIP    118570 03-27-87 Micro Text Analysis System version 1.1 from the
+                              University of Toronto. 6 text analysis utilities
+                              for DOS machines.
+MTAS13S.ZIP    70618 03-27-87 Pascal source code for MTAS v1.3
+NATLANG.ZIP     9887 00-30-86 Xlisp natural language proc. example
+NDF110.ZIP     38104 07-25-91 ASCII text noise disposal utility v1.1
+NLPPRO.ZIP      7738 00-01-80 NLP parser/data-base example in Prolog
+NMAI283F.ZIP  374120 02-04-91 Nuro-AI conversation system v2.83f[beta]
+PARSER.ZIP     15012 01-10-87 C source for generalized text parser
+PARSER1.ZIP    19533 03-10-90 Pascal source for language parser w/dict.
+PIEPAR.ZIP      9515 05-25-93 PIE2 Prolog source to parse and create simple
+                              sentences. By Graham L. Stoppani.
+POETRY.ZIP    237119 00-27-90 Poetry generator by R. K. West
+SEMANTIC.ZIP    2873 08-20-91 Several definitions of General Semantics
+SENPRO4.ZIP    40010 07-25-91 Utility to pre-process ASCII text files
+SHANEY.ZIP      4254 05-22-92 C++ source from August, 1992 AI Expert article
+                              on Markov chain generators.
+SH12A.ZIP     276247 08-19-91 Shoebox: linguistic data management pgm
+SOUNDEX.ZIP    10816 11-08-85 Source code for soundex routines
+SOUNDEXA.ZIP    5769 02-28-88 Fast source code for soundex routine
+SPEW.ZIP       13325 03-22-93 Rule based, context-free grammer generator.
+                              Includes rule set to generate National Enquirer
+                              headlines. C source code from the Computational
+                              Linguistics Dept. of Saarbruecken.
+SPEWOS2.ZIP    36442 04-17-93 OS/2 Port of the context free grammer generator.
+SUSANNE.ZIP  1460632 08-15-92 Susanne corpus - part of the Susanne analytic
+                              parsing scheme
+SYNANA.ZIP     91374 07-29-92 SAX Syntactic Analyzer from ICOT in SICStus
+                              Prolog ver 0.7
+TESTWORD.ZIP   58408 00-24-89 EXE & SRC examples that identify English words
+WC12.ZIP       10613 05-17-91 Word list/count program
+WIW.ZIP        54852 01-24-89 Whats-In-A-Word program from AI Expert April '93
+                              including DOS executables and BASIC source code.
+WLIST10.ZIP    22223 02-15-91 Another word list/count program
+WN14.ZIP        1088 08-02-93 Wordnet v1.4 user feedback questionaire
+WN14PC.ZIP   4070727 08-01-93 Wordnet v1.4 for the PC. Both DOS & Windows exes
+WN14UNIX.ZIP 5506302 07-18-93 Wordnet v1.4 for Sun, Next, RS6000, & other Unix
+                              based platforms
+WRDSRV24.ZIP   95105 04-08-92 WORDSURV - analyze survey word lists
+ZTCLEX.ZIP    185591 02-04-89 Lexical analyser generator C++ src
+------------------------------------------------------------------------------
+-- Dictionaries, Word lists, & Word generators -------------------------------
+------------------------------------------------------------------------------
+A_A.ZIP       176874 02-04-88 Abbreviation & Acronyms Dictionary
+ACRONYMS.ZIP   83917 11-29-92 Abbreviation & Acronyms Dictionary 5000+ entries
+CUGDICT.ZIP   175685 08-04-91 Spelling and Hyphenation dictionairy with
+                              utility programs and source
+DUTCH.ZIP     593584 07-28-92 Dutch word list. Line delimited ASCII file
+ENGLISH.ZIP   173133 07-29-92 English word list. Line delimited ASCII file
+GERMAN.ZIP    112683 07-29-92 German word list[short]. Line delimited ASCII
+GERMANL.ZIP   586961 07-29-92 German word list[long]. Line delimited ASCII
+GREETING.ZIP   18969 06-01-92 List of common greetings in many languages
+HOMOPHON.ZIP    9904 07-25-93 List of English homophones from SIL
+ITALIAN.ZIP   171886 07-29-92 Italian word list. Line delimited ASCII file
+NASATLA.ZIP    22364 06-07-92 NASA TLA (Three-Letter-Acronyms) list
+NEWJORJ1.ZIP  268303 06-05-92 JORJ phonetic dict. v4.3 May '91 1 of 2
+NEWJORJ2.ZIP  334396 06-05-92 JORJ phonetic dict. v4.3 May '91 2 of 2
+NORWEGIA.ZIP  203100 07-29-92 Norwegian word list. Line delimited ASCII file
+ROGET.ZIP     562043 07-29-93 Roget 1911 thesaurus in ASCII format
+SYNWRD11.ZIP   16126 00-17-88 Generates "correct" non-existant words
+SWEDISH.ZIP    77082 07-29-92 Swedish word list. Line delimited ASCII file
+TIMIT.ZIP      68266 07-29-93 Dictionary of English word pronunciations
+WORDQWIK.ZIP   40382 08-15-91 Dictionary of confusing English words
+WORDS1.ZIP     80014 08-06-91 English word list (ascii), A-D, 1 of 4
+WORDS2.ZIP     62675 08-06-91 English word list (ascii), E-K, 2 of 4
+WORDS3.ZIP     83461 08-06-91 English word list (ascii), L-R, 3 of 4
+WORDS4.ZIP     71549 08-06-91 English word list (ascii), S-Z, 4 of 4
+WORDSA_C.ZIP   79948 09-07-94 1.5m ASCII listing of English words 1/5
+WORDSC_H.ZIP   80587 09-07-94 1.5m ASCII listing of English words 2/5
+WORDSH_O.ZIP   82114 09-07-94 1.5m ASCII listing of English words 3/5
+WORDSO_S.ZIP   79404 09-07-94 1.5m ASCII listing of English words 4/5
+WORDSS_Z.ZIP   82329 09-07-94 1.5m ASCII listing of English words 5/5
+WPART3.ZIP    216020 07-24-91 Word-Part dictionary v3.0
+------------------------------------------------------------------------------
+-- Name lists and name generators --------------------------------------------
+------------------------------------------------------------------------------
+ANAME.ZIP      27416 00-09-92 Name generator from Germany
+FAMILY.ZIP     45671 07-27-93 List of common family names
+FEMALE.ZIP     12242 07-27-93 List of common female names
+GIVEN.ZIP      22948 07-27-93 List of common given names
+MALE.ZIP        8269 07-27-93 List of common male names
+NAMEGEN.ZIP     9347 06-07-92 Name generator with C source code
+------------------------------------------------------------------------------
+-- ELIZA and similar programs ------------------------------------------------
+------------------------------------------------------------------------------
+ALICE50.ZIP    59135 11-05-94 DOS version of ELIZA that can talk to up three
+                              different people and retains facts about each
+                              person it talks to in files for use in future
+                              convesations.
+BBSCHAT.ZIP    16635 02-12-90 Incomplete ELIZA BBS Door with PASCAL source.
+CLD110.ZIP     90273 08-08-91 Shareware clone of RACTER
+DOCTOR.ZIP     16068 06-15-92 GNU version of ELIZA - source only
+ELIZA.HQX      72522 12-03-94 Eliza v1.5 for the Macintosh by Tom Bender. This
+                              version will interface with Macintalk so that
+                              you can here Eliza.
+ELIZA.ZIP       8523 10-13-90 ELIZA implemented in PASCAL
+ELIZA100.ZIP    2950 06-26-87 ELIZA implemented in Model 100 BASIC
+ELIZA2.ZIP      9334 05-13-89 Improved ELIZA by Fredrick Maxwell Jr.
+ELIZAARI.ZIP    7982 07-19-92 ELIZA implemented in Arity Prolog
+ELIZAPRO.ZIP    6292 04-12-86 ELIZA implemented in PROLOG
+ELIZAPL.ZIP     8056 07-19-92 ELIZA implemented in Quintus Prolog
+ELIZA_BG.ZIP   10423 02-26-91 Lisp vers. by B. Gattis - accurate to original
+FRANK.ZIP      21917 05-13-87 A close relative of ELIZA apparently.
+FREDIII.ZIP    69523 01-09-86 ELIZA implemented in Dbase III
+HONEY.ZIP      12233 11-13-86 ELIZA implemented in LISP
+MACELIZA.HQX   70437 09-11-93 Scipt-based ELIZA v1.3 for the Macintosh
+MELIZA.ZIP     56693 07-14-87 ELIZA implemented in SNOBOL (no src)
+MYELIZA.ZIP     4421 00-08-91 Keith Monahan's ELIZA in AMIGA 500 BASIC
+PARRY.ZIP     202580 08-05-91 Original source for the famous psycho simulator
+                              Probably in need of some work to get it running.
+SPLOTCH.ZIP   117305 07-23-92 Beta source of Racter-like program-UNIX TAR
+WINELIZA.ZIP   24143 08-06-94 ELIZA for Windows by Yuri Panchul
+------------------------------------------------------------------------------
+-- Linguistics ---------------------------------------------------------------
+------------------------------------------------------------------------------
+ASL_TRAN.ZIP   69507 02-31-90 Teaches/translates sign language
+CHINATUT.ZIP   38531 08-28-85 Translations/graphics of Chinese
+COGNATE.ZIP    18726 11-09-91 Identifies related words betw. languages
+CYRIL104.ZIP   48768 01-13-90 Cyril v1.04 Russian word processor
+DINGDANG.ZIP  268380 10-20-92 DingDang v1.0 Chinese word processor
+DMP.ZIP       269283 05-17-91 Dictionary Maintenance Programs
+EDICTJ.ZIP     80992 08-10-91 Japanese/English MOKE dictionary ("J" version)
+EDICT.ZIP     416041 09-14-92 Japanese/English MOKE dictionary (expanded vers)
+ESPRANTO.ZIP   55821 06-25-88 Information on the Esperanto language
+FREN1_23.ZIP   63827 02-02-89 French language tutorial. 1 of 2
+FREN2_23.ZIP   62435 02-02-89 French language tutorial. 2 of 2
+FRENCH.ZIP     92835 04-19-87 French conjugation tool
+FRENVERB.ZIP   92835 04-19-87 Microtac French Verb Conjugator v1.13
+GAKU101.ZIP   343837 08-25-92 Gakusei v1.01 Japanese language tutorial
+GERM1_23.ZIP   65627 02-02-89 German language tutorial 1 of 2
+GERM2_23.ZIP   63945 02-02-89 German language tutorial 2 of 2
+GERMAN_T.ZIP  100344 11-10-86 German language tutor program
+GREEK.ZIP      17004 02-24-90 Greek tutorial
+HEBREW.ZIP    137351 02-08-88 Hebrew tutorial
+ITAL1_23.ZIP   55558 02-02-89 Italian language tutorial 1 of 1
+JAPAN14.ZIP    97631 04-15-88 Japanese language tutorial v1.4
+JAPANESE.ZIP  149193 01-23-89 Japanese language tutorial
+JDIC14.ZIP    411614 09-18-91 Japanese-English Dictionairy v1.4 VGA
+KANJI_DB.ZIP   72414 02-23-92 2465 entry MITS Kanji database
+KANJI1.ZIP    314211 00-11-90 Japanese Kanji tutorial part 1 of 3
+KANJI2.ZIP    319629 10-19-89 Japanese Kanji tutorial part 2 of 2
+KANJI3.ZIP    316347 10-19-89 Japanese Kanji tutorial part 3 of 3
+KONGZE.ZIP    399461 07-31-92 Chinese character tutorial
+LANG_ID.ZIP    12227 08-21-91 Details algorithm for identifying language
+LANGUAGE.ZIP  251521 09-09-86 Tutorials for French/Hebrew/German/Italian
+LATIN.ZIP       8269 00-01-80 Latin tutorial in BASIC
+MORPH.ZIP      17056 01-17-92 Info on morphophonemic word changes
+NJJ210_1.ZIP  314939 04-10-92 NJStar Japanese word processor v2.1
+NJJ210_2.ZIP  313148 04-10-92 NJStar Japanese word processor v2.1
+NJS210_1.ZIP  359421 05-09-92 NJStar Chinese word processor v2.1
+NJS210_2.ZIP  354386 05-09-92 NJStar Chinese word processor v2.1
+NJS210_3.ZIP  358627 05-09-92 NJStar Chinese word processor v2.1
+RUSENG.ZIP    238227 10-21-91 Russian-English on-line dictionary v1.25
+RUSS21.ZIP     45290 09-30-88 Russian word processor v2.1
+RUSTU15.ZIP   229736 02-25-91 Basic Russian tutorials
+SCILANG.ZIP    16179 11-16-94 Usenet sci.lang newsgroup FAQ
+SIGN33.ZIP    161998 11-30-89 Sign Friends I & II sign language tutorials
+SIGN51_1.ZIP   97204 06-17-91 Sign Friends tutorial v5.1 I  - source only
+SIGN51_2.ZIP   91577 06-12-91 Sign Friends tutorial v5.1 II - source only
+SIGN51_3.ZIP   97651 06-20-91 Sign Friends turorial v5.1 III- source only
+SLJAPAN.ZIP    14759 03-17-93 Usenet sci.lang.japan newsgroup FAQ
+SPAN1_23.ZIP   65008 02-02-89 Spanish language tutorial. 1 of 2
+SPAN2_23.ZIP   62539 02-02-89 Spanish language tutorial. 2 of 2
+SPANISH.ZIP    77016 10-23-88 Spanish phrasebook speaks via PCs speaker
+SPANVERB.ZIP  101061 10-20-85 Microtac Spanish Verb Conjugator v1.13
+TURKISH1.ZIP   71947 08-11-91 Turkish language turorial
+TUTORIT.ZIP    52710 07-21-88 Italian language tutorial
+USA_BRIT.ZIP   52242 03-02-92 Dictionary of US vs British words
+VIET16.ZIP    200023 09-02-91 Vietnamese word processor ver 1.6
+WPSPAN.ZIP    147116 04-19-88 Spanish dictionary for Word Perfect
+------------------------------------------------------------------------------
+-- Machine Translation -------------------------------------------------------
+------------------------------------------------------------------------------
+BABYLON3.ZIP 1428997 08-29-92 Babylon translates text between several lanuages
+DRT.ZIP         7898 06-15-92 English->Prolog translator
+DRTN.ZIP        5246 06-15-92 Discourse Representation Theory
+MTRANS12.ZIP 1027335 10-27-91 ICON based machine translation system for
+                              Spanish to English texts. With documentation &
+                              examples.
+TRANS.ZIP      45040 00-01-80 TRANSLATE v1.0 universal language translator
+                              will translate Spanish to English with included
+                              files but is user expandable.
+TRANS0.ZIP    479470 06-30-91 LangTrans v0.9 French->English translator
+TRANSLIT.ZIP  174429 04-26-93 Translitorates 8bit ASCII files Russian->English
+                              Includes C source code.
+------------------------------------------------------------------------------
+-- PC-Kimmo & related utilities ----------------------------------------------
+-- PC-Kimmo is a morphological parser based on Koskenniemi's two level -------
+-- phonological theory.  The version here is implemented in C.         -------
+------------------------------------------------------------------------------
+ENGLEX10.ZIP  154150 00-20-92 English lexicon for PC-KIMMO and KTEXT
+KGEN02.ZIP     32132 04-15-91 Rule compiler for PC-KIMMO
+KTEXT093.ZIP  104933 04-15-91 Text processing with the PC-KIMMO parser
+KTEXT103.ZIP  136851 01-19-92 KTEXT 1.0.3 for 386 cpu
+PCKIM386.ZIP   83262 01-24-92 PC-Kimmo 1.0.8 for 386 cpu
+PCKIMMO.ZIP    86800 08-01-91 PC-Kimmo 1.0.5, a morphological parser
+TURKLEX.ZIP   317348 07-31-93 PC-Kimmo rule specs for Turkish Morphology
+------------------------------------------------------------------------------
+-- Misc. language related tools ----------------------------------------------
+------------------------------------------------------------------------------
+ATM_RUSS.ZIP   30293 10-29-91 Russian Cyrillic font set for Adobe Type Manager
+WGREEK16.ZIP  275685 06-25-92 WinGreek v1.6 Greek & Hebrew screen & printer
+                              fonts for Windows
+------------------------------------------------------------------------------
+-- Source of further language and text information ---------------------------
+------------------------------------------------------------------------------
+BROWNLOB.ZIP    2429 02-04-92 Brown and LOB corpora info
+CELEX.ZIP       5943 02-04-92 CELEX lexical database info
+CLR.ZIP         3674 02-02-92 Consortium for Lexical Research catalog
+E_BIBLE.ZIP    28730 02-04-92 Electronic biblical texts
+E_CORP.ZIP     26185 02-04-92 Electronic text corpora info
+E_DICTS.ZIP     4332 02-04-92 Electronic dictionaries
+E_PHILOS.ZIP    9233 02-04-92 Electronic philosophy texts
+GUTNBERG.ZIP   12642 02-02-92 Project Gutenberg info
+LINGPROJ.ZIP   44232 02-04-92 Linguistic projects
+LINGUIST.ZIP    3290 02-02-92 Linguist List information
+LINGMAIL.ZIP   39034 07-29-92 E-mail addresses of linguists on Internet
+MOBY.ZIP        1724 02-04-92 Commercial lexical tools
+NLP.ZIP         7233 01-28-91 Text describing MS-DOS NLP software
+NLSR.ZIP       25584 02-02-92 Natural Language Software Registry
+OTA.ZIP        50798 02-04-92 Oxford Text Archive catalog & info
+------------------------------------------------------------------------------
+-- Natural Language Knowledge Representation digest --------------------------
+------------------------------------------------------------------------------
+NKR01_01.ZIP    8218 06-11-92 NLKR digest Volume  1, Issue 01
+NKR01_02.ZIP    3227 06-11-92 NLKR digest Volume  1, Issue 02
+NKR01_03.ZIP    6088 06-11-92 NLKR digest Volume  1, Issue 03
+NKR01_04.ZIP    1069 06-11-92 NLKR digest Volume  1, Issue 04
+NKR01_05.ZIP    4013 06-11-92 NLKR digest Volume  1, Issue 05
+NKR01_06.ZIP    4231 06-11-92 NLKR digest Volume  1, Issue 06
+NKR01_07.ZIP    4401 06-11-92 NLKR digest Volume  1, Issue 07
+NKR01_08.ZIP    4992 06-11-92 NLKR digest Volume  1, Issue 08
+NKR01_09.ZIP    5793 06-11-92 NLKR digest Volume  1, Issue 09
+NKR01_10.ZIP    3087 06-11-92 NLKR digest Volume  1, Issue 10
+NKR01_11.ZIP    4570 06-11-92 NLKR digest Volume  1, Issue 11
+NKR01_12.ZIP    7972 06-11-92 NLKR digest Volume  1, Issue 12
+NKR01_13.ZIP    6738 06-11-92 NLKR digest Volume  1, Issue 13
+NKR01_14.ZIP    4663 06-11-92 NLKR digest Volume  1, Issue 14
+NKR01_15.ZIP    4207 06-11-92 NLKR digest Volume  1, Issue 15
+NKR01_16.ZIP    4265 06-11-92 NLKR digest Volume  1, Issue 16
+NKR01_17.ZIP    2606 06-11-92 NLKR digest Volume  1, Issue 17
+NKR01_18.ZIP    4125 06-11-92 NLKR digest Volume  1, Issue 18
+NKR01_19.ZIP    4978 06-11-92 NLKR digest Volume  1, Issue 19
+NKR01_20.ZIP    5678 06-11-92 NLKR digest Volume  1, Issue 20
+NKR01_21.ZIP    2529 06-11-92 NLKR digest Volume  1, Issue 21
+NKR01_22.ZIP    4828 06-11-92 NLKR digest Volume  1, Issue 22
+NKR01_23.ZIP    2343 06-11-92 NLKR digest Volume  1, Issue 23
+NKR01_24.ZIP    3953 06-11-92 NLKR digest Volume  1, Issue 24
+NKR01_25.ZIP    1423 06-11-92 NLKR digest Volume  1, Issue 25
+NKR01_26.ZIP    3876 06-11-92 NLKR digest Volume  1, Issue 26
+NKR01_27.ZIP    4604 06-11-92 NLKR digest Volume  1, Issue 27
+NKR01_28.ZIP    6771 06-11-92 NLKR digest Volume  1, Issue 28
+NKR01_29.ZIP    3974 06-11-92 NLKR digest Volume  1, Issue 29
+NKR01_30.ZIP    3980 06-11-92 NLKR digest Volume  1, Issue 30
+------------------------------------------------------------------------------
+NKR02_01.ZIP    4773 06-11-92 NLKR digest Volume  2, Issue 01
+NKR02_02.ZIP    3195 06-11-92 NLKR digest Volume  2, Issue 02
+NKR02_03.ZIP    2885 06-11-92 NLKR digest Volume  2, Issue 03
+NKR02_04.ZIP    2730 06-11-92 NLKR digest Volume  2, Issue 04
+NKR02_05.ZIP    6080 06-11-92 NLKR digest Volume  2, Issue 05
+NKR02_06.ZIP    5900 06-11-92 NLKR digest Volume  2, Issue 06
+NKR02_07.ZIP    5783 06-11-92 NLKR digest Volume  2, Issue 07
+NKR02_08.ZIP    5419 06-11-92 NLKR digest Volume  2, Issue 08
+NKR02_09.ZIP    5475 06-11-92 NLKR digest Volume  2, Issue 09
+NKR02_10.ZIP    7386 06-11-92 NLKR digest Volume  2, Issue 10
+NKR02_11.ZIP    6522 06-11-92 NLKR digest Volume  2, Issue 11
+NKR02_12.ZIP    5310 06-11-92 NLKR digest Volume  2, Issue 12
+NKR02_13.ZIP    6380 06-11-92 NLKR digest Volume  2, Issue 13
+NKR02_14.ZIP    5856 06-11-92 NLKR digest Volume  2, Issue 14
+NKR02_15.ZIP    7838 06-11-92 NLKR digest Volume  2, Issue 15
+NKR02_16.ZIP    4762 06-11-92 NLKR digest Volume  2, Issue 16
+NKR02_17.ZIP    5818 06-11-92 NLKR digest Volume  2, Issue 17
+NKR02_18.ZIP    7419 06-11-92 NLKR digest Volume  2, Issue 18
+NKR02_19.ZIP   10566 06-11-92 NLKR digest Volume  2, Issue 19
+NKR02_20.ZIP    3667 06-11-92 NLKR digest Volume  2, Issue 20
+NKR02_22.ZIP    2711 06-11-92 NLKR digest Volume  2, Issue 22
+NKR02_23.ZIP    5793 06-11-92 NLKR digest Volume  2, Issue 23
+NKR02_24.ZIP    7508 06-11-92 NLKR digest Volume  2, Issue 24
+NKR02_25.ZIP    6445 06-11-92 NLKR digest Volume  2, Issue 25
+NKR02_26.ZIP    3251 06-11-92 NLKR digest Volume  2, Issue 26
+NKR02_27.ZIP   13567 06-11-92 NLKR digest Volume  2, Issue 27
+NKR02_28.ZIP    4858 06-11-92 NLKR digest Volume  2, Issue 28
+NKR02_29.ZIP    8143 06-11-92 NLKR digest Volume  2, Issue 29
+NKR02_30.ZIP    8327 06-11-92 NLKR digest Volume  2, Issue 30
+NKR02_31.ZIP    7776 06-11-92 NLKR digest Volume  2, Issue 31
+NKR02_32.ZIP    5428 06-11-92 NLKR digest Volume  2, Issue 32
+NKR02_33.ZIP    7741 06-11-92 NLKR digest Volume  2, Issue 33
+NKR02_34.ZIP    8526 06-11-92 NLKR digest Volume  2, Issue 34
+NKR02_35.ZIP    6628 06-11-92 NLKR digest Volume  2, Issue 35
+NKR02_36.ZIP    9862 06-11-92 NLKR digest Volume  2, Issue 36
+NKR02_37.ZIP    5976 06-11-92 NLKR digest Volume  2, Issue 37
+NKR02_38.ZIP    7111 06-11-92 NLKR digest Volume  2, Issue 38
+NKR02_39.ZIP    8360 06-11-92 NLKR digest Volume  2, Issue 39
+NKR02_40.ZIP    8067 06-11-92 NLKR digest Volume  2, Issue 40
+NKR02_41.ZIP    7380 06-11-92 NLKR digest Volume  2, Issue 41
+NKR02_42.ZIP    8453 06-11-92 NLKR digest Volume  2, Issue 42
+NKR02_43.ZIP    4956 06-11-92 NLKR digest Volume  2, Issue 43
+NKR02_44.ZIP    5465 06-11-92 NLKR digest Volume  2, Issue 44
+NKR02_45.ZIP    8195 06-11-92 NLKR digest Volume  2, Issue 45
+NKR02_46.ZIP    5119 06-11-92 NLKR digest Volume  2, Issue 46
+NKR02_47.ZIP    6944 06-11-92 NLKR digest Volume  2, Issue 47
+NKR02_48.ZIP    8420 06-11-92 NLKR digest Volume  2, Issue 48
+NKR02_50.ZIP    7097 06-11-92 NLKR digest Volume  2, Issue 50
+NKR02_51.ZIP    8164 06-11-92 NLKR digest Volume  2, Issue 51
+NKR02_52.ZIP   10214 06-11-92 NLKR digest Volume  2, Issue 52
+NKR02_53.ZIP    4451 06-11-92 NLKR digest Volume  2, Issue 53
+NKR02_54.ZIP    3543 06-11-92 NLKR digest Volume  2, Issue 54
+NKR02_55.ZIP    4789 06-11-92 NLKR digest Volume  2, Issue 55
+NKR02_56.ZIP    6981 06-11-92 NLKR digest Volume  2, Issue 56
+NKR02_57.ZIP    8884 06-11-92 NLKR digest Volume  2, Issue 57
+NKR02_58.ZIP    6684 06-11-92 NLKR digest Volume  2, Issue 58
+NKR02_59.ZIP    5019 06-11-92 NLKR digest Volume  2, Issue 59
+NKR02_60.ZIP    5925 06-11-92 NLKR digest Volume  2, Issue 60
+NKR02_61.ZIP    5262 06-11-92 NLKR digest Volume  2, Issue 61
+NKR02_62.ZIP    6744 06-11-92 NLKR digest Volume  2, Issue 62
+------------------------------------------------------------------------------
+NKR03_01.ZIP    8261 06-11-92 NLKR digest Volume  3, Issue 01
+NKR03_02.ZIP    6311 06-11-92 NLKR digest Volume  3, Issue 02
+NKR03_03.ZIP    8836 06-11-92 NLKR digest Volume  3, Issue 03
+NKR03_04.ZIP    7206 06-11-92 NLKR digest Volume  3, Issue 04
+NKR03_05.ZIP    8550 06-11-92 NLKR digest Volume  3, Issue 05
+NKR03_06.ZIP    9113 06-11-92 NLKR digest Volume  3, Issue 06
+NKR03_07.ZIP    7137 06-11-92 NLKR digest Volume  3, Issue 07
+NKR03_08.ZIP    8020 06-11-92 NLKR digest Volume  3, Issue 08
+NKR03_09.ZIP   10344 06-11-92 NLKR digest Volume  3, Issue 09
+NKR03_10.ZIP    7837 06-11-92 NLKR digest Volume  3, Issue 10
+NKR03_11.ZIP    7697 06-11-92 NLKR digest Volume  3, Issue 11
+NKR03_12.ZIP    4597 06-11-92 NLKR digest Volume  3, Issue 12
+NKR03_14.ZIP    7199 06-11-92 NLKR digest Volume  3, Issue 14
+NKR03_15.ZIP   12424 06-11-92 NLKR digest Volume  3, Issue 15
+NKR03_16.ZIP    7331 06-11-92 NLKR digest Volume  3, Issue 16
+NKR03_17.ZIP    5922 06-11-92 NLKR digest Volume  3, Issue 17
+NKR03_18.ZIP    5270 06-11-92 NLKR digest Volume  3, Issue 18
+NKR03_19.ZIP    8842 06-11-92 NLKR digest Volume  3, Issue 19
+NKR03_20.ZIP    5910 06-11-92 NLKR digest Volume  3, Issue 20
+NKR03_21.ZIP    7020 06-11-92 NLKR digest Volume  3, Issue 21
+NKR03_22.ZIP    8577 06-11-92 NLKR digest Volume  3, Issue 22
+NKR03_23.ZIP    9030 06-11-92 NLKR digest Volume  3, Issue 23
+NKR03_24.ZIP    7922 06-11-92 NLKR digest Volume  3, Issue 24
+NKR03_25.ZIP    7837 06-11-92 NLKR digest Volume  3, Issue 25
+NKR03_26.ZIP    9366 06-11-92 NLKR digest Volume  3, Issue 26
+NKR03_27.ZIP    8152 06-11-92 NLKR digest Volume  3, Issue 27
+NKR03_28.ZIP    8469 06-11-92 NLKR digest Volume  3, Issue 28
+NKR03_29.ZIP    4387 06-11-92 NLKR digest Volume  3, Issue 29
+NKR03_30.ZIP    5338 06-11-92 NLKR digest Volume  3, Issue 30
+NKR03_31.ZIP   10490 06-11-92 NLKR digest Volume  3, Issue 31
+NKR03_32.ZIP    9204 06-11-92 NLKR digest Volume  3, Issue 32
+NKR03_33.ZIP    5620 06-11-92 NLKR digest Volume  3, Issue 33
+NKR03_34.ZIP    8931 06-11-92 NLKR digest Volume  3, Issue 34
+NKR03_35.ZIP   10429 06-11-92 NLKR digest Volume  3, Issue 35
+NKR03_36.ZIP    6291 06-11-92 NLKR digest Volume  3, Issue 36
+NKR03_37.ZIP   10648 06-11-92 NLKR digest Volume  3, Issue 37
+NKR03_38.ZIP    8428 06-11-92 NLKR digest Volume  3, Issue 38
+NKR03_39.ZIP    7269 06-11-92 NLKR digest Volume  3, Issue 39
+NKR03_40.ZIP    6716 06-11-92 NLKR digest Volume  3, Issue 40
+NKR03_41.ZIP    7887 06-11-92 NLKR digest Volume  3, Issue 41
+NKR03_42.ZIP    7415 06-11-92 NLKR digest Volume  3, Issue 42
+NKR03_43.ZIP    8270 06-11-92 NLKR digest Volume  3, Issue 43
+NKR03_44.ZIP    8717 06-11-92 NLKR digest Volume  3, Issue 44
+NKR03_45.ZIP    9639 06-11-92 NLKR digest Volume  3, Issue 45
+NKR03_46.ZIP    7167 06-11-92 NLKR digest Volume  3, Issue 46
+NKR03_47.ZIP    9092 06-11-92 NLKR digest Volume  3, Issue 47
+NKR03_48.ZIP    7841 06-11-92 NLKR digest Volume  3, Issue 48
+NKR03_49.ZIP    7164 06-11-92 NLKR digest Volume  3, Issue 49
+NKR03_50.ZIP   10219 06-11-92 NLKR digest Volume  3, Issue 50
+NKR03_51.ZIP    7943 06-11-92 NLKR digest Volume  3, Issue 51
+NKR03_52.ZIP    7446 06-11-92 NLKR digest Volume  3, Issue 52
+NKR03_53.ZIP   16460 06-11-92 NLKR digest Volume  3, Issue 53
+NKR03_54.ZIP   10504 06-11-92 NLKR digest Volume  3, Issue 54
+NKR03_55.ZIP    8534 06-11-92 NLKR digest Volume  3, Issue 55
+NKR03_56.ZIP   10495 06-11-92 NLKR digest Volume  3, Issue 56
+NKR03_57.ZIP   10709 06-11-92 NLKR digest Volume  3, Issue 57
+NKR03_58.ZIP   10855 06-11-92 NLKR digest Volume  3, Issue 58
+NKR03_59.ZIP   14749 06-11-92 NLKR digest Volume  3, Issue 59
+NKR03_60.ZIP   12611 06-11-92 NLKR digest Volume  3, Issue 60
+NKR03_61.ZIP   12462 06-11-92 NLKR digest Volume  3, Issue 61
+NKR03_62.ZIP   11908 06-11-92 NLKR digest Volume  3, Issue 62
+NKR03_63.ZIP    7433 06-11-92 NLKR digest Volume  3, Issue 63
+NKR03_64.ZIP    5448 06-11-92 NLKR digest Volume  3, Issue 64
+NKR03_65.ZIP    7469 06-11-92 NLKR digest Volume  3, Issue 65
+NKR03_66.ZIP   13863 06-11-92 NLKR digest Volume  3, Issue 66
+------------------------------------------------------------------------------
+NKR04_01.ZIP   10535 06-11-92 NLKR digest Volume  4, Issue 01
+NKR04_02.ZIP   10818 06-11-92 NLKR digest Volume  4, Issue 02
+NKR04_03.ZIP    9729 06-11-92 NLKR digest Volume  4, Issue 03
+NKR04_04.ZIP    7977 06-11-92 NLKR digest Volume  4, Issue 04
+NKR04_05.ZIP    8591 06-11-92 NLKR digest Volume  4, Issue 05
+NKR04_06.ZIP   10813 06-11-92 NLKR digest Volume  4, Issue 06
+NKR04_07.ZIP    9479 06-11-92 NLKR digest Volume  4, Issue 07
+NKR04_08.ZIP   11388 06-11-92 NLKR digest Volume  4, Issue 08
+NKR04_09.ZIP   10299 06-11-92 NLKR digest Volume  4, Issue 09
+NKR04_10.ZIP    4844 06-11-92 NLKR digest Volume  4, Issue 10
+NKR04_11.ZIP    8509 06-11-92 NLKR digest Volume  4, Issue 11
+NKR04_12.ZIP   10510 06-11-92 NLKR digest Volume  4, Issue 12
+NKR04_13.ZIP   15981 06-11-92 NLKR digest Volume  4, Issue 13
+NKR04_14.ZIP    9217 06-11-92 NLKR digest Volume  4, Issue 14
+NKR04_15.ZIP    5119 06-11-92 NLKR digest Volume  4, Issue 15
+NKR04_16.ZIP    7567 06-11-92 NLKR digest Volume  4, Issue 16
+NKR04_17.ZIP   15215 06-11-92 NLKR digest Volume  4, Issue 17
+NKR04_18.ZIP    7982 06-11-92 NLKR digest Volume  4, Issue 18
+NKR04_19.ZIP   10158 06-11-92 NLKR digest Volume  4, Issue 19
+NKR04_20.ZIP   10474 06-11-92 NLKR digest Volume  4, Issue 20
+NKR04_21.ZIP    4810 06-11-92 NLKR digest Volume  4, Issue 21
+NKR04_22.ZIP    7350 06-11-92 NLKR digest Volume  4, Issue 22
+NKR04_23.ZIP    9555 06-11-92 NLKR digest Volume  4, Issue 23
+NKR04_24.ZIP    8882 06-11-92 NLKR digest Volume  4, Issue 24
+NKR04_25.ZIP    9718 06-11-92 NLKR digest Volume  4, Issue 25
+NKR04_26.ZIP   11659 06-11-92 NLKR digest Volume  4, Issue 26
+NKR04_27.ZIP    7096 06-11-92 NLKR digest Volume  4, Issue 27
+NKR04_28.ZIP    7891 06-11-92 NLKR digest Volume  4, Issue 28
+NKR04_29.ZIP    9986 06-11-92 NLKR digest Volume  4, Issue 29
+NKR04_30.ZIP    8723 06-11-92 NLKR digest Volume  4, Issue 30
+NKR04_31.ZIP    9393 06-11-92 NLKR digest Volume  4, Issue 31
+NKR04_32.ZIP   12168 06-11-92 NLKR digest Volume  4, Issue 32
+NKR04_33.ZIP    8396 06-11-92 NLKR digest Volume  4, Issue 33
+NKR04_34.ZIP    6802 06-11-92 NLKR digest Volume  4, Issue 34
+NKR04_35.ZIP   10882 06-11-92 NLKR digest Volume  4, Issue 35
+NKR04_36.ZIP   10371 06-11-92 NLKR digest Volume  4, Issue 36
+NKR04_37.ZIP    9122 06-11-92 NLKR digest Volume  4, Issue 37
+NKR04_38.ZIP   11472 06-11-92 NLKR digest Volume  4, Issue 38
+NKR04_39.ZIP   11971 06-11-92 NLKR digest Volume  4, Issue 39
+NKR04_40.ZIP    8527 06-11-92 NLKR digest Volume  4, Issue 40
+NKR04_41.ZIP    8640 06-11-92 NLKR digest Volume  4, Issue 41
+NKR04_42.ZIP   12394 06-11-92 NLKR digest Volume  4, Issue 42
+NKR04_43.ZIP    8647 06-11-92 NLKR digest Volume  4, Issue 43
+NKR04_44.ZIP   11425 06-11-92 NLKR digest Volume  4, Issue 44
+NKR04_45.ZIP    9021 06-11-92 NLKR digest Volume  4, Issue 45
+NKR04_46.ZIP    8500 06-11-92 NLKR digest Volume  4, Issue 46
+NKR04_47.ZIP    8645 06-11-92 NLKR digest Volume  4, Issue 47
+NKR04_49.ZIP    9350 06-11-92 NLKR digest Volume  4, Issue 49
+NKR04_50.ZIP   10178 06-11-92 NLKR digest Volume  4, Issue 50
+NKR04_51.ZIP   10224 06-11-92 NLKR digest Volume  4, Issue 51
+NKR04_52.ZIP    7309 06-11-92 NLKR digest Volume  4, Issue 52
+NKR04_53.ZIP   10023 06-11-92 NLKR digest Volume  4, Issue 53
+NKR04_54.ZIP   10311 06-11-92 NLKR digest Volume  4, Issue 54
+NKR04_55.ZIP    8359 06-11-92 NLKR digest Volume  4, Issue 55
+NKR04_56.ZIP    6459 06-11-92 NLKR digest Volume  4, Issue 56
+NKR04_57.ZIP    8132 06-11-92 NLKR digest Volume  4, Issue 57
+NKR04_58.ZIP    9969 06-11-92 NLKR digest Volume  4, Issue 58
+NKR04_59.ZIP    4521 06-11-92 NLKR digest Volume  4, Issue 59
+NKR04_60.ZIP    8464 06-12-92 NLKR digest Volume  4, Issue 60
+NKR04_61.ZIP   10730 06-12-92 NLKR digest Volume  4, Issue 61
+NKR04_62.ZIP   11780 06-12-92 NLKR digest Volume  4, Issue 62
+NKR04_63.ZIP    8807 06-12-92 NLKR digest Volume  4, Issue 63
+NKR04_64.ZIP    8340 06-12-92 NLKR digest Volume  4, Issue 64
+------------------------------------------------------------------------------
+NKR05_01.ZIP    9285 06-12-92 NLKR digest Volume  5, Issue 01
+NKR05_02.ZIP    7774 06-12-92 NLKR digest Volume  5, Issue 02
+NKR05_03.ZIP    4593 06-12-92 NLKR digest Volume  5, Issue 03
+NKR05_04.ZIP    7082 06-12-92 NLKR digest Volume  5, Issue 04
+NKR05_05.ZIP   10776 06-12-92 NLKR digest Volume  5, Issue 05
+NKR05_06.ZIP    5805 06-12-92 NLKR digest Volume  5, Issue 06
+NKR05_07.ZIP    7989 06-12-92 NLKR digest Volume  5, Issue 07
+NKR05_08.ZIP   10799 06-12-92 NLKR digest Volume  5, Issue 08
+NKR05_09.ZIP    9578 06-12-92 NLKR digest Volume  5, Issue 09
+NKR05_10.ZIP   11759 06-12-92 NLKR digest Volume  5, Issue 10
+NKR05_11.ZIP   10420 06-12-92 NLKR digest Volume  5, Issue 11
+NKR05_12.ZIP    8600 06-12-92 NLKR digest Volume  5, Issue 12
+NKR05_13.ZIP   14678 06-12-92 NLKR digest Volume  5, Issue 13
+NKR05_14.ZIP   14065 06-12-92 NLKR digest Volume  5, Issue 14
+NKR05_15.ZIP    4607 06-12-92 NLKR digest Volume  5, Issue 15
+NKR05_16.ZIP    8022 06-12-92 NLKR digest Volume  5, Issue 16
+NKR05_17.ZIP    7858 06-12-92 NLKR digest Volume  5, Issue 17
+NKR05_18.ZIP    5919 06-12-92 NLKR digest Volume  5, Issue 18
+NKR05_19.ZIP   12969 06-12-92 NLKR digest Volume  5, Issue 19
+NKR05_20.ZIP    7277 06-12-92 NLKR digest Volume  5, Issue 20
+NKR05_21.ZIP    8443 06-12-92 NLKR digest Volume  5, Issue 21
+NKR05_22.ZIP    3601 06-12-92 NLKR digest Volume  5, Issue 22
+NKR05_23.ZIP    6442 06-12-92 NLKR digest Volume  5, Issue 23
+NKR05_24.ZIP    7171 06-12-92 NLKR digest Volume  5, Issue 24
+NKR05_25.ZIP    5328 06-12-92 NLKR digest Volume  5, Issue 25
+NKR05_26.ZIP    7640 06-12-92 NLKR digest Volume  5, Issue 26
+NKR05_27.ZIP    8190 06-12-92 NLKR digest Volume  5, Issue 27
+NKR05_28.ZIP   11887 06-12-92 NLKR digest Volume  5, Issue 28
+NKR05_29.ZIP   12364 06-12-92 NLKR digest Volume  5, Issue 29
+NKR05_30.ZIP   14169 06-12-92 NLKR digest Volume  5, Issue 30
+NKR05_31.ZIP   10418 06-12-92 NLKR digest Volume  5, Issue 31
+NKR05_32.ZIP    7177 06-12-92 NLKR digest Volume  5, Issue 32
+NKR05_33.ZIP   10812 06-12-92 NLKR digest Volume  5, Issue 33
+NKR05_34.ZIP    5060 06-12-92 NLKR digest Volume  5, Issue 34
+NKR05_35.ZIP    4719 06-12-92 NLKR digest Volume  5, Issue 35
+NKR05_36.ZIP    6354 06-12-92 NLKR digest Volume  5, Issue 36
+NKR05_37.ZIP    7100 06-12-92 NLKR digest Volume  5, Issue 37
+NKR05_38.ZIP    6818 06-12-92 NLKR digest Volume  5, Issue 38
+NKR05_39.ZIP   13407 06-12-92 NLKR digest Volume  5, Issue 39
+NKR05_40.ZIP    8141 06-12-92 NLKR digest Volume  5, Issue 40
+NKR05_41.ZIP    8061 06-12-92 NLKR digest Volume  5, Issue 41
+------------------------------------------------------------------------------
+NKR06_01.ZIP   10038 06-12-92 NLKR digest Volume  6, Issue 01
+NKR06_02.ZIP    4704 06-12-92 NLKR digest Volume  6, Issue 02
+NKR06_03.ZIP    5659 06-12-92 NLKR digest Volume  6, Issue 03
+NKR06_04.ZIP    3619 06-12-92 NLKR digest Volume  6, Issue 04
+NKR06_05.ZIP   12523 06-12-92 NLKR digest Volume  6, Issue 05
+NKR06_06.ZIP    7442 06-12-92 NLKR digest Volume  6, Issue 06
+NKR06_07.ZIP    8796 06-12-92 NLKR digest Volume  6, Issue 07
+NKR06_08.ZIP    5740 06-12-92 NLKR digest Volume  6, Issue 08
+NKR06_09.ZIP    7831 06-12-92 NLKR digest Volume  6, Issue 09
+NKR06_10.ZIP    8706 06-12-92 NLKR digest Volume  6, Issue 10
+NKR06_12.ZIP    8464 06-12-92 NLKR digest Volume  6, Issue 12
+NKR06_13.ZIP   11760 06-12-92 NLKR digest Volume  6, Issue 13
+NKR06_15.ZIP   10472 06-12-92 NLKR digest Volume  6, Issue 15
+NKR06_16.ZIP    6124 06-12-92 NLKR digest Volume  6, Issue 16
+NKR06_17.ZIP   11114 06-12-92 NLKR digest Volume  6, Issue 17
+NKR06_18.ZIP    4862 06-12-92 NLKR digest Volume  6, Issue 18
+NKR06_19.ZIP    6612 06-12-92 NLKR digest Volume  6, Issue 19
+NKR06_20.ZIP    9697 06-12-92 NLKR digest Volume  6, Issue 20
+NKR06_21.ZIP    3966 06-12-92 NLKR digest Volume  6, Issue 21
+NKR06_22.ZIP    5254 06-12-92 NLKR digest Volume  6, Issue 22
+NKR06_23.ZIP    6917 06-12-92 NLKR digest Volume  6, Issue 23
+NKR06_24.ZIP    7625 06-12-92 NLKR digest Volume  6, Issue 24
+NKR06_25.ZIP    5748 06-12-92 NLKR digest Volume  6, Issue 25
+NKR06_26.ZIP    6976 06-12-92 NLKR digest Volume  6, Issue 26
+NKR06_27.ZIP   10814 06-12-92 NLKR digest Volume  6, Issue 27
+NKR06_28.ZIP    8498 06-12-92 NLKR digest Volume  6, Issue 28
+NKR06_29.ZIP    6224 06-12-92 NLKR digest Volume  6, Issue 29
+NKR06_30.ZIP    8100 06-12-92 NLKR digest Volume  6, Issue 30
+NKR06_31.ZIP    5872 06-12-92 NLKR digest Volume  6, Issue 31
+NKR06_32.ZIP    7163 06-12-92 NLKR digest Volume  6, Issue 32
+NKR06_33.ZIP    4960 06-12-92 NLKR digest Volume  6, Issue 33
+NKR06_34.ZIP    4506 06-12-92 NLKR digest Volume  6, Issue 34
+NKR06_35.ZIP    3750 06-12-92 NLKR digest Volume  6, Issue 35
+NKR06_36.ZIP   10775 06-12-92 NLKR digest Volume  6, Issue 36
+NKR06_37.ZIP    7311 06-12-92 NLKR digest Volume  6, Issue 37
+NKR06_39.ZIP    9781 06-12-92 NLKR digest Volume  6, Issue 39
+NKR06_40.ZIP    7455 06-12-92 NLKR digest Volume  6, Issue 40
+NKR06_41.ZIP    8333 06-12-92 NLKR digest Volume  6, Issue 41
+NKR06_42.ZIP    9165 06-12-92 NLKR digest Volume  6, Issue 42
+NKR06_43.ZIP    8774 06-12-92 NLKR digest Volume  6, Issue 43
+NKR06_44.ZIP   10745 06-12-92 NLKR digest Volume  6, Issue 44
+NKR06_45.ZIP   11589 06-12-92 NLKR digest Volume  6, Issue 45
+NKR06_46.ZIP    4708 06-12-92 NLKR digest Volume  6, Issue 46
+------------------------------------------------------------------------------
+NKR07_01.ZIP    8907 06-12-92 NLKR digest Volume  7, Issue 01
+NKR07_02.ZIP    8912 06-12-92 NLKR digest Volume  7, Issue 02
+NKR07_03.ZIP    8163 06-12-92 NLKR digest Volume  7, Issue 03
+NKR07_04.ZIP    9003 06-12-92 NLKR digest Volume  7, Issue 04
+NKR07_05.ZIP    9489 06-12-92 NLKR digest Volume  7, Issue 05
+NKR07_06.ZIP    9240 06-12-92 NLKR digest Volume  7, Issue 06
+NKR07_07.ZIP   10377 06-12-92 NLKR digest Volume  7, Issue 07
+NKR07_08.ZIP   10476 06-12-92 NLKR digest Volume  7, Issue 08
+NKR07_09.ZIP    7805 06-12-92 NLKR digest Volume  7, Issue 09
+NKR07_10.ZIP   11615 06-12-92 NLKR digest Volume  7, Issue 10
+NKR07_11.ZIP    4651 06-12-92 NLKR digest Volume  7, Issue 11
+NKR07_12.ZIP    8259 06-12-92 NLKR digest Volume  7, Issue 12
+NKR07_13.ZIP    9010 06-12-92 NLKR digest Volume  7, Issue 13
+NKR07_14.ZIP    9095 06-12-92 NLKR digest Volume  7, Issue 14
+NKR07_15.ZIP    6450 06-12-92 NLKR digest Volume  7, Issue 15
+NKR07_16.ZIP    9869 06-12-92 NLKR digest Volume  7, Issue 16
+NKR07_17.ZIP   11345 06-12-92 NLKR digest Volume  7, Issue 17
+NKR07_18.ZIP    9568 06-12-92 NLKR digest Volume  7, Issue 18
+NKR07_19.ZIP    8229 06-12-92 NLKR digest Volume  7, Issue 19
+NKR07_20.ZIP    9490 06-12-92 NLKR digest Volume  7, Issue 20
+NKR07_21.ZIP    9078 06-12-92 NLKR digest Volume  7, Issue 21
+NKR07_22.ZIP    8943 06-12-92 NLKR digest Volume  7, Issue 22
+NKR07_23.ZIP    8664 06-12-92 NLKR digest Volume  7, Issue 23
+NKR07_24.ZIP    8832 06-12-92 NLKR digest Volume  7, Issue 24
+NKR07_25.ZIP    8184 06-12-92 NLKR digest Volume  7, Issue 25
+NKR07_26.ZIP    7964 06-12-92 NLKR digest Volume  7, Issue 26
+NKR07_27.ZIP    9727 06-12-92 NLKR digest Volume  7, Issue 27
+NKR07_28.ZIP    5690 06-12-92 NLKR digest Volume  7, Issue 28
+NKR07_29.ZIP    7818 06-12-92 NLKR digest Volume  7, Issue 29
+------------------------------------------------------------------------------
+NKR08_01.ZIP    9901 06-12-92 NLKR digest Volume  8, Issue 01
+NKR08_02.ZIP    8485 06-12-92 NLKR digest Volume  8, Issue 02
+NKR08_03.ZIP   11178 06-12-92 NLKR digest Volume  8, Issue 03
+NKR08_04.ZIP   11272 06-12-92 NLKR digest Volume  8, Issue 04
+NKR08_05.ZIP    9715 06-12-92 NLKR digest Volume  8, Issue 05
+NKR08_06.ZIP    9346 06-12-92 NLKR digest Volume  8, Issue 06
+NKR08_07.ZIP    8206 06-12-92 NLKR digest Volume  8, Issue 07
+NKR08_08.ZIP    9188 06-12-92 NLKR digest Volume  8, Issue 08
+NKR08_09.ZIP    8905 06-12-92 NLKR digest Volume  8, Issue 09
+NKR08_10.ZIP   12560 06-12-92 NLKR digest Volume  8, Issue 10
+NKR08_11.ZIP   10084 06-12-92 NLKR digest Volume  8, Issue 11
+NKR08_12.ZIP   10842 06-12-92 NLKR digest Volume  8, Issue 12
+NKR08_13.ZIP    9690 06-12-92 NLKR digest Volume  8, Issue 13
+NKR08_14.ZIP    8553 06-12-92 NLKR digest Volume  8, Issue 14
+NKR08_15.ZIP    9527 06-12-92 NLKR digest Volume  8, Issue 15
+NKR08_16.ZIP   11217 06-12-92 NLKR digest Volume  8, Issue 16
+NKR08_17.ZIP    8110 06-12-92 NLKR digest Volume  8, Issue 17
+NKR08_18.ZIP    7898 06-12-92 NLKR digest Volume  8, Issue 18
+NKR08_19.ZIP    8748 06-12-92 NLKR digest Volume  8, Issue 19
+NKR08_20.ZIP    6265 06-12-92 NLKR digest Volume  8, Issue 20
+NKR08_21.ZIP   10189 06-12-92 NLKR digest Volume  8, Issue 21
+NKR08_22.ZIP    8530 06-12-92 NLKR digest Volume  8, Issue 22
+NKR08_23.ZIP    9706 06-12-92 NLKR digest Volume  8, Issue 23
+NKR08_24.ZIP    9285 06-12-92 NLKR digest Volume  8, Issue 24
+NKR08_25.ZIP   10087 06-12-92 NLKR digest Volume  8, Issue 25
+NKR08_26.ZIP    9359 06-12-92 NLKR digest Volume  8, Issue 26
+NKR08_27.ZIP    9257 06-12-92 NLKR digest Volume  8, Issue 27
+NKR08_28.ZIP   10327 06-12-92 NLKR digest Volume  8, Issue 28
+NKR08_29.ZIP    9307 06-12-92 NLKR digest Volume  8, Issue 29
+NKR08_30.ZIP   12399 06-12-92 NLKR digest Volume  8, Issue 30
+NKR08_31.ZIP   12936 06-12-92 NLKR digest Volume  8, Issue 31
+NKR08_32.ZIP    9685 06-12-92 NLKR digest Volume  8, Issue 32
+NKR08_33.ZIP   10466 06-12-92 NLKR digest Volume  8, Issue 33
+NKR08_34.ZIP    6515 06-12-92 NLKR digest Volume  8, Issue 34
+NKR08_35.ZIP    7824 06-12-92 NLKR digest Volume  8, Issue 35
+NKR08_36.ZIP    8352 06-12-92 NLKR digest Volume  8, Issue 36
+NKR08_37.ZIP    6113 06-12-92 NLKR digest Volume  8, Issue 37
+NKR08_38.ZIP    7451 06-12-92 NLKR digest Volume  8, Issue 38
+NKR08_39.ZIP    6793 06-12-92 NLKR digest Volume  8, Issue 39
+NKR08_40.ZIP    5951 06-12-92 NLKR digest Volume  8, Issue 40
+NKR08_41.ZIP   12821 06-12-92 NLKR digest Volume  8, Issue 41
+NKR08_42.ZIP    8643 06-12-92 NLKR digest Volume  8, Issue 42
+NKR08_43.ZIP   10718 06-12-92 NLKR digest Volume  8, Issue 43
+NKR08_44.ZIP    9846 06-12-92 NLKR digest Volume  8, Issue 44
+NKR08_45.ZIP    9588 06-12-92 NLKR digest Volume  8, Issue 45
+NKR08_46.ZIP    6388 06-12-92 NLKR digest Volume  8, Issue 46
+NKR08_47.ZIP    7662 06-12-92 NLKR digest Volume  8, Issue 47
+NKR08_48.ZIP    8620 06-12-92 NLKR digest Volume  8, Issue 48
+NKR08_49.ZIP   10270 06-12-92 NLKR digest Volume  8, Issue 49
+NKR08_50.ZIP    6408 06-12-92 NLKR digest Volume  8, Issue 50
+NKR08_51.ZIP    7655 06-12-92 NLKR digest Volume  8, Issue 51
+NKR08_52.ZIP   17774 06-12-92 NLKR digest Volume  8, Issue 52
+NKR08_53.ZIP    7123 06-12-92 NLKR digest Volume  8, Issue 53
+NKR08_54.ZIP    9814 06-12-92 NLKR digest Volume  8, Issue 54
+NKR08_55.ZIP    6938 06-12-92 NLKR digest Volume  8, Issue 55
+NKR08_56.ZIP    7420 06-12-92 NLKR digest Volume  8, Issue 56
+NKR08_57.ZIP    9375 06-12-92 NLKR digest Volume  8, Issue 57
+NKR08_58.ZIP   15253 06-12-92 NLKR digest Volume  8, Issue 58
+NKR08_59.ZIP   10524 06-12-92 NLKR digest Volume  8, Issue 59
+NKR08_60.ZIP    9674 06-12-92 NLKR digest Volume  8, Issue 60
+NKR08_61.ZIP   10223 06-12-92 NLKR digest Volume  8, Issue 61
+NKR08_62.ZIP   13146 06-12-92 NLKR digest Volume  8, Issue 62
+------------------------------------------------------------------------------
+NKR09_01.ZIP    8314 06-12-92 NLKR digest Volume  9, Issue 01
+NKR09_02.ZIP    9238 06-12-92 NLKR digest Volume  9, Issue 02
+NKR09_03.ZIP    8069 06-12-92 NLKR digest Volume  9, Issue 03
+NKR09_04.ZIP   14309 06-12-92 NLKR digest Volume  9, Issue 04
+NKR09_05.ZIP    8166 06-12-92 NLKR digest Volume  9, Issue 05
+NKR09_06.ZIP    8347 06-12-92 NLKR digest Volume  9, Issue 06
+NKR09_07.ZIP    7224 06-12-92 NLKR digest Volume  9, Issue 07
+NKR09_08.ZIP    6830 06-12-92 NLKR digest Volume  9, Issue 08
+NKR09_09.ZIP    8262 06-12-92 NLKR digest Volume  9, Issue 09
+NKR09_10.ZIP    6488 06-12-92 NLKR digest Volume  9, Issue 10
+NKR09_11.ZIP    9204 06-12-92 NLKR digest Volume  9, Issue 11
+NKR09_12.ZIP    9692 06-12-92 NLKR digest Volume  9, Issue 12
+NKR09_13.ZIP   11950 06-12-92 NLKR digest Volume  9, Issue 13
+NKR09_14.ZIP   10399 06-12-92 NLKR digest Volume  9, Issue 14
+NKR09_15.ZIP    8970 06-12-92 NLKR digest Volume  9, Issue 15
+NKR09_16.ZIP   12929 06-12-92 NLKR digest Volume  9, Issue 16
+NKR09_17.ZIP    9713 06-12-92 NLKR digest Volume  9, Issue 17
+NKR09_18.ZIP    7278 06-12-92 NLKR digest Volume  9, Issue 18
+NKR09_19.ZIP    8952 06-12-92 NLKR digest Volume  9, Issue 19
+NKR09_20.ZIP   10730 06-12-92 NLKR digest Volume  9, Issue 20
+NKR09_21.ZIP   12071 06-12-92 NLKR digest Volume  9, Issue 21
+NKR09_22.ZIP   10954 06-12-92 NLKR digest Volume  9, Issue 22
+NKR09_23.ZIP   11602 06-12-92 NLKR digest Volume  9, Issue 23
+NKR09_24.ZIP   10349 06-12-92 NLKR digest Volume  9, Issue 24
+NKR09_25.ZIP    7853 06-12-92 NLKR digest Volume  9, Issue 25
+NKR09_26.ZIP    9570 06-12-92 NLKR digest Volume  9, Issue 26
+NKR09_28.ZIP    9662 05-08-92 NLKR digest Volume  9, Issue 28
+NKR09_29.ZIP    4789 05-08-92 NLKR digest Volume  9, Issue 29
+NKR09_30.ZIP    8610 07-17-93 NLKR digest Volume  9, Issue 30
+NKR09_31.ZIP   10267 07-17-93 NLKR digest Volume  9, Issue 31
+NKR09_32.ZIP    5669 07-17-93 NLKR digest Volume  9, Issue 32
+NKR09_33.ZIP    9415 07-17-93 NLKR digest Volume  9, Issue 33
+NKR09_34.ZIP   11587 07-17-93 NLKR digest Volume  9, Issue 34
+NKR09_35.ZIP    7519 07-17-93 NLKR digest Volume  9, Issue 35
+NKR09_36.ZIP   14684 07-17-93 NLKR digest Volume  9, Issue 36
+NKR09_37.ZIP   12822 07-17-93 NLKR digest Volume  9, Issue 37
+NKR09_38.ZIP   10479 07-17-93 NLKR digest Volume  9, Issue 38
+NKR09_39.ZIP    9703 07-17-93 NLKR digest Volume  9, Issue 39
+NKR09_40.ZIP    9016 07-17-93 NLKR digest Volume  9, Issue 40
+NKR09_42.ZIP    8335 07-17-93 NLKR digest Volume  9, Issue 42
+NKR09_43.ZIP    9093 07-17-93 NLKR digest Volume  9, Issue 43
+NKR09_44.ZIP    8058 07-17-93 NLKR digest Volume  9, Issue 44
+NKR09_45.ZIP    9330 07-17-93 NLKR digest Volume  9, Issue 45
+NKR09_46.ZIP    7424 07-17-93 NLKR digest Volume  9, Issue 46
+NKR09_47.ZIP    8134 07-17-93 NLKR digest Volume  9, Issue 47
+NKR09_48.ZIP   11747 07-17-93 NLKR digest Volume  9, Issue 48
+NKR09_49.ZIP   10657 07-17-93 NLKR digest Volume  9, Issue 49
+NKR09_50.ZIP    5551 07-17-93 NLKR digest Volume  9, Issue 50
+NKR09_51.ZIP    9306 07-17-93 NLKR digest Volume  9, Issue 51
+NKR09_52.ZIP   10128 07-17-93 NLKR digest Volume  9, Issue 52
+NKR09_53.ZIP    7642 07-17-93 NLKR digest Volume  9, Issue 53
+NKR09_54.ZIP    8734 07-17-93 NLKR digest Volume  9, Issue 54
+NKR09_55.ZIP    7864 07-17-93 NLKR digest Volume  9, Issue 55
+NKR09_56.ZIP    6408 07-17-93 NLKR digest Volume  9, Issue 56
+NKR09_57.ZIP    9623 07-17-93 NLKR digest Volume  9, Issue 57
+NKR09_58.ZIP    7926 07-17-93 NLKR digest Volume  9, Issue 58
+NKR09_59.ZIP    8541 07-17-93 NLKR digest Volume  9, Issue 59
+NKR09_60.ZIP    7188 07-17-93 NLKR digest Volume  9, Issue 60
+NKR09_61.ZIP    7866 07-17-93 NLKR digest Volume  9, Issue 61
+NKR09_62.ZIP   11562 07-17-93 NLKR digest Volume  9, Issue 62
+NKR09_63.ZIP    8196 07-17-93 NLKR digest Volume  9, Issue 63
+NKR09_65.ZIP    9354 07-17-93 NLKR digest Volume  9, Issue 65
+NKR09_66.ZIP    5197 07-17-93 NLKR digest Volume  9, Issue 66
+------------------------------------------------------------------------------
+NKR10_01.ZIP    9575 07-18-93 NLKR digest Volume 10, Issue 01
+NKR10_02.ZIP   10992 07-18-93 NLKR digest Volume 10, Issue 02
+NKR10_03.ZIP   11925 07-18-93 NLKR digest Volume 10, Issue 03
+NKR10_04.ZIP    7828 07-18-93 NLKR digest Volume 10, Issue 04
+NKR10_05.ZIP    9628 07-18-93 NLKR digest Volume 10, Issue 05
+NKR10_06.ZIP   10991 07-18-93 NLKR digest Volume 10, Issue 06
+NKR10_07.ZIP    8603 07-18-93 NLKR digest Volume 10, Issue 07
+NKR10_08.ZIP   10419 07-18-93 NLKR digest Volume 10, Issue 08
+NKR10_09.ZIP    9517 12-03-94 NLKR digest Volume 10, Issue 09
+NKR10_10.ZIP    9347 12-03-94 NLKR digest Volume 10, Issue 10
+NKR10_11.ZIP   12000 12-03-94 NLKR digest Volume 10, Issue 11
+NKR10_12.ZIP    8002 12-03-94 NLKR digest Volume 10, Issue 12
+------------------------------------------------------------------------------
+NKR11_01.ZIP    4397 12-03-94 NLKR digest Volume 11, Issue 01
+NKR11_02.ZIP    5510 12-03-94 NLKR digest Volume 11, Issue 02
+NKR11_03.ZIP    9259 12-03-94 NLKR digest Volume 11, Issue 03
+NKR11_04.ZIP    4543 12-03-94 NLKR digest Volume 11, Issue 04
+NKR11_05.ZIP    4471 12-03-94 NLKR digest Volume 11, Issue 05
+NKR11_06.ZIP    3140 12-03-94 NLKR digest Volume 11, Issue 06
+NKR11_07.ZIP    8329 12-03-94 NLKR digest Volume 11, Issue 07
+NKR11_08.ZIP    5919 12-03-94 NLKR digest Volume 11, Issue 08
+NKR11_09.ZIP   20811 12-03-94 NLKR digest Volume 11, Issue 09
+NKR11_10.ZIP    3063 12-03-94 NLKR digest Volume 11, Issue 10
+NKR11_11.ZIP   11910 12-03-94 NLKR digest Volume 11, Issue 11
+------------------------------------------------------------------------------
+NKR12_01.ZIP    3800 12-03-94 NLKR digest Volume 12, Issue 01
+NKR12_02.ZIP    7969 12-03-94 NLKR digest Volume 12, Issue 02
+NKR12_03.ZIP   11390 12-03-94 NLKR digest Volume 12, Issue 03
+NKR12_04.ZIP   10968 12-03-94 NLKR digest Volume 12, Issue 04
+NKR12_05.ZIP    9741 12-03-94 NLKR digest Volume 12, Issue 05
+NKR12_06.ZIP   14776 12-03-94 NLKR digest Volume 12, Issue 06
+NKR12_07.ZIP    9121 12-03-94 NLKR digest Volume 12, Issue 07
+NKR12_08.ZIP   12795 12-03-94 NLKR digest Volume 12, Issue 08
+NKR12_09.ZIP    5741 12-03-94 NLKR digest Volume 12, Issue 09
+NKR12_10.ZIP   13207 12-03-94 NLKR digest Volume 12, Issue 10
+NKR12_11.ZIP   14432 12-03-94 NLKR digest Volume 12, Issue 11
+NKR12_12.ZIP   10691 12-03-94 NLKR digest Volume 12, Issue 12
+NKR12_13.ZIP   10097 12-03-94 NLKR digest Volume 12, Issue 13
+NKR12_14.ZIP    9063 12-03-94 NLKR digest Volume 12, Issue 14
+NKR12_15.ZIP   11734 12-03-94 NLKR digest Volume 12, Issue 15
+NKR12_16.ZIP    6438 12-03-94 NLKR digest Volume 12, Issue 16
+NKR12_17.ZIP    9276 12-03-94 NLKR digest Volume 12, Issue 17
+NKR12_18.ZIP   10263 12-03-94 NLKR digest Volume 12, Issue 18
+NKR12_19.ZIP    8078 12-03-94 NLKR digest Volume 12, Issue 19
+NKR12_20.ZIP    7338 12-03-94 NLKR digest Volume 12, Issue 20
+NKR12_21.ZIP    7509 12-03-94 NLKR digest Volume 12, Issue 21
+NKR12_22.ZIP   10081 12-03-94 NLKR digest Volume 12, Issue 22
+NKR12_23.ZIP    6733 12-03-94 NLKR digest Volume 12, Issue 23
+NKR12_24.ZIP    8628 12-03-94 NLKR digest Volume 12, Issue 24
+NKR12_25.ZIP    8755 12-03-94 NLKR digest Volume 12, Issue 25
+NKR12_26.ZIP    9285 12-03-94 NLKR digest Volume 12, Issue 26
+NKR12_27.ZIP   11887 12-03-94 NLKR digest Volume 12, Issue 27
+NKR12_28.ZIP    7752 12-03-94 NLKR digest Volume 12, Issue 28
+NKR12_29.ZIP    9539 12-03-94 NLKR digest Volume 12, Issue 29
+NKR12_30.ZIP    8130 12-03-94 NLKR digest Volume 12, Issue 30
+NKR12_31.ZIP    7245 12-03-94 NLKR digest Volume 12, Issue 31
+NKR12_32.ZIP   10470 12-03-94 NLKR digest Volume 12, Issue 32
+NKR12_33.ZIP   11624 12-03-94 NLKR digest Volume 12, Issue 33
+NKR12_34.ZIP   10818 12-03-94 NLKR digest Volume 12, Issue 34
+------------------------------------------------------------------------------
+NKR13_01.ZIP   12662 12-03-94 NLKR digest Volume 13, Issue 01
+NKR13_02.ZIP    9840 12-03-94 NLKR digest Volume 13, Issue 02
+NKR13_03.ZIP    6312 12-03-94 NLKR digest Volume 13, Issue 03
+NKR13_04.ZIP   10692 12-03-94 NLKR digest Volume 13, Issue 04
+NKR13_05.ZIP   11272 12-03-94 NLKR digest Volume 13, Issue 05
+NKR13_06.ZIP    7320 12-03-94 NLKR digest Volume 13, Issue 06
+NKR13_07.ZIP    7931 12-03-94 NLKR digest Volume 13, Issue 07
+NKR13_08.ZIP   12525 12-03-94 NLKR digest Volume 13, Issue 08
+NKR13_09.ZIP   11628 12-03-94 NLKR digest Volume 13, Issue 09
+NKR13_10.ZIP   11927 12-03-94 NLKR digest Volume 13, Issue 10
+NKR13_11.ZIP   11113 12-03-94 NLKR digest Volume 13, Issue 11
+NKR13_12.ZIP    9407 12-03-94 NLKR digest Volume 13, Issue 12
+NKR13_13.ZIP   10547 12-03-94 NLKR digest Volume 13, Issue 13
+NKR13_14.ZIP    9512 12-03-94 NLKR digest Volume 13, Issue 14
+NKR13_15.ZIP   11153 12-03-94 NLKR digest Volume 13, Issue 15
+NKR13_16.ZIP   10714 12-03-94 NLKR digest Volume 13, Issue 16
+NKR13_17.ZIP   11221 12-03-94 NLKR digest Volume 13, Issue 17
+NKR13_18.ZIP   10148 12-03-94 NLKR digest Volume 13, Issue 18
+NKR13_19.ZIP   10521 12-03-94 NLKR digest Volume 13, Issue 19
+NKR13_20.ZIP   11783 12-03-94 NLKR digest Volume 13, Issue 20
+NKR13_21.ZIP   10168 12-03-94 NLKR digest Volume 13, Issue 21
+NKR13_22.ZIP    9356 12-03-94 NLKR digest Volume 13, Issue 22
+NKR13_23.ZIP   10247 12-03-94 NLKR digest Volume 13, Issue 23
+NKR13_24.ZIP   11126 12-03-94 NLKR digest Volume 13, Issue 24
+NKR13_25.ZIP   11575 12-03-94 NLKR digest Volume 13, Issue 25
+NKR13_26.ZIP   11699 12-03-94 NLKR digest Volume 13, Issue 26
+NKR13_27.ZIP   11917 12-03-94 NLKR digest Volume 13, Issue 27
+NKR13_28.ZIP   12303 12-03-94 NLKR digest Volume 13, Issue 28
+NKR13_29.ZIP   10520 12-03-94 NLKR digest Volume 13, Issue 29
+NKR13_30.ZIP   10546 12-03-94 NLKR digest Volume 13, Issue 30
+NKR13_31.ZIP   11995 12-03-94 NLKR digest Volume 13, Issue 31
+NKR13_32.ZIP   12359 12-03-94 NLKR digest Volume 13, Issue 32
+NKR13_33.ZIP   10993 12-03-94 NLKR digest Volume 13, Issue 33
+NKR13_34.ZIP   10630 12-03-94 NLKR digest Volume 13, Issue 34
+NKR13_35.ZIP    6561 12-03-94 NLKR digest Volume 13, Issue 35
+NKR13_36.ZIP   11391 12-03-94 NLKR digest Volume 13, Issue 36
+NKR13_37.ZIP   11663 12-03-94 NLKR digest Volume 13, Issue 37
+NKR13_38.ZIP   10688 12-03-94 NLKR digest Volume 13, Issue 38
+NKR13_39.ZIP   11757 12-03-94 NLKR digest Volume 13, Issue 39
+NKR13_40.ZIP   10991 12-03-94 NLKR digest Volume 13, Issue 40
+NKR13_41.ZIP    8969 12-03-94 NLKR digest Volume 13, Issue 41
+NKR13_42.ZIP    6741 12-03-94 NLKR digest Volume 13, Issue 42
+NKR13_43.ZIP    9789 12-03-94 NLKR digest Volume 13, Issue 43
+NKR13_45.ZIP   12927 12-03-94 NLKR digest Volume 13, Issue 45
+NKR13_46.ZIP    8055 12-03-94 NLKR digest Volume 13, Issue 46
+NKR13_47.ZIP   12259 12-03-94 NLKR digest Volume 13, Issue 47
+NKR13_48.ZIP    8946 12-03-94 NLKR digest Volume 13, Issue 48
+NKR13_49.ZIP   12541 12-03-94 NLKR digest Volume 13, Issue 49
+NKR13_50.ZIP   11682 12-03-94 NLKR digest Volume 13, Issue 50
+

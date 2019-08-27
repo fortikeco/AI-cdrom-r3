@@ -1,0 +1,72 @@
+##############################################################################
+## Directory \CHAOS - Chaos and fractals                                    ##
+##############################################################################
+3D.ZIP         59156 02-02-93 3D Anaglyphics v1.2 draws 3d chaotic attractors
+3DFRAC30.ZIP   27377 06-12-89 3d fractal landscape generator v3.0
+3DSEA.ZIP      28576 00-01-80 Undersea landscape generator
+8TRANS.ZIP      3144 00-30-93 Description of 8 fractal transformation methods
+CHAOS11.ZIP    84682 12-12-93 An OS/2 PM program that simulates a simple
+                              chaotic system. Includes source code.
+CHAOSSIM.ZIP  112585 06-25-90 Demo of a Chaos simulator package
+COLORING.ZIP    5652 01-01-93 Description of 10 methods of fractal coloring
+CORDIC.ZIP      6839 00-30-93 Cordic math - description & Modula-2 source
+ESC_TIME.ZIP    3947 01-01-93 Description & forumlas for 37 fractals types
+FDESI313.ZIP  264505 06-07-90 v3.13 IFS fractal designer with C source
+FERMI1D.ZIP    11840 04-10-93 C src computes phase space of 1 dimensional
+                              Fermi accelerations
+FERN.ZIP       29236 03-30-89 Fractal drawing of fern w/source
+FORB01A.ZIP    92653 06-25-91 Fractal orbit generator
+FRACGEN.ZIP    64230 06-12-92 Fractal Generator v1.1 - AMIGA
+FRACTAL.ZIP     5073 02-11-85 Pascal source from DDJ 10/84
+FRACTAL1.ZIP    1692 11-28-85 More Pascal source for fractals
+FRACTALT.ZIP   28997 08-22-85 Triangle fractal landscape generator
+FRACTFAQ.ZIP   27075 06-15-94 Usenet sci.fractal newsgroup FAQ
+FRACTREE.ZIP   21492 00-16-92 Fractal Tree drawing program for Win 3.0
+FRACTTOM.ZIP   34992 00-12-92 EGA/VGA fractal generator (slow)
+FRACTALS.ZIP   77280 11-27-89 Turbo Pascal source code
+GEONET11.ZIP  112138 03-11-89 Uses fract. algorithm to create maps
+HENPAS_2.ZIP   67189 01-16-89 Chaos demo from Geick's book, P.148
+LORENZ.ZIP     30206 05-02-89 EXE/SRC for original Lorenz equations
+LSYS.ZIP      130928 02-21-91 L-System string production w/UNIX C++ source
+LYAPUNOV.ZIP   47165 04-04-92 C src for generating maps of Lyapunov space
+NOVA.ZIP       37414 01-03-89 Fractal demonstration in triangle form.
+ORBITALS.ZIP    3646 00-30-93 Description of IFS & Dynamic fractals w/formulas
+STATP101.ZIP  113167 01-17-91 Statistical Physics simulator v1.01
+TRANS3D.ZIP     6289 00-30-93 Description of methods for 2-d to 3-d
+                              transformations
+TRIANGLE.ZIP   32177 01-09-89 Fractal triangles with BASIC source
+VIFS.ZIP      219943 08-25-89 View IFS fractal generator/viewer w/source
+WALLPAPE.ZIP    4373 00-01-80 Graphics algorithms in BASIC from Sci.Am.
+------------------------------------------------------------------------------
+-- FractInt and related files ------------------------------------------------
+------------------------------------------------------------------------------
+FRAIN172.ZIP  448901 02-08-92 FractInt v17.2 MSDOS fractal generator
+FRASR172.ZIP  777944 02-08-92 FractInt v17.2 C & ASM source code
+FRACT172.ZIP  448314 07-16-92 v17.2 fractint for OS/2 2.0
+FRACTFLY.ZIP    6915 08-01-90 Allows generation of "flybys" using Fractint
+                              with PASCAL source.
+FRPOR172.ZIP  786788 02-19-92 Source for Unix/Xwindows port of FractInt v17.2
+WFRAC175.ZIP 1198883 09-26-92 Fractint for Windows v17.50
+------------------------------------------------------------------------------
+-- Mandelbrot & Julia generators ---------------------------------------------
+------------------------------------------------------------------------------
+DSMANDEL.ZIP  100484 01-14-90 C source for Mandelbrot and Julia generators
+FR386.ZIP      19737 04-21-88 386 Mandelbrot set generator
+FRACT30.ZIP    67921 08-29-89 FRACT v3.0 MSDOS 2d and 3d Mandelbrot & Julia
+                              generator
+FRCAL035.ZIP  352319 00-15-93 Confusion and Light v3.5 fractal generator
+FRCALDMO.ZIP  351246 07-06-92 Confusion and Light Demo images
+FW108.ZIP     821399 05-03-92 Fractal Witchcraft v1.08 fractal designer
+MAND.ZIP       79875 03-16-91 Mandlebrot program with magnification
+MANDEL.ZIP     47486 02-11-87 Mandelbrot programs with C source
+MANDEL3.ZIP   103830 02-21-88 Mandelbrot Microscope v3.0
+MANDLA17.ZIP   25095 08-25-90 VonKoch fractal and Hopalong graphics for VGA
+MBS.ZIP        47263 01-04-87 DOS program displays selected Mandelbrot images
+MDL.ZIP        33681 03-19-89 MDL Mandelbrot Set Plotter for MSDOS & EGA/VGA
+MFRA200.ZIP     5977 06-22-92 MiniFrac v2.00 VGA Mandelbrot creator w/zoom
+MM_V31.ZIP    107477 04-30-89 MSDOS Mandelbrot/Julia generator program EGA/VGA
+MNDLBROT.ZIP   16392 06-05-88 Turbo Pascal src for generating Mandelbrot set
+PMMANDEL.ZIP   21965 06-21-90 Undocumented but easy to use OS/2 PM mandelbrot
+                              generator. Supports up to 256 colors.
+SUNMANDL.ZIP    2491 06-10-92 Mandelbrot C source for SUN/sparkstation
+

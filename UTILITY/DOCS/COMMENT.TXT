@@ -1,0 +1,64 @@
+Please use this form to give us your opinion on how we can improve this
+CD-ROM.  We rely on user feedback to make changes in our discs and with
+your help we can continue to provide a valuable product with useful,
+and needed files.  You may return the form by conventional mail, fax, or
+email to this address:
+
+    Network Cybernetics Corporation
+    ATTN: AI CD-ROM project
+    4201 Wingren Road, Suite 202
+    Irving TX 75062-2763
+
+    FAX 214-650-1929
+ 
+    Internet: comments@ncc.com
+    Fidonet:  comments @ 1:124/2206.0
+
+    Name ___________________________________________________________
+    Address ________________________________________________________
+    Address ________________________________________________________
+    City ____________________________ State/Province _______________
+    Country _________________________ Postal code __________________
+    Voice phone _____________________ Fax __________________________
+    Email address __________________________________________________
+
+    Have you already sent in your registration form?   [ ]YES    [ ]NO
+    
+    Please rate the usefulness of each type of file on a scale of 1-10
+ 
+    File type              [Useless] 0 1 2 3 4 5 6 7 8 9 [Very Useful]
+
+    Tutorials                                 [ ]
+    Bibliographies                            [ ]
+    Research papers                           [ ]
+    Electronic journals                       [ ]
+    Source code files                         [ ]
+    DOS/Windows binaries                      [ ]
+    OS/2 binaries                             [ ]
+    UNIX binaries                             [ ]
+    Amiga binaries                            [ ]
+    Macintosh binaries                        [ ]
+    Internet/Usenet FAQs                      [ ]
+    University developed software             [ ]
+    NASA/COSMIC packages                      [ ]
+    Commercial software demonstrations        [ ]
+    ___________________________________       [ ]
+    ___________________________________       [ ]
+    ___________________________________       [ ]
+    ___________________________________       [ ]
+    ___________________________________       [ ]
+
+    How could we improve the next revision of the AI CD-ROM?
+    _________________________________________________________________
+    _________________________________________________________________
+    _________________________________________________________________
+    _________________________________________________________________
+    _________________________________________________________________
+
+    Other comments:
+    _________________________________________________________________
+    _________________________________________________________________
+    _________________________________________________________________
+    _________________________________________________________________
+    _________________________________________________________________
+

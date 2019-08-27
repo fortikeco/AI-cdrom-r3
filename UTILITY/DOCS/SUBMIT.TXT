@@ -1,0 +1,65 @@
+If you would like to submit a file for the next revision of the AI CD-ROM,
+fill out this form and include it with your submission. Please read the
+submission guideline in the file SUBMIT.INF before submitting any files.
+Send the submissions to:
+
+    Network Cybernetics Corporation
+    ATTN: AI CD-ROM project
+    4201 Wingren Road, Suite 202
+    Irving TX 75062-2763
+
+    Internet: comments@ncc.com (use UUENCODE is sending by email)
+    Fidonet:  1:124/2206.0 
+    BBS:      214-258-1832 14.4kbps N81
+
+    Name ______________________________________________________________
+    Address ___________________________________________________________
+    Address ___________________________________________________________
+    City ____________________________ State/Province __________________
+    Country _________________________ Postal code _____________________
+    Voice phone _____________________ Fax _____________________________
+    Email address _____________________________________________________
+
+    Submission name ___________________________________________________
+
+    File name ________.___ (must be in ISO-9660 8.3 alphanumeric format)
+
+    Revision of file or package ___________________
+
+    Intended platform: [ ] DOS/Windows     [ ] System 7 (Macintosh)
+                       [ ] OS/2            [ ] Amiga
+                       [ ] Unix            [ ] Other: __________________
+
+    Author of file if other than yourself: (include email if known)
+    ____________________________________________________________________
+ 
+    Copyright status:
+
+    [ ] Public domain (Free distribtion and use by anyone for any legal
+                       purpose. Author retains no special rights.)
+
+    [ ] Shareware - registration amount in $US: _____.__
+
+    [ ] Freeware (free distribution and non-commercial use but author
+                  retains copyright.)
+
+    [ ] Other. Please explain:
+
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+
+
+    Please note any special export or distribution restrictions:
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+
+
+    Other comments:
+    ____________________________________________________________________
+    ____________________________________________________________________
+    ____________________________________________________________________
+

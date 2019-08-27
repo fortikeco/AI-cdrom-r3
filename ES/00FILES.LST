@@ -1,0 +1,291 @@
+##############################################################################
+## Directory: \ES - Expert Systems and shells                               ##
+##############################################################################
+1STC_PM.ZIP    48852 10-11-87 Project managment expert for 1st Class
+1STCLASS.ZIP  156113 09-04-90 Demo of 1st Class E.S. dev. system
+ADEPT21.ZIP  1040857 07-30-92 Symbologic Adept 2.1 Working Model. Uses visual
+                              programming and the procedural network paradigm
+                              to build expert systems. For DOS/Windows.
+AMATEUR.ZIP    30066 02-01-89 Amateur reasoner expert V.1.6.2
+AVATAR.ZIP    153218 09-03-90 AVATAR I V.2.01 Expert system
+BABYLN22.HQX  898051 12-03-94 Babylon v2.2. A modular, configurable, hybrid
+                              environment for developing expert system on the
+                              Macintosh.  Includes common lisp source code.
+BRIE.ZIP       10737 03-08-90 Boca Raton Inference engine
+CEXPERT.ZIP    38145 10-08-88 ES code examples in C from book
+CONVERGE.ZIP   49850 06-01-88 Converge V2.0 - "convergance" expert
+CRYSTAL.ZIP   150776 03-13-88 Demo of Crystal E.S. development system
+CUG226.ZIP     51193 08-04-91 Art-Cee v1.4 probabilistic inference engine
+                              with C source
+CUG241.ZIP    136899 08-04-91 G. Hageman's C-based inference engine for DOS
+                              with C source
+DECISN20.ZIP  108408 05-11-91 Decisions?/!Light v2.0 decision E.S.
+DELTA4.ZIP     27269 07-13-88 ZUMA-1's C/Pascal E.S. src. generator
+DEXPERT.ZIP     9815 01-17-87 Expert-like Dbase program
+EC.ZIP        623523 04-13-93 Expert Choice version 8.0. An expert system
+                              based decision support environment for DOS.
+                              This is a demostration version and includes
+                              several sample decision models.
+EDIBIS.ZIP    238446 04-18-89 Educational version of IBIS expert system
+EHDEMO.ZIP     84570 08-25-91 Demo of Expert-Help pop-up help system
+ELMER100.ZIP   61663 04-01-92 ELMER v1.00 expert system and interactive
+                              knowledge base
+ESIE.ZIP      122214 06-06-86 Simple Expert System
+EXP4.ZIP        4535 09-03-90 Hank's Expert System in BASIC
+EXPBENCH.ZIP   66096 11-28-87 Expert System Benchmark from IEEE Expert
+EXPERT.ZIP     63728 00-09-86 THE EXPERT E.S. development kit
+EXSYS1.ZIP    138258 07-29-86 Working demo of EXSYS ES v3.0.9 1/2
+EXSYS2.ZIP    145350 09-02-90 Working demo of EXSYS ES v3.0.9 2/2
+FRIAR.ZIP     121337 10-03-90 Frame/Rule Int. Artif. Reasoning V2.0
+IMP.ZIP        87138 03-21-87 Files from book "Expert Systems in Turbo Prolog"
+ITELOGIC.ZIP   20816 11-28-90 Yes-No Logic Shell V1.0 by David Johnson
+KRFOCL23.HQX 2061149 12-03-94 KR-FOCL expert system v2.3p. An advanced Mac ES
+                              with learning capability. From Univ. of CA
+LEVEL5.ZIP    149349 07-28-87 Working demo of Level 5 V1.0 E.S. shell
+MIKE14.ZIP    229539 08-17-90 Micro Interpreter for Knowledge Engineering v1.4
+MINDFRM3.ZIP  263944 09-12-91 MindFrame v3.0. Windows based expert system that
+                              is based on a frame reference language.
+MOBAL30.ZIP  1802986 11-03-94 Mobal v3.0 - a system for developing, validating
+                              and maintaining models of application domains.
+                              Includes knowledge acquistion and inspection
+                              environment, inference engine, machine learning
+                              and knowledge revision tools. For SunOS 4.1/X11.
+MOTEL087.ZIP  235271 09-05-94 MOTEL v0.8.7 is a multi-agent, logic-based
+                              knowledge representation language. Includes an
+                              abductive inference engine that is able to give
+                              explanations for its inferences. SWI Prolog src.
+OPS5PC36.ZIP   81841 08-17-89 OPS-5 Expert System lang. compiler
+PXG11.ZIP      48019 09-13-85 Pascal E.S. generator with source V1.1
+RICE402A.ZIP  180950 01-05-94 Routines for Implementing C Expert Systems
+                              (RICE) v4.02a. C source code library with PS
+                              and WP documentation. Wrritne by Rene Jager.
+RULEBS20.ZIP  165889 06-12-92 Rulebase v2.0 for DOS. An Expert System that
+                              was developed in the UK to use as a training
+                              aid in course dealing with knowledge engineering
+SMALL_X.ZIP   121282 02-23-87 Small X expert system by R. Kaplan
+STINFER.ZIP     5940 11-05-94 SmallTalk/V source for a simple forward chaining
+                              inference engine. Includes documentation.
+SUMMERS.ZIP   148688 09-26-90 The ES expert system by Eric Summers with an
+                              example knowledge base of medical information.
+                              Runs under DOS.
+TAPESTRY.ZIP  262666 01-14-88 Tapestry version 1.0 for DOS - knowledge builder
+                              and rule verificiation system.
+THE_X.ZIP      65058 10-25-86 The Expert - ES builder by S. Walton
+TMYCIN.ZIP     77691 07-26-92 Tiny-EMYCIN with LISP source code
+VAXIE.ZIP       6674 11-05-94 C source for VAX VMS based inference engine. 
+                              Full boolean expressions for attributes are
+                              allowed. Rules file format is document in code.
+                              By Ed King.
+WNDXS101.ZIP 1692038 06-12-93 Windows Expert System v1.01 by E. Toupin
+XXXPERT.ZIP   135728 06-28-88 V24.0 Integrated E. S. development system
+XXXPR24B.ZIP  102793 06-27-91 XXXPERT v.24.b [maintenance release]
+------------------------------------------------------------------------------
+-- CLIPS v3.1 Expert System development environment from NASAs COSMIC --------
+------------------------------------------------------------------------------
+CLIPS31.ZIP   239317 09-22-89 NASA CLIPS v3.1 for DOS. This is the oldest
+                              version of CLIPS we've been able to get our
+                              hands on.  It very small and relatively simple
+                              compared with the later versions. Includes DOS
+                              binaries, C source, and some documentation.
+------------------------------------------------------------------------------
+-- CLIPS v4.3 Expert System development environment from NASAs COSMIC --------
+------------------------------------------------------------------------------
+CLIPDEMO.ZIP   74715 04-02-88 Demo of a real-time CLIPS expert system
+CLIPS01.ZIP   146264 05-01-89 Clips DOS Executables DISK 1 --  1 of 14
+CLIPS02.ZIP   161850 04-26-89 Clips DOS Executables DISK 2 --  2 of 14
+CLIPS03.ZIP    89314 05-12-89 Clips DOS Executables DISK 3 --  3 of 14
+CLIPS04.ZIP    61530 05-07-89 Clips C Source code DISK 1   --  4 of 14
+CLIPS05.ZIP    77261 04-31-89 Clips C Source code DISK 2   --  5 of 14
+CLIPS06.ZIP    63287 04-08-89 Clips C Source code DISK 3   --  6 of 14
+CLIPS07.ZIP    73951 04-31-89 Clips C Source code DISK 4   --  7 of 14
+CLIPS08.ZIP   115416 04-08-89 Clips Utilities DISK 1       --  8 of 14
+CLIPS09.ZIP    64054 04-08-89 Clips Utilities DISK 2       --  9 of 14
+CLIPS10.ZIP    71433 04-08-89 Clips Utilities DISK 3       -- 10 of 14
+CLIPS11.ZIP    69882 04-25-89 Clips Utilities DISK 4       -- 11 of 14
+CLIPS12.ZIP    46588 04-31-89 Clip  Utilities DISK 5       -- 12 of 14
+CLIPSBLD.ZIP  192693 07-14-90 Interface Builder tool       -- 13 of 14
+CLIPSTUT.ZIP  345553 07-17-89 Clips Tutorial               -- 14 of 14
+PMCLIPS.ZIP   217890 06-12-90 OS/2 PM GUI for CLIPS v4.3
+CLIPSM43.HQX  371347 11-21-94 CLIPS v4.3 Macintosh executables
+------------------------------------------------------------------------------
+-- CLIPS v5.1 Expert System development environment from NASAs COSMIC --------
+-- These files must be extracted and installed under MS-DOS           --------
+------------------------------------------------------------------------------
+CLIPS_D1.ZIP  337653 09-29-91 Clips v5.1 MS-DOS installation disk #1
+CLIPS_D2.ZIP  361729 09-29-91 Clips v5.1 MS-DOS installation disk #2
+CLIPS_D3.ZIP  361729 09-29-91 Clips v5.1 MS-DOS installation disk #3
+CLIPS_D4.ZIP  361729 09-29-91 Clips v5.1 MS-DOS installation disk #4
+CLIPS_D5.ZIP  361727 09-29-91 Clips v5.1 MS-DOS installation disk #5
+CLIPS_D6.ZIP  127128 09-29-91 Clips v5.1 MS-DOS installation disk #6
+------------------------------------------------------------------------------
+-- These archives also contains the CLIPS v5.1 files but may be extracted ----
+-- and used on platforms other than MS-DOS                                ----
+------------------------------------------------------------------------------
+CLP51BIN.ZIP  929080 09-29-91 Clips v5.1 MS-DOS executables
+CLP51XMP.ZIP   98002 08-20-91 Clips v5.1 examples
+CLP51SRC.ZIP  575779 09-18-91 Clips v5.1 C source code
+CLP51CRS.ZIP  203962 09-29-91 Clips v5.1 CRSV C source code
+------------------------------------------------------------------------------
+--  CLIPS v5.1 documentation in MS Word / MAC format -------------------------
+------------------------------------------------------------------------------
+CLIPS51A.SEA  781440 08-14-93 CLIPS 5.1 User manual 1, Macbinary image of disk
+CLIPS51B.SEA  740096 08-14-93 CLIPS 5.1 User manual 2, Macbinary image of disk
+CLIPS51C.SEA  426496 08-14-93 CLIPS 5.1 Arch. manual,  Macbinary image of disk
+------------------------------------------------------------------------------
+-- CLIPS v6.0 Expert System development environment from NASAs COSMIC --------
+-- MSC-22430 MS-DOS & MS-Windows versions, Standard Distribution      --------
+-- Documentation is in MS Word for Windows format                     --------
+-- IMPORTANT INSTALLATION NOTE: These files must be unzipped to disks --------
+-- with the indicated volume labels and install from using the install--------
+-- program found on disk 1.                                           --------
+------------------------------------------------------------------------------
+CLIPS6D1.ZIP 1278480 07-17-93 CLIPS 6.0 DOS/Windows version DISK 1.
+                              Volume label CLIPS601
+CLIPS6D2.ZIP 1435358 07-17-93 CLIPS 6.0 DOS/Windows version DISK 2
+                              Volume label CLIPS602
+CLIPS6D3.ZIP  625326 07-17-93 CLIPS 6.0 DOS/Windows version DISK 3
+                              Volume label CLIPS603
+------------------------------------------------------------------------------
+-- This archive also contains CLIPS v6.0 for DOS but in an easier to access --
+-- format that can be upacked on any platform.  On DOS systems, this archive--
+-- may be unzipped directly to the harddisk without the need to use the NASA--
+-- install program (path and Windows icons must be set up manually, however)--
+------------------------------------------------------------------------------
+CLIPS6D.ZIP  2734552 06-01-93 CLIPS 6.0 DOS/Windows version.  Same vers. as
+                              above but zip of installed files.
+------------------------------------------------------------------------------
+-- CLIPS v6.0 Expert System development environment from NASAs COSMIC --------
+-- MSC-22433 UNIX version, Standard Distribution                      --------
+-- Documentation is in MS Word for MAC format                         --------
+------------------------------------------------------------------------------
+CLIPS6UN.ZIP 3680466 07-31-93 CLIPS 6.0 UNIX-Normal zip file (not TAR format)
+CLIPS6UT.ZIP 3388399 07-31-93 CLIPS 6.0 UNIX-Standard Distribution TAR format
+------------------------------------------------------------------------------
+-- CLIPS v6.0 Expert System development environment from NASAs COSMIC --------
+-- MSC-22429 MAC vers., Standard Distribution. MS Word Documentation. --------
+------------------------------------------------------------------------------
+CLIPS6M1.HQX 1640054 12-03-94 CLIPS 6.0 for the Macintosh DISK 1
+CLIPS6M2.HQX 1753326 12-03-94 CLIPS 6.0 for the Macintosh DISK 2
+------------------------------------------------------------------------------
+-- CLIPS 6.x Additional related files                                 --------
+------------------------------------------------------------------------------
+CLIPS6PS.ZIP 5182308 07-26-93 CLIPS 6.x Postscript format documentation files
+CLIPSEX.ZIP    23637 12-02-94 Four CLIPS experts including a nematode expert,
+                              a Mazda RX7 trouble shooter expert, a gas stove
+                              expert, and an expert for buying a used car.
+CLIPSFAQ.ZIP   17953 12-03-94 Usenet CLIPS Frequently Asked Questions file
+CLIPSFIX.HQX  370855 12-04-94 Modified files needed to bring Macintosh version
+                              of CLIPS 6.x up to v6.1 level.
+CLIPSFXD.ZIP  262742 05-09-93 Modified files needed to bring the DOS version
+                              of CLIPS 6.x up to v6.1 level.
+CLIPSFXU.ZIP  240775 05-09-93 Modified files needed to bring the UNIX version
+                              of CLIPS 6.x up to v6.1 level.
+DYNA_V31.ZIP   97539 09-08-94 DYNACLIPS v3.1 for the Sun workstation. Binaries
+                              only - no source. A blackboard system for CLIPS
+------------------------------------------------------------------------------
+-- FuzzyCLIPS: An extended version of CLIPS that for representing and  -------
+-- manipulating fuzzy facts and rules.  In addition to standard CLIPS  -------
+-- functionality, FuzzyCLIPS can deal with exact, fuzzy, and combined  -------
+-- reasoning. FuzzyCLIPS was created by the National Research Council  -------
+-- of CANADA.                                                          -------
+------------------------------------------------------------------------------
+FZCLIPSD.ZIP 1644689 10-20-94 FuzzyCLIPS for DOS platforms
+FZCLIPS.HQX  2179559 12-03-94 FuzzyCLIPS for the Macintosh
+FZCLIPSU.ZIP 2602134 09-29-94 FuzzyCLIPS for Unix platforms
+FZDOCS.ZIP    156976 12-02-94 FuzzyCLIPS documentation in ASCII and PS format.
+FZTESTS.ZIP   272368 10-29-94 FuzzyCLIPS test suite allows user to test the
+                              compiled FuzzyCLIPS system for configuration,
+                              features, and operation.
+------------------------------------------------------------------------------
+-- SOAR v5.2.2 (LISP): CMU's Integrated Agent Architecture Expert System    --
+-- Solves open-ended problems through learning and general intelligence.    --
+-- Version 5 is no longer supported but is the last LISP implementation.    --
+------------------------------------------------------------------------------
+CPAROPS5.ZIP  298084 08-23-90 SOAR 5.2.2: Parallel OPS5 C src code generator
+FUNC34.ZIP     55783 08-21-91 SOAR 5.2.2: Arithmetic & function extensions
+MFORMODE.ZIP   60199 06-25-92 SOAR 5.2.2: Multi form-mode extensions for EMACS
+SOAR522.ZIP   723717 09-05-91 SOAR 5.2.2: LISP source code for main package
+SOAR5MAN.ZIP  255769 06-17-94 SOAR 5.2.2: Documentation in Post Script format
+SOARMD42.ZIP 1355237 04-08-92 SOAR 5.2.2: Major mode-extension for EMACS v4.2
+SOARSIM.ZIP   177261 06-29-92 SOAR 5.2.2: SoarSIM, an extension to simplify
+                              the creation of new simulations.
+SPATRACE.ZIP    3556 06-22-94 SOAR 5.2.2: SPA-TRACE, LISP source for a more
+                              compact and manipulable trace.
+SX54.ZIP      358905 09-30-92 SOAR 5.2.2: X-Windows interface kit v5.4
+TAQL314.ZIP   325100 09-05-91 SOAR 5.2.2: Task AcQuisition Language v3.1.4
+TAQLM314.ZIP  361856 04-08-92 SOAR 5.2.2: TAQL EMACS major mode-extensions
+------------------------------------------------------------------------------
+-- SOAR v6.x.x (ANSI C): CMU's Integrated Agent Architecture Expert System  --
+-- Version 6 is currently supported and under continued development.        --
+------------------------------------------------------------------------------
+SOAR610I.ZIP  640190 08-16-93 SOAR v6.1.0: Intel (DOS/Windows) release with
+                              C src, make files for Visual C, and executables.
+SOAR610M.HQX  343735 06-22-94 SOAR v6.1.0: Macintosh release. Executable only
+                              stored in binhex format.
+SOAR623U.ZIP  475885 07-22-94 SOAR v6.2.3: UNIX release with ANSI C source
+                              and make files for gcc, HP-UX, Pmax (decstation)
+                              running Mach, SGI Indigo XS24/R4000, IRIX 4,
+                              SUN Sparc 1/SunOS 4.1.1 Unix, and Sun Sparc 1
+                              w/Mach.
+SOAR6INF.ZIP  405426 10-21-93 SOAR v6.x.x: Online, hypertext documentation in
+                              UNIX INFO format.
+SOAR6MOD.ZIP 2165236 12-10-92 SOAR v6.x.x: Major mode-extensions for EMACS
+SOAR6SDE.ZIP  872361 08-03-94 SOAR v6.x.x: Soar Development Environment v0.9.
+                              The SDE is an editing and debugging environment
+                              implemented as extensions to GNU EMACS (version
+                              19.22 or higher is needed).
+------------------------------------------------------------------------------
+-- Papers and other text files on expert systems -----------------------------
+------------------------------------------------------------------------------
+EPA_XPRT.ZIP   10686 03-20-88 2 papers on expert systems by the EPA
+ES_PAPER.ZIP    7315 01-28-91 Discussion of reliability of expert system
+ESFAQ.ZIP      20826 05-25-94 Expert System FAQ from comp.ai.shells
+ESGLOSS.ZIP    26774 11-05-94 A glossary of Expert System terminology compiled
+                              by Jim Read.
+ESLCM.ZIP      95503 10-10-88 ES tutorial/development guide by EPA
+ESTRADE.ZIP     9972 11-05-94 Transcript of a Compuserve "conference" on the
+                              the use of expert system based futures trading.
+MA_001.ZIP      4875 11-05-94 Paper: "An Artificial Intelligence Approach to
+                              Expert Trading Systems" by Michael Archer. File
+                              is ASCII text format.
+------------------------------------------------------------------------------
+-- Functioning example expert sytems and commericial ES demos ----------------
+------------------------------------------------------------------------------
+ADX.ZIP        29885 10-25-91 LISP source for a medical expert system that can
+                              diagnose a patient by comparing symptoms to a
+                              fragmentary database containing diseases and
+                              differentials. Created by a radiologist.
+CONCURE.ZIP    36083 06-26-89 E.S. determines need for DOS multitasker
+CWINE.ZIP      56880 09-06-85 Wine selection expert system
+DAS240.ZIP    171169 03-17-90 Decision analysis system V2.40
+DSS122.ZIP    344647 07-20-92 Philips DSS v1.2.2 demo version
+EXPCOM10.ZIP   46564 01-05-91 Serial communications diagnosis expert
+FUZZYES.ZIP    42545 03-05-92 School project with DOS executables and BASIC
+                              source that computes the fuzzy relations defined
+                              by Zadah, Kleen-Dienes, Lukasiewicz, Max-Product
+                              and Godel.
+GEOPHYS.ZIP   104097 04-27-88 Geophysics expert written for EPA use
+HANDWRIT.ZIP  106616 02-22-91 Handwriting analyst V3.0
+INTRFACE.ZIP   63962 03-19-87 Serial port/modem diagnosis expert
+ISODEMO.ZIP   269095 06-27-94 Demo version of an expert system that helps
+                              companies determine ISO-9000 compliance.
+JOBAIDS.ZIP    67076 09-03-90 Business related expert examples
+LM2575.ZIP    133212 03-03-90 NS's switching regulator design E.S.
+NOLAN.ZIP      39970 04-13-88 Political orientation determination E.S.
+NTERNIST.ZIP   80421 10-15-87 Medical diagnosis expert system
+ODASST.ZIP    179720 03-04-88 Organization Diagnosis Assistan v3.1, an expert
+                              system that can diagnose, model, and analyze
+                              business organizations.
+ORIGIN.ZIP    105304 11-05-94 Description of an expert system that determines
+                              NAFTA compliance. File is in a MS-Windows help
+                              format and cannot be read on other platforms.
+PCEXPERT.ZIP  191481 08-09-88 Stock market prediction expert system
+PER_LAW.ZIP   284531 00-12-91 E.S. to define/print business legal docs.
+SCHEDU.ZIP    686384 11-05-94 SmallTalk/V scheduling program designed around
+                              a frame-based expert system. By Frank Dzielski
+SI_IIB.ZIP    134571 03-11-92 Staff-It ver. IIb staff scheduling E.S.
+TAMPLAN.ZIP    81368 10-30-89 Time/money contingency planner with src.
+UNITS.ZIP     105456 00-25-88 Very simple ES converts units of measure
+WX60.ZIP       58302 06-21-90 v0.60 of weather forcasting es w/src
+WX203.ZIP      38090 11-13-91 v2.03 of weather forcasting expert system
+

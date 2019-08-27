@@ -1,0 +1,188 @@
+##############################################################################
+## Directory: \AL - Artificial Life                                         ##
+##############################################################################
+ALIFE.ZIP       5928 09-24-91 Short artificial life bibliography
+ALIFE4.ZIP      7265 07-28-94 Report on the 4th artificial life conference
+                              held at MIT, July 1994 by Hugo de Garis.
+ALIFEBIB.ZIP   51420 06-17-92 Bibliography of artificial life resources
+ALSYLL.ZIP     10516 04-23-94 Artificial Life resource syllabus from Iowa
+                              State Univ. by Leigh Tesfatsion. Latex format.
+BIOMRF.ZIP     37619 10-10-88 Biomorph program based on R. Dawkins original
+BMCM9201.ZIP  112382 06-17-92 Paper: B. McMullin, Ontological Foundations of
+                              Darwinsim
+BMCM9202.ZIP  193511 06-17-92 Paper: B. McMullin, Organismic Darwinism
+BMCM9203.ZIP  169399 06-17-92 Paper: B. McMullin, Genic & Organismic Selection
+C_ALIFE.ZIP   103812 06-17-92 Paper: Collins/Jefferson, ANTFARM: Towards
+                              Simulated Evolution
+C_ECAL91.ZIP  120783 06-17-92 Paper: Collins/Jefferson, Evolution of Sexual
+                              Selection/Female Choice
+C_ICGA91.ZIP   82465 06-17-92 Paper: Collins/Jefferson, Selection in Massive
+                              Par. Genetic Algorithms
+C_PHD.ZIP     774517 06-17-92 Paper: R. J. Collins, Studies in Artificial
+                              Evolution
+C_PPSN.ZIP     52410 06-17-92 Paper: Collins/Jefferson, An ANN Representation
+                              for Artificial Organisms
+C_SAB90.ZIP    80690 06-17-92 Paper: Collins/Jefferson, Representations for
+                              Artificial Organisms
+CORWP30.ZIP   103574 10-19-91 CoreWars Professional v3.0 AL-like sim. game
+EVOLVE.ZIP     13736 07-31-92 Paper:Introduction to evolutionary biology
+EVOSIMS.ZIP   305233 09-21-91 Behavioral evolution simulations/M.E.Mills Ph.D.
+GABUGS.ZIP     68967 07-14-90 X & Sun source for morph program inspired by
+                              Dawkins book.
+JSB.ZIP         6577 11-19-94 SmallTalk/V source for artifical life programs
+                              described in the AI Expert article "JSB:An AL
+                              Simulation"
+SELFREP.ZIP     3127 02-14-93 C src of 3 simple, self-replicating programs
+------------------------------------------------------------------------------
+-- Virus-level life genetic evolution simulators -----------------------------
+------------------------------------------------------------------------------
+CZOO.ZIP      371472 11-08-91 Computer ZOO AL simulator by J. Skipper
+DEVO.ZIP       72693 06-24-92 Evolves multi-cellular organisms w/src
+ECHO10.ZIP    895988 12-08-93 Echo v1.0 from SFI.  With source code.
+EM22.ZIP      815121 08-08-93 Evolution machine v2.2 for DOS
+EVOLITE.ZIP   178916 10-11-93 Evolve! Lite, a PC based microworld that runs at
+                              up to 10 generations per second and includes a
+                              simple gene editor. DOS/386+/VGA/Soundblaster.
+GREF_GEN.ZIP  161043 07-23-92 Genesis V5.0 w/source in UNIX TAR format
+PMSI.ZIP      370538 03-19-94 Demo of PMSI genetic algorithm technology in the
+                              form of an microworld/evolution simulator. DOS
+PSOUP10.ZIP    41942 03-18-92 Primordial Soup v1.0 source code
+RAMHA1.ZIP    197931 07-29-92 Simulates random mutagenisis of synthetic cDNAs
+TDIGEST.ZIP    17354 06-16-92 Two issues of Tierra digest
+TIERRA.ZIP     36855 10-10-91 Paper:Tom Ray on TIERRA (LATEX)
+TIERRA41.ZIP 1434574 08-16-94 T. Ray's Tierra v4.1 src & docs for UNIX/DOS
+TSR_0001.ZIP   18209 09-04-93 Paper: "Thoughts on the Synthesis of Artificial
+                              Life", by Thomas S. Ray. ASCII format.
+TSR_ZEN.ZIP    43665 01-30-94 Paper: "An Evolutionairy Approach to Synthetic
+                              Biology, Zen and Art of Creating Life" by
+                              Thomas S. Ray. ASCII format.
+VIRSIMUL.ZIP   14953 08-16-89 Simulations of several PC viruses
+------------------------------------------------------------------------------
+-- Insect-level life genetic evolution simulators ----------------------------
+------------------------------------------------------------------------------
+ANT21.ZIP      82931 03-12-91 Electronic Ant Farm v2.1 behavior simulator
+BUGS.ZIP       52934 04-02-89 DOS insect evolution simulater from Sci.Am.
+EDEN.ZIP      229008 04-04-93 EDEN competition and teaching kit from Oxford
+                              University. Eden is a Poplog-based microworld
+                              which provides a two dimensional space for
+                              programmable, learning "bugs" to line in.
+EDEN2.ZIP     407405 08-21-93 Jocelyn Paines updated version of Eden for use
+                              as an AI and Prolog teaching tool. Includes a
+                              microworld with a production system bug to live
+                              in it and a set of tutorial notes. This version
+                              is intended for teaching use only and is not
+                              compatible with the original.
+EVOBOTS.ZIP    43444 12-03-94 EvoBots v1.0a1. Macintosh AL simulator. Small
+                              evolving robots compete for food and reproduce.
+                              Written by Matthew Kaufman.
+EVOLUT4.ZIP    19264 06-12-92 Evolution4 6-gene insect simulator AMIGA
+MCROANTS.ZIP   45444 05-26-91 MicroAnts v2.0 genetic alg. AL simulator
+PWORLD.ZIP     32480 05-30-93 Paper: "PolyWorld: Life in a New Context" by
+                              Larry Yaeger of Apple Computer.
+------------------------------------------------------------------------------
+-- Artificial Life Digest ----------------------------------------------------
+------------------------------------------------------------------------------
+ALIFE000.ZIP   38620 06-12-92 Pre-volume one mailing list articles
+ALIFE001.ZIP    4429 06-12-92 Artificial Life digest #001
+ALIFE002.ZIP    6081 06-12-92 Artificial Life digest #002
+ALIFE003.ZIP    2221 06-12-92 Artificial Life digest #003
+ALIFE004.ZIP    1818 06-12-92 Artificial Life digest #004
+ALIFE005.ZIP    2705 06-12-92 Artificial Life digest #005
+ALIFE006.ZIP    5221 06-12-92 Artificial Life digest #006
+ALIFE007.ZIP    1651 06-12-92 Artificial Life digest #007
+ALIFE008.ZIP    3984 06-12-92 Artificial Life digest #008
+ALIFE009.ZIP    7511 06-12-92 Artificial Life digest #009
+ALIFE010.ZIP    1562 06-12-92 Artificial Life digest #010
+ALIFE011.ZIP    3281 06-12-92 Artificial Life digest #011
+ALIFE012.ZIP    4493 06-12-92 Artificial Life digest #012
+ALIFE013.ZIP    2920 06-12-92 Artificial Life digest #013
+ALIFE014.ZIP    4457 06-12-92 Artificial Life digest #014
+ALIFE015.ZIP    6806 06-12-92 Artificial Life digest #015
+ALIFE016.ZIP    4452 06-12-92 Artificial Life digest #016
+ALIFE017.ZIP    5155 06-12-92 Artificial Life digest #017
+ALIFE018.ZIP    4724 06-12-92 Artificial Life digest #018
+ALIFE019.ZIP    3264 06-12-92 Artificial Life digest #019
+ALIFE020.ZIP    5096 06-12-92 Artificial Life digest #020
+ALIFE021.ZIP    2127 06-12-92 Artificial Life digest #021
+ALIFE022.ZIP    4977 06-12-92 Artificial Life digest #022
+ALIFE023.ZIP    5810 06-12-92 Artificial Life digest #023
+ALIFE024.ZIP    2661 06-12-92 Artificial Life digest #024
+ALIFE025.ZIP    3470 06-12-92 Artificial Life digest #025
+ALIFE026.ZIP    3044 06-12-92 Artificial Life digest #026
+ALIFE027.ZIP   12211 06-12-92 Artificial Life digest #027
+ALIFE028.ZIP    5034 06-12-92 Artificial Life digest #028
+ALIFE029.ZIP    2777 06-12-92 Artificial Life digest #029
+ALIFE030.ZIP    4863 06-12-92 Artificial Life digest #030
+ALIFE031.ZIP    1925 06-12-92 Artificial Life digest #031
+ALIFE032.ZIP   12338 06-12-92 Artificial Life digest #032
+ALIFE033.ZIP    3696 06-12-92 Artificial Life digest #033
+ALIFE034.ZIP    3867 06-12-92 Artificial Life digest #034
+ALIFE035.ZIP    5851 06-12-92 Artificial Life digest #035
+ALIFE036.ZIP    1634 06-12-92 Artificial Life digest #036
+ALIFE037.ZIP    3340 06-12-92 Artificial Life digest #037
+ALIFE038.ZIP    2242 06-12-92 Artificial Life digest #038
+ALIFE039.ZIP    3487 06-12-92 Artificial Life digest #039
+ALIFE040.ZIP    2104 06-12-92 Artificial Life digest #040
+ALIFE041.ZIP    1726 06-12-92 Artificial Life digest #041
+ALIFE042.ZIP    3816 06-12-92 Artificial Life digest #042
+ALIFE043.ZIP    2520 06-12-92 Artificial Life digest #043
+ALIFE044.ZIP    1516 06-12-92 Artificial Life digest #044
+ALIFE045.ZIP    2107 06-12-92 Artificial Life digest #045
+ALIFE046.ZIP    5963 06-12-92 Artificial Life digest #046
+ALIFE047.ZIP    3938 06-12-92 Artificial Life digest #047
+ALIFE048.ZIP    1692 06-12-92 Artificial Life digest #048
+ALIFE049.ZIP   11167 06-12-92 Artificial Life digest #049
+ALIFE050.ZIP    8164 06-12-92 Artificial Life digest #050
+ALIFE051.ZIP   10131 06-12-92 Artificial Life digest #051
+ALIFE052.ZIP    9818 06-12-92 Artificial Life digest #052
+ALIFE053.ZIP    9587 06-12-92 Artificial Life digest #053
+ALIFE054.ZIP    5341 06-12-92 Artificial Life digest #054
+ALIFE060.ZIP    6228 06-12-92 Artificial Life digest #060
+ALIFE061.ZIP   11684 06-12-92 Artificial Life digest #061
+ALIFE062.ZIP   10569 06-12-92 Artificial Life digest #062
+ALIFE063.ZIP   11572 06-12-92 Artificial Life digest #063
+ALIFE064.ZIP   11576 06-12-92 Artificial Life digest #064
+ALIFE065.ZIP    9616 06-12-92 Artificial Life digest #065
+ALIFE066.ZIP    8242 06-12-92 Artificial Life digest #066
+ALIFE067.ZIP    6851 06-12-92 Artificial Life digest #067
+ALIFE068.ZIP    9370 06-12-92 Artificial Life digest #068
+ALIFE069.ZIP    7753 06-12-92 Artificial Life digest #069
+ALIFE070.ZIP    4490 06-12-92 Artificial Life digest #070
+ALIFE073.ZIP    5802 06-12-92 Artificial Life digest #073
+ALIFE074.ZIP   14411 06-12-92 Artificial Life digest #074
+ALIFE075.ZIP   18290 06-12-92 Artificial Life digest #075
+ALIFE076.ZIP   24245 06-12-92 Artificial Life digest #076
+ALIFE077.ZIP   14434 06-12-92 Artificial Life digest #077
+ALIFE078.ZIP    7278 06-12-92 Artificial Life digest #078
+ALIFE079.ZIP   16384 06-12-92 Artificial Life digest #079
+ALIFE080.ZIP   12673 06-22-93 Artificial Life digest #080
+ALIFE081.ZIP   31990 06-22-93 Artificial Life digest #081
+ALIFE082.ZIP   11022 06-22-93 Artificial Life digest #082
+ALIFE084.ZIP    9567 06-22-93 Artificial Life digest #084
+ALIFE085.ZIP    7465 06-22-93 Artificial Life digest #085
+ALIFE086.ZIP    8855 06-22-93 Artificial Life digest #086
+ALIFE087.ZIP    3168 06-22-93 Artificial Life digest #087
+ALIFE088.ZIP    5935 06-22-93 Artificial Life digest #088
+ALIFE089.ZIP    6295 06-22-93 Artificial Life digest #089
+ALIFE090.ZIP    5317 06-22-93 Artificial Life digest #090
+ALIFE091.ZIP   13852 06-22-93 Artificial Life digest #091
+ALIFE092.ZIP    2399 06-22-93 Artificial Life digest #092
+ALIFE093.ZIP   15057 06-22-93 Artificial Life digest #093
+ALIFE094.ZIP    7393 06-22-93 Artificial Life digest #094
+ALIFE095.ZIP   14564 06-22-93 Artificial Life digest #095
+ALIFE096.ZIP    7431 06-22-93 Artificial Life digest #096
+ALIFE098.ZIP    7540 06-22-93 Artificial Life digest #098
+ALIFE099.ZIP    1541 06-22-93 Artificial Life digest #099
+ALIFE100.ZIP   20279 06-22-93 Artificial Life digest #100
+ALIFE101.ZIP   17916 06-22-93 Artificial Life digest #101
+ALIFE102.ZIP   16125 06-22-93 Artificial Life digest #102
+ALIFE103.ZIP   16053 06-22-93 Artificial Life digest #103
+ALIFE104.ZIP    3737 06-22-93 Artificial Life digest #104
+ALIFE105.ZIP    9622 06-22-93 Artificial Life digest #105
+ALIFE106.ZIP    8537 06-22-93 Artificial Life digest #106
+ALIFE107.ZIP   31351 06-22-93 Artificial Life digest #107
+ALIFE108.ZIP   14482 12-03-94 Artificial Life digest #108
+ALIFE109.ZIP    7879 12-03-94 Artificial Life digest #109
+ALIFE110.ZIP    9360 12-03-94 Artificial Life digest #110 (Last issue?)
+ALIFEBIB.ZIP   51420 06-17-92 Artificial Life digest bibliography
+

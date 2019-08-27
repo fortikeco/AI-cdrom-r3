@@ -1,0 +1,44 @@
+by Wesley R. Elsberry...............................1992/06/23
+modified by R. Steven Rainwater.....................1992/08/30
+change beyond recognition by R. Steven Rainwater....1993/09/14
+
+Common and uncommon file compression schemes. Where ever possible the
+files on this disc have been converted to plain ZIP files. There are
+a few cases where this hasn't been done for one reason or another. In
+most cases the exceptions will be UNIX TAR archives contained within
+ZIP files. There are also a few Macintosh files stored in Binhex v4
+format (.HQX).  And in rare cases you will find an archive that has
+multiple levels of archived files within it. In such cases, the deeper
+levels may have unpredictable archive formats. Happy archiving...
+
+Extension              Type of archive          Probable origin
+---------              ---------------          ---------------
+
+ARC                    ARC                      DOS (not used much anymore)
+ARJ                    ARJ                      DOS
+BIN                    MacBinary/BinHex v5      Macintosh
+CPT                    COMPACTOR                Macintosh
+F                      FREEZE                   Unix
+GZ                     GNU GZip                 Unix / Internet FTP sites
+HPK                    HPACK                    DOS / Unix
+HQX                    BinHex v4                Macintosh / Usenet & Internet
+LBR                    LIBR                     DOS (not used much anymore)
+LHA                    LHARC                    DOS or Amiga
+LZH                    LHARC                    DOS or Amiga
+PAK                    PAK                      DOS
+PIT                    PACKIT                   Macintosh (very old)
+SDN                    PAK                      Fidonet Software Dist. Net
+SH                     SHAR                     Unix / Usenet
+SIT                    STUFFIT                  Macintosh
+SQZ                    SQUEEZE                  DOS
+TAR                    TAR                      Unix
+UUE                    UUDECODE                 Unix / Usenet
+UU                     UUDECODE                 Unix / Usenet
+XXE                    XXDECODE                 Unix / Usenet
+XX                     XXDECODE                 Unix / Usenet
+Z                      COMPRESS or GNU GZip     Unix / Internet FTP sites
+ZIP                    ZIP                      Universal
+ZOO                    ZOO                      Amiga, DOS, or Unix
+?Q?                    NUSQ, UNSQ               (who knows?)
+
+

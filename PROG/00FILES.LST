@@ -1,0 +1,212 @@
+##############################################################################
+## Directory: \PROG - Misc. Programming languages and tools                 ##
+##############################################################################
+ABC10201.ZIP  188376 07-07-90 MSDOS implementation of ABC v1.02.01
+ALGOL_M.ZIP    44297 00-11-87 MS-DOS implementation of ALGOL-60
+ALPROG.ZIP     28048 10-04-86 Assembly language tutorial from Yale
+ASMTUTOR.ZIP   47909 10-27-84 80x86 assembly language tutor
+AWK300.ZIP     86767 04-23-90 AWK v3.00 by Rob Duff
+BOB13.ZIP      52182 08-27-91 BOB by Dave Betz (from DJJ article)
+BOOLE.ZIP     146434 11-10-91 Approximate reasoning language
+COBOL6.ZIP    133791 06-13-90 v6.00 COBOL compiler by R. Noweck
+DO1BETA.ZIP   492165 07-24-91 dBASE compatible OOP language
+F2C.ZIP       396024 05-21-92 Fortran to C translator for OS/2 2.0
+F2C_EXE.ZIP   284416 05-15-91 AT&T Fortran to C translator for DOS
+FUTURE86.ZIP  118005 10-09-87 Demo of English-like programming language
+HOPE.ZIP       95355 04-09-91 Source for an interpreter for the HOPE language
+HOPE_PC.ZIP    64378 04-25-91 HOPE interpreter source ported to Turbo-C
+IFP.ZIP        32047 01-07-87 IFP programming language (Byte magazine)
+J_OS2.ZIP     134367 02-22-92 16bit OS/2 "J" compiler [similar to APL]
+LB04.ZIP      772014 02-18-94 Liberty BASIC v0.4 [beta] for OS/2
+MAX130.ZIP    118067 11-12-88 MAX v1.3 for MSDOS. Combination of C & Lisp
+NPCCOBOL.ZIP   44982 09-13-87 NPC Micro-COBOL v2.1 [interpreter]
+OBERONM.ZIP   138439 01-24-91 Compiler for N. Wirth's Oberon (DOS)
+OPS5PC36.ZIP   88757 08-17-89 OPS5-PC v3.6
+PEW21.ZIP     491283 08-19-92 Finite State modeling tools based on the
+                              ISO Estelle language
+PRIMER.ZIP     16372 07-07-83 Assembly language primer/tutorial
+PROXY.ZIP     112955 03-25-94 Proxy v1.4, an interpreter for a rapid
+                              prototyping design language with a C/C++ like
+                              sytax. Allows incremental changes to made and
+                              tested immediately.
+RUNPLI1A.ZIP  104391 03-25-89 RUN v1a, a PL/I interpreter w/source
+QPRO4.ZIP     324689 08-01-89 Q-Pro v4.0 4th generation language
+SML.ZIP       332293 08-10-93 OS/2 CLI, OS/2 PM and DOS ports of the Edinburgh
+                              ML programming language
+SMLNJ093.ZIP 1695095 10-20-93 32bit OS/2 port of the functional language
+                              Standard ML of New Jersey (SML/NJ) version 0.93
+SPLANG.ZIP    118716 08-09-86 Structured Programming Language Processor
+VCLANG11.ZIP  153240 05-20-91 VisiCLANG v1.1 [visible Clang compiler]
+------------------------------------------------------------------------------
+-- ADA Programming language  -------------------------------------------------
+------------------------------------------------------------------------------
+ADA_LRM1.ZIP  148268 03-05-89 Ada language reference manual reader 1 of 4
+ADA_LRM2.ZIP  202345 10-08-88 Ada language reference manual reader 2 of 4
+ADA_LRM3.ZIP   42915 03-05-89 Ada language reference manual reader 3 of 4
+ADA_LRM4.ZIP    7783 03-08-89 Ada language reference manual reader 4 of 4
+ADA_REF.ZIP   303403 00-08-91 Official ANSI/MIL-STD ADA lang. reference
+AUGUSTA.ZIP    38817 05-24-86 Simple ADA (subset) compiler
+ADATU200.ZIP  214482 02-25-91 Interactive ADA tutor v2.00 for MSDOS
+BD3.ZIP        76401 03-30-89 Demo of ADA tasking with source & tutorial
+NAPP11.ZIP    144808 07-28-89 NASA's ADA Pretty Printer v1.1 code reformatter
+------------------------------------------------------------------------------
+-- C/C++ Programming language  -----------------------------------------------
+------------------------------------------------------------------------------
+C68K.ZIP       88995 00-05-86 C compiler for Motorola 68000 CPU
+CCC1053A.ZIP   28615 11-25-89 Complete Computer Corporation C compiler 1/3
+CCC1053B.ZIP  232566 11-25-89 Complete Computer Corporation C compiler 2/3
+CCC1053C.ZIP  311414 11-25-89 Complete Computer Corporation C compiler 3/3
+CCPPTUTR.ZIP  192314 08-07-92 Coranado C++ tutor with source examples
+CENVI21.ZIP   172325 07-10-93 CMM (C minus minus) version 2.1 for OS/2
+CPPTOUR.ZIP    57128 05-22-89 Hypertext C++ tutorial
+CTUTOR1.ZIP   112896 07-25-86 C tutorial part 1 of 2
+CTUTOR2.ZIP    96113 07-25-86 C tutorial part 2 of 2
+CUG163.ZIP     98097 00-10-91 CUG Small C compiler for MS-DOS
+CUG204.ZIP     84467 09-03-89 CUG src for 68000 compiler that outputs UNIX
+                              compatible object code
+CUG221.ZIP     80824 08-04-91 CUG Small C compiler for the 6800-based FLEX OS
+GCCFAQ.ZIP     13360 07-20-93 GNU C/C++ compiler FAQ from comp.prog.lang.c
+PERCC.ZIP     188571 10-12-91 Personal C Compiler v2.1c
+SC88.ZIP       81212 04-13-88 Byte magazine's Small C v1.0
+SCI15.ZIP     102215 00-01-80 Bob Brodt's Small C Interpreter v1.5
+SMC27CPM.ZIP  109610 09-03-89 CUG Small C compiler for CP/M v2.7 with C source
+T2C.ZIP       103393 11-01-87 MSDOS utility converts Turbo Pascal src to C
+------------------------------------------------------------------------------
+-- C/C++ GNU compiler & utilities - most recent OS/2 port --------------------
+------------------------------------------------------------------------------
+BASE254.ZIP   366053 11-21-93 GCC/2 v2.5.4 Required binaries and DLL files
+C254.ZIP      563923 11-21-93 GCC/2 v2.5.4 C Compiler binaries
+CPLUS254.ZIP  827465 11-21-93 GCC/2 v2.5.4 C++ compiler extension kit
+DEV254.ZIP    781485 11-21-93 GCC/2 v2.5.4 Required libraries/include files
+GCCINFO.ZIP   519698 03-11-93 GCC/2 Hypertext manuals (old version)
+GLIBP115.ZIP   37427 02-20-93 GCC/2 Object file librarian binaries
+GLIBS115.ZIP  113395 02-23-93 GCC/2 Object file librarian source
+GNUBISON.ZIP  213633 09-09-92 GCC/2 source code for GNU BISON parser generator
+MAN254.ZIP   1031402 11-21-93 GCC/2 v2.5.4 Manual pages for standard C library
+OBJC254.ZIP   642340 11-21-93 GCC/2 v2.5.4 GNU Objective C kit
+PMINFO21.ZIP  178381 11-21-93 GCC/2 PMInfo and PMMan source code
+S_MK362.ZIP   114023 04-16-93 GCC/2 source code for GNU Make v3.62
+SAMPL254.ZIP   66605 11-11-93 GCC/2 v2.5.4 sample C, C++ and Obj-C source code
+SGCC254.ZIP  6343151 11-21-93 GCC/2 v2.5.4 Source code
+SLIB254.ZIP   536379 11-21-93 GCC/2 v2.5.4 Standard C library source code
+SLIBG251.ZIP 1765422 11-07-93 GCC/2 C++ library source code (v2.5.1)
+SRCGAS22.ZIP  352983 01-03-94 GCC/2 Assembler version 2.2 source code
+SUTIL254.ZIP   13354 11-21-93 GCC/2 v2.5.4 Utility program source code
+TEXI254.ZIP   604946 11-21-93 GCC/2 v2.5.4 Manuals for C and C++ compilers
+------------------------------------------------------------------------------
+-- C/C++ GNU compiler & utilities - most recent DOS port ---------------------
+------------------------------------------------------------------------------
+AEASY101.ZIP   72300 09-31-92 Async support for DJGPP
+AECUR101.ZIP  133335 09-31-92 Curses for DJGPP
+AETSK101.ZIP   88004 09-31-92 setjmp-based multitasking library for DJGPP
+AEWIN101.ZIP  114601 09-31-92 Text windows library for DJGPP
+BSN121BN.ZIP   50632 05-01-93 GNU BISON v1.21 parser generator binaries
+BSN121DC.ZIP  177532 04-30-93 GNU BISON v1.21 parser generator documentation
+BSN121SR.ZIP  285853 03-18-93 GNU BISON v1.21 parser generator source code
+CBGRD102.ZIP  259775 07-12-92 GRX graphics library for DJGPP - Documentation
+CBGRF102.ZIP  879369 04-27-92 GRX graphics library for DJGPP - Fonts
+CBGRX102.ZIP  842221 07-12-92 GRX graphics library for DJGPP - Binaries
+DIF115SR.ZIP  103158 08-26-92 Current diffs for DJGPP version 1.15
+DJDEV110.ZIP  914966 05-01-93 DJGPP Basic development environment kit
+DJDOC110.ZIP  101633 05-01-93 DJGPP documentation
+DJEMU110.ZIP   57055 09-28-92 DJGPP 80387 emulator
+DJLGR110.ZIP   30827 09-30-92 DJGPP Basic graphics
+DJLSR110.ZIP  511319 05-01-93 DJGPP Sources to libraries in development kit
+DJSRC110.ZIP  152927 05-01-93 DJGPP Source for binaries in development kit
+FLX238BN.ZIP   58593 04-31-93 GNU FLEX v2.3.8 - DOS binaries
+FLX238DC.ZIP   33144 05-01-93 GNU FLEX v2.3.8 - documentation
+FLX238SR.ZIP  150782 01-22-93 GNU FLEX v2.3.8 - source code
+GAS_DOCS.ZIP   64990 06-04-89 Addition documentation for GNU GAS
+GAS211BN.ZIP   63697 04-31-93 GNU Assembler v2.1.1 - DOS binaries
+GAS211DC.ZIP  207221 04-30-93 GNU Assembler v2.1.1 - documentation
+GAS211SR.ZIP 2035738 04-20-93 GNU Assembler v2.1.1 - source code
+GCC241BN.ZIP 1593926 04-31-93 GNU C/C++ compiler - DOS binaries
+GCC241DC.ZIP  828686 04-29-93 GNU C/C++ compiler - documentation
+GCC241SR.ZIP 5916811 08-05-93 GNU C/C++ compiler - source code
+------------------------------------------------------------------------------
+-- Fourth Programming language -----------------------------------------------
+------------------------------------------------------------------------------
+4TH_86.ZIP    276441 09-20-89 4th-86 v3.0 by Larry Buchan
+EFORTH.ZIP     50015 06-29-90 Embedded-Forth w/asm source for controllers
+F83_21.ZIP    112998 05-30-84 Laxen&Perry Forth-83 v2.1.0 for MSDOS
+F83_TUT.ZIP    34579 05-29-87 Tutorial for Laxen&Perry Forth-83
+FED.ZIP       132008 08-17-87 Specialized Forth editor w/PC-Forth83 v1.55
+FIFTH18.ZIP    56498 03-21-86 Fifth v1.8, a Forth-like environment
+FIG_4TH.ZIP   130446 00-17-87 Forth interpreter by J. Smith
+FORTH040.ZIP   83606 05-30-94 FORTH/2 v0.40 beta. A 32bit Forth for OS/2 2.x
+FORTH32.ZIP    17695 00-19-92 32bit Forth source - require DOS GNU C
+FORTHCMP.ZIP   99097 04-02-92 Tom Almy's Forth compiler
+FORTHFAQ.ZIP   32154 11-17-94 Usenet comp.lang.forth FAQ
+FORTHTUT.ZIP   22548 07-23-85 Forth programming tutorial
+FPC355_1.ZIP  335473 03-26-91 Forth-PC v3.5501 1 of 5
+FPC355_2.ZIP  245205 03-26-91 Forth-PC v3.5501 2 of 5
+FPC355_3.ZIP  341823 03-23-91 Forth-PC v3.5501 3 of 5
+FPC355_4.ZIP  336566 03-26-91 Forth-PC v3.5501 4 of 5
+FPC355_5.ZIP  303155 03-25-91 Forth-PC v3.5501 5 of 5
+FPCL1_7.ZIP   347634 06-19-90 Jack Brown's FPC v3.5 Forth tutorial
+LOVE4TH.ZIP   274787 09-01-91 Lake Ontario Very Efficient Forth-83 v1.28
+MIN4TH25.ZIP   13999 08-14-88 MiniFORTH v2.5 w/x86 assembler source
+MVPFORTH.ZIP   39944 05-02-86 Mountain View Press Forth-79/fig-Forth
+POLYMATH.ZIP  119958 05-29-86 Interactive, Forth-like environment
+PYGMY13.ZIP    63858 08-08-92 Pygmy Forth v1.3 for DOS w/editor
+UDFORTH.ZIP   126945 00-26-91 Fast Forth (Forth-83 compatible)
+UNIFORTH.ZIP   76910 00-01-80 Demo of commercial Forth-83 compiler
+ZEN160.ZIP     24989 00-01-89 Zen Forth 1.6 64k model, meets ANS X3J14
+------------------------------------------------------------------------------
+-- ICON Programming language  ------------------------------------------------
+------------------------------------------------------------------------------
+DE85.ZIP      244287 01-06-92 Univ. of Arizona's ICON V8.5 MSDOS exes & Docs
+DE85_386.ZIP  291959 02-17-92 Univ. of Arizona's ICON V8.5 80386 exes & Docs
+DS85.ZIP      723926 01-19-92 Univ. of Arizona's ICON v8.5 Source code
+OE88.ZIP      395502 01-06-93 Univ. of Arizona's ICON v8.8 OS/2 PM executables
+                              with graphics support
+------------------------------------------------------------------------------
+-- LOGO Programming language  ------------------------------------------------
+------------------------------------------------------------------------------
+DOSLOGO.ZIP   210318 07-03-92 MSDOS port of Unix LOGO
+LADYBUG.ZIP   119623 11-31-89 LadyBug v1.0e an MSDOS version of LOGO
+MSWLGO24.ZIP  448409 10-03-92 MSW LOGO v2.4 LOGO for Microsoft Windows
+ROO10.ZIP      82508 01-07-92 ROO v1.0 a LOGO-like environment for MSDOS
+------------------------------------------------------------------------------
+-- ML Programming language  compiler --------------------------------------------------
+------------------------------------------------------------------------------
+CL5BI386.ZIP  471175 08-09-92 Caml Light ML v0.5 for 80386+ MSDOS machines
+CL5BI86.ZIP   310031 08-09-92 Caml Light ML v0.5 for 80x86 MSDOS machines
+CL5DOCDV.ZIP  229134 08-11-92 Caml Light ML v0.5 documentation in DVI format
+CL5DOCPS.ZIP  376027 08-13-92 Caml Light ML v0.5 documentation in PS format
+CL5MACB.ZIP   353477 06-29-93 Caml Light ML v0.5 for MAC machines [binhex]
+CL5MACS.ZIP   371356 06-29-93 Caml Light ML v0.5 source for MAC [binhex]
+CL5SR386.ZIP  326175 08-09-92 Caml Light ML v0.5 source for MSDOS 80386+
+CL5SR86.ZIP   183389 08-09-92 Caml Light ML v0.5 source for MSDOS 80x86
+CL5STGEM.ZIP  272967 09-26-92 Caml Light ML v0.5 for Atari ST machines
+CL5UNIX.ZIP   405026 08-09-92 Caml Light ML v0.5 source for UNIX machines
+------------------------------------------------------------------------------
+-- Modula-2 Programming language  --------------------------------------------
+------------------------------------------------------------------------------
+M2CMP20.ZIP   137397 11-01-88 FST's MSDOS Modula-2 compiler v2.0 1 of 5
+M2DOC20.ZIP   121939 10-23-88 FST's MSDOS Modula-2 compiler v2.0 2 of 5
+M2EXA20.ZIP    17554 10-08-88 FST's MSDOS Modula-2 compiler v2.0 3 of 5
+M2LIB20.ZIP    38119 10-27-88 FST's MSDOS Modula-2 compiler v2.0 4 of 5
+M2UTL20.ZIP    77897 10-22-88 FST's MSDOS Modula-2 compiler v2.0 5 of 5
+MOD2TUTR.ZIP  196673 03-08-89 Coronado's Modula-2 programming tutorial
+------------------------------------------------------------------------------
+-- Pascal Programming language  ----------------------------------------------
+------------------------------------------------------------------------------
+COPASCAL.ZIP   78003 05-19-86 Concurrent Pascal v2.0 MS-DOS & CP/M
+CTOPAS.ZIP      5953 11-06-89 MSDOS utility converts C code to Pascal w/source
+MYSTIC15.ZIP   83620 07-09-87 Mystic v1.5b ISO standard Pascal for MSDOS
+PASOS2C1.ZIP  333629 12-20-93 A 32bit Pascal compiler for OS/2. Requires TASM
+                              MASM v6.0a to use.
+PASTUTOR.ZIP  160768 00-15-88 Coronado Enterprises's Pascal Tutor v2.00
+PPC_P4.ZIP     41619 11-29-92 Portable Pascal Compiler P4 source
+PP002.ZIP      42827 04-23-93 Power Pascal/2 version 0.02. 32bit native OS/2
+                              Pascal compiler - requires MASM 6.0.
+SURPAS86.ZIP  116033 09-21-87 Australian Pascal compiler for MSDOS
+VALZAH.ZIP     54600 00-11-87 Pascal compiler done as school project
+------------------------------------------------------------------------------
+-- SNOBOL Programming language  ----------------------------------------------
+------------------------------------------------------------------------------
+AISNOBOL.ZIP  185997 10-16-87 AI programming examples for Vanilla SNOBOL4
+SNOUTILS.ZIP  288481 01-03-88 Utilities written in SNOBOL (no src)
+VSNBL220.ZIP  242293 10-01-91 Vanilla SNOBOL4 v2.20 from Catspaw, Inc.
+

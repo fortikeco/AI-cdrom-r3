@@ -1,0 +1,868 @@
+##############################################################################
+## Directory: \ANN - Artificial Neural Networks                             ##
+##############################################################################
+ADAFIN.ZIP      6927 11-23-94 C++ source by Gary Vass that trains an Adaline
+                              network using 1991 price data on comex gold,
+                              copper, Matif long bonds, and Nikkei stocks.
+ADALINE.ZIP    49544 10-23-88 Simple neural net simulator.
+AGN11B.ZIP    153071 04-26-92 AG NeuroScience's Neural Net  Race Contest
+                              simulation with source
+AIX_NNPP.ZIP   61770 09-01-90 L. O'Brien's BP simulator with C++ source code.
+AM6.ZIP      1123480 09-29-92 Mitre Coporation's free Neural Net simulator
+                              package, Aspirin/MIGRAINES Version 6.0 with 
+                              C source code and documentation.
+ANN4TH.ZIP     61572 05-11-92 ANN in Forth & Borland C++
+ANNCAM.ZIP      3736 00-03-91 Content addressable memory in Amiga 'C'
+APGNN.ZIP     102669 01-27-91 NNs from "A Practicle Guide to Neural Networks"
+ART1_2.ZIP      6650 02-05-91 2 examples of adaptive resonance theory
+ATREE20.ZIP   113872 06-09-94 ATREE v2.0 Adaptive Logic Network (ALN). This
+                              file includes the C source for the original
+                              UNIX version of the program.
+ATREE27.ZIP   559886 06-09-94 ATREE v2.7 Adaptive Logic Network (ALN). source
+                              and executables for DOS/Windows.
+ATREE2PS.ZIP   60317 06-18-92 ATREE v2.x documentation - Post Script
+AUTONET.ZIP    88004 07-02-90 V 2.01 EGA/VGA ANN builder with examples
+BACK1.ZIP      49544 12-03-92 Unix C source for a fast backprop network by
+                              Dr. D. Tveter.
+BAM_RT.ZIP     44212 07-07-87 Bidirectional associative memory by Dr. R.T.
+BAM_WRE.ZIP    29878 04-13-90 Bidirectional Associative Memory by W.R.E
+BATCHNET.ZIP   48452 10-13-89 3 Layer back-propagation ANN
+BAYES.ZIP       3718 02-12-91 Tree-structured Bayesian belief network
+BENCH.ZIP     325413 08-19-90 CMU ANN Benchmark archives
+BP_GDR.ZIP     54027 11-31-89 C source for Generalized Delta Rule backprop
+                              learning algorithm
+BPNN132U.ZIP   73206 03-29-92 Back Propagation Neural Net engine v1.32U
+BPQ1.ZIP        7514 09-08-93 Simple Backpropagation Neural Network written
+                              in QBasic - useful for experimentation.
+BPS_211.ZIP   366571 11-13-91 BP Simulator v2.11 for DOS,MAC,VMS,UNIX,etc
+BPSIM2.ZIP     44911 00-03-94 B.P. ANN for Amiga, PC, and SUN 3/160
+BRAIN12.ZIP    77489 03-07-94 Brain version 1.2s, a DOS backprop ANN program
+                              from DP Computing. Good tutorial for beginners
+                              is included.
+BSDPRCPT.ZIP   31347 03-06-92 C src for BSD single-layer perceptron UNIX SHAR
+CASC102.ZIP    61313 12-19-93 Matt White's re-engineered C version of the
+                              Cascade-Correlation Learning Algorithm.
+CASCOR1.ZIP   110947 00-28-91 Cascade-Correlation Algorithm. C/Lisp source
+CASCORNN.ZIP  198408 03-09-94 Cascade-Correlation example by G. R. Kuntz.
+                              DOS executables and sample data files.
+CONDELA.ZIP   178857 07-05-92 CONDELA-3 Connection Definition Language TAR
+CLUSTR25.ZIP   33296 01-20-93 Cluster v2.5, C source code for performing
+                              hierarchical cluster analysis and principal
+                              component analysis. Written by A. Stolcke.
+DARTNET.HQX   120758 12-01-94 Dart Net Version 1.0. Macintosh neural network
+                              simulator. Public domain.
+DATARE.ZIP     83992 02-22-90 Stimulus Generation and Association Programs
+                              with documentation and Pascal source code. By
+                              James A. Anderson / Brown University
+DDJ_AI.ZIP    161892 03-08-90 A number of DDJ neural net simulations
+DDJANN01.ZIP    7305 00-02-89 ANN code from Doctor Dobb's Journal 12/89
+DDJANN02.ZIP   45507 02-09-90 ANN code from Doctor Dobb's Journal 04/90
+DDJANN03.ZIP   27839 04-30-91 ANN code from Doctor Dobb's Journal 04/91
+DESIR445.ZIP  165066 07-04-92 Desire [DEMO] v4.45 equation solver
+DRT_BP.ZIP    254992 04-13-94 Dr. Donald R. Tveter's backprop network with
+                              documentation, source code, makefiles for DOS
+                              and UNIX, and executables for DOS/386 systems.
+ET.ZIP         55126 07-31-89 Perceptron simulator
+ETDEMO13.ZIP   84026 02-09-90 ET v1.3 GUI ANN simulator demo-version
+FACESIM.ZIP     8572 04-19-91 Alice O'Toole's face recognition ANN
+FAST_BP.ZIP    48700 08-05-91 C source for Dr. D. Tveter's original fast back-
+                              propagation neural net.
+FCNLNK.ZIP    157739 06-24-93 Two DOS programs helpful in designing & testing
+                              functional link neural networks. LNKMAP.EXE for
+                              designing mapping networks which have linear
+                              activations and polynomial functions to 5th dgr.
+                              LNKCLS.EXE; to design and test classification
+                              networks having sigmoidal output activations.
+FS_CPN.ZIP      9626 03-08-92 Counterpropagation NNT 
+FS_STN.ZIP      2697 09-05-90 C source code for Counterpropagation NNT
+GANN.ZIP        9268 03-30-91 Genetic algorithm ANN SMALLTALK code
+GATORDEM.ZIP  512085 01-27-94 Demo of easy-to-use neural net package with GUI,
+                              graphing, validation, and source code generator.
+                              Available for Macintosh, SUN, and PC.
+GDELTA.ZIP      4852 10-12-87 Pascal source for ANN using Delta rule
+HOPNET.ZIP     20250 02-25-92 7 node Hopfield network w/TP source
+HST.ZIP        30779 11-12-90 Hopfield-style network by A. Jagota
+JEDI.ZIP       53416 11-21-90 Jet Engine simulation using ANNs
+KNET3A.HQX     73425 12-02-94 Knet v3.0 by Peter Kosel. Macintosh executable
+                              and C source code that demonstrates "superficial
+                              reasoning" by way of probabilistic truth table
+                              networks.
+KNET3A.ZIP     32205 11-05-94 Knet v3.0 by Peter Kosel. DOS executables and C
+                              source that demonstrates "superficial reasoning"
+                              by way of probabilistic truth table networks.
+LVQ11.ZIP     301544 00-08-92 Learning Vector Quantization v1.1 UNIX TAR
+LVQDOC11.ZIP   76763 00-08-92 Learning Vector Quantization v1.1 Documentation
+LVQSRC11.ZIP  318967 11-31-91 Learning Vector Quantization v1.1 C source
+MACTIV33.HQX  184864 10-29-90 Mactivation v3.3 for the Macintosh. A low level
+                              connectionist simulator written by M. Kranzdorf
+MALE.ZIP       35466 11-27-80 Turbo Prolog source for a single layer, Multiple
+                              Adaptive Linear Element (MALE) neural network.
+                              DOS executable is included.
+MBPV11.ZIP    143326 11-23-93 Matrix Back Propagation v1.1 with C source code
+                              and make files for AIX(RS6000), HP-UX(HP-9000),
+                              and DOS (both Borland and Microsoft C).  By
+                              Davide Anguita of DIBE - University of Genova.
+MD2.ZIP         1685 01-02-91 Simple medical diagnosis ANN in BASIC
+NEOCOGNI.ZIP   92087 07-23-92 Neocognitron V1.0 in UNIX TAR format
+NETLAB01.ZIP  139756 03-08-90 Netlab V0.1 ANN hardware simulator
+NETSIM.ZIP     18872 07-23-92 Network Simulator in UNIX TAR format
+NEUCLS3.ZIP   607163 09-06-94 M. Manry DOS based neural net package. Designs
+                              and analyzes neural networks for classification
+                              or descision making.
+NEUMAP3.ZIP   601111 09-06-94 M. Manry DOS based neural net package. Designs
+                              and analyzes mapping and estimation networks.
+NEURAL.ZIP     61770 09-01-90 C++ Neural Net from Oct 90 AI Expert
+NEURAL30.ZIP   98146 09-12-91 Neural v3.0, A McCulloch-Pitts, feed-forward NN
+                              for DOS.
+NEURALX.ZIP    68331 03-01-89 Neural X ANN node tracker v1.0
+NEURLAB1.ZIP   46690 09-05-89 Amiga Neural Lab v1.0 demo. A very basic neural
+                              net simulator for the Amiga.
+NEURON.ZIP    126143 09-02-91 NEURON Revision 2.40 w/HOC interpreter
+NEURON23.ZIP   28292 11-09-92 Farhi's ANN for DOS & Atari - v2.3
+NEURONC.ZIP    61566 01-21-93 A C++ class written for Borland C++ v3.1 that
+                              simulates the functions of a single biological
+                              neuron.  Also includes a demo program and
+                              network class for creating networks of neurons.
+NEUROSIM.ZIP  106332 03-09-90 NeuroSim v1.1 BEP/Kohonen network simulator
+NEWRULE.ZIP    34067 03-04-90 Simple backprop. ANN with BASIC src
+NEWRULEC.ZIP   26930 03-13-90 Newrule ANN ported to C by E. Nicol
+NEWTON.ZIP      9235 10-13-90 ANNs demonstrating Newton's method and
+                              "persistent activations"
+NGANNSIM.ZIP  123496 03-21-91 Neural Graphics ANN simulator with tutorials
+NLABV2A.ZIP   177854 05-18-93 Neural Lab v2.0a by Zagros Software. Backprop.
+NN2.ZIP        28678 04-29-89 ANN simulator with 256 neurons
+NNAAPT.ZIP     41168 04-08-92 Source code from the book "Neural Networks:
+                              Algorithms, Applications, and Programming
+                              Techniques" by Freeman and Skapure. Includes
+                              C source for ART, Boltzmann, Adaline, Back prop,
+                              Counterprop, and Spatiotemporal networks.
+NNAPL.ZIP     110246 08-04-90 NN (bp) Application Programming Language
+NNCPPSC.ZIP    75923 08-17-92 C++ source code by Adam Blum for a neural net
+                              class library. For complete documentation
+                              refer to "Neural Networks in C++" by Adam Blum
+                              from John Wiley & Sons (ISBN 0-471-55201-1)
+NNETDRAW.ZIP   51844 02-14-91 V1.1 ANN tutorial with prolog source
+NNLOR.ZIP       7922 09-03-93 Simulates a fully connected neural net and
+                              attempts to count the number of strange
+                              attractors in the stabilization process.
+NNUTILS.ZIP   249902 08-02-93 Gregory Stevens public domain neural network
+                              utilities C language tutorial package. Teaches
+                              how to program using neural nets in C. With
+                              documentation, source code, and DOS executables.
+NP116.ZIP      41663 07-27-93 NevProp v1.16 General purpose back-prop NN
+                              with C source code.  For DOS, Mac, and Unix
+                              systems. Based on the Lisp program QuickProp.
+NPLAN24.ZIP   399614 04-17-94 Neural Planner v2.4. Windows based ANN with
+                              examples. Shareware.
+NRLNET10.ZIP   41572 03-10-90 Back propagation neural network kit
+NSHELL.ZIP     21503 00-08-91 NeuroShell [Demo version]
+NWP2PLUS.ZIP  852177 02-25-94 Demo of NeuralWorks Professional II/Plus v5.0
+                              From NeuralWare of Pittsburgh, PA
+OCRNET.ZIP    118325 03-19-93 Windows 3.1 based neural net OCR demo. Allows
+                              user to draw a glyph and then classifies it
+                              as a digit between 0-9.
+OCRNNMAC.HQX  191249 12-01-94 Macintosh version of the neural net OCR demo.
+                              Requires a 68030 or better Mac with at least
+                              4meg of RAM.
+OID.ZIP        63726 11-24-89 Object Identification Demonstration
+OUTSTAR.ZIP    31310 06-14-90 AI Expert OutStar simulation
+PCAI001.ZIP    62391 03-02-91 PC AI Magazine's BP simulator w/source
+PDNNET11.ZIP   67147 11-08-92 PD BP ANN V1.1/with Turbo C source
+PERCEPT.ZIP     3655 10-06-90 Perceptron code in BASIC
+PETRINET.ZIP   47021 00-16-93 ANSI C src for Petri-net w/GNU SUIT interface
+PROX_N.ZIP    243988 06-05-93 Serial Proximity Network demonstration. Includes
+                              DOS/Windows program that application to process
+                              control problems and a serial proximity network
+                              C++ class library.
+QNET15.ZIP    617577 03-16-94 Qnet v1.5 DOS/Windows neural net simulator. Fast
+                              32bit backprop nets with up to 300k connections
+                              per second on a 486/66.
+R_MBPANN.ZIP    4742 01-28-91 C++ back-propagation ANN from R&M's PDP
+RCC.ZIP        47711 07-23-92 Recurrent Cascade-Correlation in C & Lisp
+RECNET13.ZIP  607443 08-02-93 C source for Tony Robinson's speech recognition
+                              network.  Make files are provided for SunOS and
+                              IRIX. Uses data from the DARPA TIMIT CD-ROM.
+RNS16B.ZIP    755102 03-05-94 Recurrent Network Simulator v1.6b.  Includes C
+                              source code by R. Kooijman with make files for
+                              DOS (Turbo C & GCC), Linux, SunOS, and Solaris.
+                              Documentation in Post Script format.
+ROXANN24.ZIP   20548 10-15-91 Read-Only X11 ANN simulator v2.4 (Kohonen net)
+SAXON26.ZIP   480656 03-20-94 Working Demonstration verion of SAXON v2.6
+                              neural network package with lots of examples.
+SGA.ZIP        77121 01-23-90 Stimulas Geneartion & Association Release 2.0
+                              VMS Pascal
+SILOAM.ZIP    147528 03-08-90 Neural net for pattern recognition
+SNNSDOC.ZIP   957333 04-26-94 Extensive documentation for SNNS v3.2. Includes
+                              a chapter on basic neural net terminology. In
+                              Post Script format.
+SNNSV32.ZIP  1444081 04-25-94 Stuttgart Neural Network Simulator v3.2 with
+                              ANSI C source. Neural net simulator kernal and
+                              X11 based GUI. Tested on SunOS, Ultrix, AIX,
+                              Linux, HP-UX, and IRIX. Should compile on any
+                              Unix/X11 system. From University of Stuttgart.
+SPINNING.HQX  129214 12-03-94 Spinning Brain v1.10. Macintosh application that
+                              uses neural nets for picture reconstruction.
+                              Includes examples.
+SYNAPSE.HQX   328823 12-01-94 Synapse Examples version 1.0. A neural network
+                              simulator for the Macintosh by John A. Schlack
+SYNAPSYS.ZIP    8044 01-22-91 Fast backprop with layers represented by word
+                              arrays, C source
+TANN.ZIP      130765 03-15-90 Neural networking kit with examples
+TDNN.ZIP      219237 01-24-92 Time Delay Neural Net w/Fortran src UNIX TAR
+TOGAI.ZIP     139713 05-13-90 Togai Infralogic fuzzy/ann demos
+TOPMAP.ZIP      5775 08-23-87 Pascal ANN topology preserving mappings
+TTT_ANN.ZIP    63996 08-20-89 'C' for Tic-Tac-Toe Neural net
+UWSIM.ZIP     352282 07-29-92 UW version of the MIT Network Simulator UNIX TAR
+VISNN20.ZIP   366243 06-07-91 Visible Neural Net v2.0 with OCR app demo
+WARD1.ZIP     515383 04-14-93 Demo version of NeuroWindows from Ward Systems.
+                              Includes six sample programs. Requires Windows.
+WAVEDEMO.ZIP   72641 10-20-91 Fast wavelet transform from DDJ 04/92
+WNN093.ZIP    545895 05-18-94 WinNN, a shareware neural net program for
+                              DOS/Windows. Uses a feed-forward, multi-layered
+                              neural net and uses modified back-propagation.
+WNNSIM.ZIP   1218473 02-08-93 Windows neural net simulator based on work by
+                              Larry O'Brien. Includes C++ source code.
+WORLD.ZIP     432300 10-25-91 Software and documentation for a 1992 ANN/GA
+                              competition in which neural net guided vehicles
+                              travel through a world populated by mushrooms
+                              (food) and cacti (obstacles) and reproduce by
+                              way of genetic algorithms. The contest is over
+                              but the software is still very interesting.
+XERION31.ZIP 1273304 07-24-93 X-Windows based graphic neural net simulator
+                              developed by the University of Toronto. With
+                              C src and make files for SunOS, IRIX, ULTRIX,
+                              OSF/1, and HP-UX.  Freeware.  Includes docs
+                              and tutorial.  Does both conjugate and gradient
+                              training of back-prop, recurrent back-prop,
+                              Kohonnen, and Hard or soft competitive learning
+                              networks.
+ZAGROS.ZIP    250750 07-10-94 Two demos of Zagros neural network packages. One
+                              requires a sounds card and microphone to demo
+                              voice recognition. Includes NN tutorial. DOS
+------------------------------------------------------------------------------
+-- General information and tutorials -----------------------------------------
+------------------------------------------------------------------------------
+9305NNI.ZIP   199549 04-31-93 ANN Information resources/Wesley R. Elsberry
+ABSNNET.ZIP     5293 11-05-94 Description of an abstract neural net by Robert
+                              Fung. Includes C source code to compute node
+                              requirements based on number of input lines.
+ANN_400.ZIP   451153 07-26-93 "An Introduction to Neural Networks", PS format
+ANN_APP.ZIP     4603 00-31-92 List of applications in which ANNs are used
+ANNFAQ.ZIP     48029 11-08-94 Usenet comp.neural-nets FAQ
+ANNFTP.ZIP     21601 02-14-92 Listing of FTP sites archiving ANN files
+ANNGRADS.ZIP   10428 09-22-91 Listing of schools with ANN graduate programs
+ANNINTRO.ZIP  268844 06-15-91 Neural Graphics II. DOS executables and Turbo C
+                              source code that introduces different types of
+                              nets including back propagation, kohonen, and
+                              hopfield. Written by Gregory Tarr.
+BRAINCEL.ZIP    2540 11-03-94 Announcement by Promised Land Technologies of
+                              their Windows-based neural network tool.
+DEANNA.ZIP    385045 09-12-91 Neural Network Tutorial designed by J. G. Taylor
+                              of the Center for Neural Networks at King's
+                              College. Covers the history of ANNs and many
+                              types of networks. For DOS/VGA machines.
+DOS_ANN.ZIP     5031 10-07-91 Mott Given's list of DOS ANN simulators
+FREENET.ZIP    22176 10-24-93 Jim Huffman's DOS/Windows ANN demo. Tutorial and
+                              a simple neural net with 7 neurons that controls
+                              an auto heater.
+INNS_L.ZIP      1061 04-11-92 How to subscribe to a source of ANN info.
+ISSNNETS.ZIP   37776 07-17-91 ISSNNETS newsletters and info.
+MIND_TXT.ZIP   49027 10-27-90 MIND newsletter announcements
+MINDNOTE.ZIP   49636 03-02-91 MIND meeting notes
+NEURONET.ZIP   65015 07-16-90 ANN tutorial program for EGA/VGA
+NEURFUZZ.ZIP  183321 09-27-93 Jim Huffman's sample introduction to neural net
+                              and fuzzy logic technology. This is a sample of
+                              material available on video. Runs under Windows.
+NNPATENT.ZIP   18178 04-05-94 Listing of neural net related patents
+NNPRIME1.ZIP  115549 09-05-90 AI Experts Neural Net Primer Disk with text and
+                              source code by Maureen Caudill.  This is the
+                              original version.
+NNPRIME2.ZIP  124193 01-07-94 Newest revision of the Maureen Caudill/AI Expert
+                              Neural Net Primer material. Some differences in
+                              source and text since original version.
+NNSIMS.ZIP      5479 02-27-92 Listing of ANN simulators (free/commercial)
+------------------------------------------------------------------------------
+-- Brain Maker ANN utilities -------------------------------------------------
+------------------------------------------------------------------------------
+BRAINOCR.ZIP    2962 10-29-89 PCX file reader for Brain Maker allows the input
+                              of graphic data.
+BVE.ZIP        41969 09-19-90 Brain Maker variable evaluator utility
+DM.ZIP         62530 09-19-93 Automated batch data manipulation utility for
+                              Brain Maker. Version 2.0. Documentation is in
+                              Non-English ASCII format.
+------------------------------------------------------------------------------
+-- Financial applications of neural networks ---------------------------------
+------------------------------------------------------------------------------
+ENT.ZIP       378513 03-01-94 Demo version of the Enterprise Neural Trader.
+                              A DOS/VGA financial trading system based on
+                              neural networks.
+FUTURES.ZIP   315752 10-03-93 Neural futures trading demostration uses PNN and
+                              backprop networks to make forecasts. Runs under
+                              DOS/Windows and requires the VBRUN200.DLL.
+WITHIN30.ZIP  136220 06-10-92 Within v3.0, a DOS DJIA forecaster that uses a
+                              combination of neural networks and fuzzy logic
+                              for learning and recognition of market patterns.
+WIZDEM.ZIP    628666 02-26-94 Demo version of StockWiz v1.1, a stock market
+                              analysis and forecasting program that uses a
+                              backprop neural network. For DOS machines.
+------------------------------------------------------------------------------
+-- NASA/COSMIC NETS ----------------------------------------------------------
+------------------------------------------------------------------------------
+NETSV20.ZIP   168372 05-07-90 NASA JSC NETS V2.0 neural net simulator with
+                              DOS executables and C source code.
+NETSPLT1.ZIP   53974 09-27-91 DOS executables and C source to display a
+                              "cycle vs error" graph from the MAX errors and
+                              RMS errors dribble files that are output from
+                              NETS v2.0. Written by Bruce Colletti.
+NETS30A.ZIP    84247 01-26-92 NETS v3.0 DOS/Unix - DOS executables & ANSI C
+                              source DISK 1 of 3
+NETS30B.ZIP    72906 01-26-92 NETS v3.0 DOS/Unix - DOS executables & ANSI C
+                              source DISK 2 of 3
+NETS30C.ZIP   151250 01-26-92 NETS v3.0 DOS/Unix - DOS executables & ANSI C
+                              source DISK 3 of 3
+NETS30M.HQX   740697 12-02-94 NETS v3.0 MAC executables & Think C source
+                              DISKS 1, 2, & 3
+------------------------------------------------------------------------------
+-- Papers and Bibliographies -------------------------------------------------
+------------------------------------------------------------------------------
+AI199101.ZIP  135949 06-13-92 Paper: SALMON - learning connection program
+ANNART.ZIP      8339 06-17-89 Bibliography of ANN magazine articles
+ANNBIB.ZIP    453704 04-28-92 Extensive ANN bibliography file
+CHAOS_NN.ZIP   10528 05-07-91 Paper: Dave Gross, Chaos & ANNs
+CNC_01.ZIP     41820 11-30-94 Paper: "Backtracking Orthogonal Least Squares
+                              Algorithm for Model Selection" by E. S. Chng,
+                              B. Mulgrew, and S. Chen. Post Script format.
+DJC2.ZIP       37290 07-04-93 Paper: Why Fodor and Pylyshyn Were Wrong: The
+                              Simplest Refutation
+DJC6.ZIP      180161 07-04-93 Paper: Syntactic Transformations on Distributed
+                              Representations
+EF_001.ZIP     22195 11-05-94 Paper: AI and it's role in Planetary Exploration
+                              A discussion of neural nets and their uses in
+                              the space program by Eric Ford
+FRENCH1.ZIP    46799 07-04-93 Paper: Towards a Cognitive Connectionism
+FRENCH2.ZIP   232711 07-04-93 Paper: Overcoming Catastrophic Forgetting in
+                              Connectionist Networks
+HAMMER.ZIP       922 04-08-92 Abstract on paper about ANN surface hammering
+MECH_ENG.ZIP   94450 08-26-91 Paper: Stevenson, ME applications of ANNs
+NEUR_EVO.ZIP    6416 07-31-93 Bibliography covering the overlap of neural nets
+                              and GA algorithms
+NNET.ZIP        3732 04-10-90 NASA Tech Briefs concerning ANN
+PERCEPTR.ZIP   56526 07-29-92 Paper: Lyuu/Rivin, Generalization in Perceptrons
+S_GROSSB.ZIP    1700 02-06-91 Stephen Grossburg/ART bibliography
+SGR_01.ZIP     75377 11-30-94 Paper: "Theoretical Results for Applying Neural
+                              Networks to Lossless Image Compression" by
+                              Steve G. Romaniuk. Post Script format.
+SMG.ZIP        10395 07-09-90 Discussion of SMG inc.'s Corrlithm engines
+WCNNPUB.ZIP    91944 06-09-94 Paper:by William W. Armstrong on the use of
+                              Adaptive Logic Networks for the control of a
+                              vehicle active suspension system. Post Script.
+WRE_THES.ZIP  273537 10-07-91 Paper:W.Elsberry, Hybridization in NN modeling
+------------------------------------------------------------------------------
+-- Neural Digest -------------------------------------------------------------
+------------------------------------------------------------------------------
+ND_INDEX.ZIP   51804 04-22-92 Neural Digest Index Vol. 1 - 9
+ND_COR.ZIP     43874 04-22-92 Neural Digest Index of correspondents
+------------------------------------------------------------------------------
+ND01_01.ZIP     7191 04-21-92 Neural Digest Volume  1, Issue 01
+ND01_02.ZIP    12403 04-21-92 Neural Digest Volume  1, Issue 02
+ND01_03.ZIP     4417 04-21-92 Neural Digest Volume  1, Issue 03
+ND01_04.ZIP     9350 04-21-92 Neural Digest Volume  1, Issue 04
+NDV1NDX.ZIP     1022 04-22-92 Neural Digest Volume  1, INDEX
+------------------------------------------------------------------------------
+ND02_01.ZIP     6128 04-21-92 Neural Digest Volume  2, Issue 01
+ND02_02.ZIP     6735 04-21-92 Neural Digest Volume  2, Issue 02
+ND02_03.ZIP     6204 04-21-92 Neural Digest Volume  2, Issue 03
+ND02_04.ZIP     5851 04-21-92 Neural Digest Volume  2, Issue 04
+ND02_05.ZIP     4000 04-21-92 Neural Digest Volume  2, Issue 05
+ND02_06.ZIP    12667 04-21-92 Neural Digest Volume  2, Issue 06
+ND02_07.ZIP     6352 04-21-92 Neural Digest Volume  2, Issue 07
+ND02_08.ZIP     9744 04-21-92 Neural Digest Volume  2, Issue 08
+ND02_09.ZIP    10763 04-21-92 Neural Digest Volume  2, Issue 09
+ND02_10.ZIP     7883 04-21-92 Neural Digest Volume  2, Issue 10
+ND02_11.ZIP      582 04-21-92 Neural Digest Volume  2, Issue 11
+ND02_12.ZIP    10129 04-21-92 Neural Digest Volume  2, Issue 12
+ND02_13.ZIP    11690 04-21-92 Neural Digest Volume  2, Issue 13
+ND02_14.ZIP     6666 04-21-92 Neural Digest Volume  2, Issue 14
+ND02_15.ZIP    13218 04-21-92 Neural Digest Volume  2, Issue 15
+ND02_16.ZIP     7261 04-21-92 Neural Digest Volume  2, Issue 16
+ND02_17.ZIP    11996 04-21-92 Neural Digest Volume  2, Issue 17
+ND02_18.ZIP     8622 04-21-92 Neural Digest Volume  2, Issue 18
+ND02_19.ZIP     7620 04-21-92 Neural Digest Volume  2, Issue 19
+ND02_20.ZIP     3575 04-21-92 Neural Digest Volume  2, Issue 20
+ND02_21.ZIP     7443 04-21-92 Neural Digest Volume  2, Issue 21
+ND02_22.ZIP     5715 04-21-92 Neural Digest Volume  2, Issue 22
+ND02_23.ZIP     4784 04-21-92 Neural Digest Volume  2, Issue 23
+ND02_24.ZIP     6690 04-21-92 Neural Digest Volume  2, Issue 24
+ND02_25.ZIP     9013 04-21-92 Neural Digest Volume  2, Issue 25
+ND02_26.ZIP     5865 04-21-92 Neural Digest Volume  2, Issue 26
+ND02_27.ZIP     9175 04-21-92 Neural Digest Volume  2, Issue 27
+ND02_28.ZIP    15072 04-21-92 Neural Digest Volume  2, Issue 28
+NDV2NDX.ZIP     4338 04-22-92 Neural Digest Volume  2, INDEX
+------------------------------------------------------------------------------
+ND03_01.ZIP    10457 04-21-92 Neural Digest Volume  3, Issue 01
+ND03_02.ZIP    16420 04-21-92 Neural Digest Volume  3, Issue 02
+ND03_03.ZIP     8675 04-21-92 Neural Digest Volume  3, Issue 03
+ND03_04.ZIP     4103 04-21-92 Neural Digest Volume  3, Issue 04
+ND03_05.ZIP     9554 04-21-92 Neural Digest Volume  3, Issue 05
+ND03_06.ZIP     5924 04-21-92 Neural Digest Volume  3, Issue 06
+ND03_07.ZIP     8606 04-21-92 Neural Digest Volume  3, Issue 07
+ND03_08.ZIP     6742 04-21-92 Neural Digest Volume  3, Issue 08
+ND03_09.ZIP     8572 04-21-92 Neural Digest Volume  3, Issue 09
+ND03_10.ZIP    11141 04-21-92 Neural Digest Volume  3, Issue 10
+ND03_11.ZIP     1749 04-21-92 Neural Digest Volume  3, Issue 11
+ND03_12.ZIP     7874 04-21-92 Neural Digest Volume  3, Issue 12
+ND03_13.ZIP     5556 04-21-92 Neural Digest Volume  3, Issue 13
+NDV3NDX.ZIP     2355 04-22-92 Neural Digest Volume  3, INDEX
+------------------------------------------------------------------------------
+ND04_01.ZIP     6390 04-21-92 Neural Digest Volume  4, Issue 01
+ND04_02.ZIP     6153 04-21-92 Neural Digest Volume  4, Issue 02
+ND04_03.ZIP     8545 04-21-92 Neural Digest Volume  4, Issue 03
+ND04_04.ZIP     6022 04-21-92 Neural Digest Volume  4, Issue 04
+ND04_05.ZIP     9688 04-21-92 Neural Digest Volume  4, Issue 05
+ND04_06.ZIP     4667 04-21-92 Neural Digest Volume  4, Issue 06
+ND04_07.ZIP     7744 04-21-92 Neural Digest Volume  4, Issue 07
+ND04_08.ZIP     6687 04-21-92 Neural Digest Volume  4, Issue 08
+ND04_09.ZIP     7148 04-21-92 Neural Digest Volume  4, Issue 09
+ND04_10.ZIP     7272 04-21-92 Neural Digest Volume  4, Issue 10
+ND04_11.ZIP     9105 04-21-92 Neural Digest Volume  4, Issue 11
+ND04_12.ZIP     5759 04-21-92 Neural Digest Volume  4, Issue 12
+ND04_13.ZIP     5813 04-21-92 Neural Digest Volume  4, Issue 13
+ND04_14.ZIP     5235 04-21-92 Neural Digest Volume  4, Issue 14
+ND04_15.ZIP     7844 04-21-92 Neural Digest Volume  4, Issue 15
+ND04_16.ZIP     5493 04-21-92 Neural Digest Volume  4, Issue 16
+ND04_17.ZIP    10512 04-21-92 Neural Digest Volume  4, Issue 17
+ND04_18.ZIP     8074 04-21-92 Neural Digest Volume  4, Issue 18
+ND04_19.ZIP    10432 04-21-92 Neural Digest Volume  4, Issue 19
+ND04_20.ZIP     8974 04-21-92 Neural Digest Volume  4, Issue 20
+ND04_21.ZIP     9105 04-21-92 Neural Digest Volume  4, Issue 21
+ND04_22.ZIP     8799 04-21-92 Neural Digest Volume  4, Issue 22
+ND04_23.ZIP     9784 04-21-92 Neural Digest Volume  4, Issue 23
+ND04_24.ZIP     8281 04-21-92 Neural Digest Volume  4, Issue 24
+ND04_25.ZIP     8754 04-21-92 Neural Digest Volume  4, Issue 25
+ND04_26.ZIP     6286 04-21-92 Neural Digest Volume  4, Issue 26
+ND04_27.ZIP     8252 04-21-92 Neural Digest Volume  4, Issue 27
+ND04_28.ZIP     8286 04-21-92 Neural Digest Volume  4, Issue 28
+ND04_29.ZIP     7568 04-21-92 Neural Digest Volume  4, Issue 29
+ND04_30.ZIP     6630 04-21-92 Neural Digest Volume  4, Issue 30
+ND04_31.ZIP     8110 04-21-92 Neural Digest Volume  4, Issue 31
+ND04_32.ZIP     9401 04-21-92 Neural Digest Volume  4, Issue 32
+ND04_33.ZIP     8928 04-21-92 Neural Digest Volume  4, Issue 33
+ND04_34.ZIP     8962 04-21-92 Neural Digest Volume  4, Issue 34
+NDV4NDX.ZIP     5323 04-22-92 Neural Digest Volume  4, INDEX
+------------------------------------------------------------------------------
+ND05_01.ZIP     8741 04-21-92 Neural Digest Volume  5, Issue 01
+ND05_02.ZIP     8577 04-21-92 Neural Digest Volume  5, Issue 02
+ND05_03.ZIP     7831 04-21-92 Neural Digest Volume  5, Issue 03
+ND05_04.ZIP     7909 04-21-92 Neural Digest Volume  5, Issue 04
+ND05_05.ZIP    10155 04-21-92 Neural Digest Volume  5, Issue 05
+ND05_06.ZIP     8537 04-21-92 Neural Digest Volume  5, Issue 06
+ND05_07.ZIP    10553 04-21-92 Neural Digest Volume  5, Issue 07
+ND05_08.ZIP     7452 04-21-92 Neural Digest Volume  5, Issue 08
+ND05_09.ZIP     6966 04-21-92 Neural Digest Volume  5, Issue 09
+ND05_10.ZIP    13681 04-21-92 Neural Digest Volume  5, Issue 10
+ND05_11.ZIP    10034 04-21-92 Neural Digest Volume  5, Issue 11
+ND05_12.ZIP    13252 04-21-92 Neural Digest Volume  5, Issue 12
+ND05_13.ZIP    14114 04-21-92 Neural Digest Volume  5, Issue 13
+ND05_14.ZIP    15866 04-21-92 Neural Digest Volume  5, Issue 14
+ND05_15.ZIP    13663 04-21-92 Neural Digest Volume  5, Issue 15
+ND05_16.ZIP    17830 04-21-92 Neural Digest Volume  5, Issue 16
+ND05_17.ZIP    15923 04-21-92 Neural Digest Volume  5, Issue 17
+ND05_18.ZIP    13880 04-21-92 Neural Digest Volume  5, Issue 18
+ND05_19.ZIP    13076 04-21-92 Neural Digest Volume  5, Issue 19
+ND05_20.ZIP    11791 04-21-92 Neural Digest Volume  5, Issue 20
+ND05_21.ZIP    11875 04-21-92 Neural Digest Volume  5, Issue 21
+ND05_22.ZIP    11423 04-21-92 Neural Digest Volume  5, Issue 22
+ND05_23.ZIP     9996 04-21-92 Neural Digest Volume  5, Issue 23
+ND05_24.ZIP    12987 04-21-92 Neural Digest Volume  5, Issue 24
+ND05_25.ZIP    14706 04-21-92 Neural Digest Volume  5, Issue 25
+ND05_26.ZIP    12657 04-21-92 Neural Digest Volume  5, Issue 26
+ND05_27.ZIP    12374 04-21-92 Neural Digest Volume  5, Issue 27
+ND05_28.ZIP    15125 04-21-92 Neural Digest Volume  5, Issue 28
+ND05_29.ZIP    14907 04-21-92 Neural Digest Volume  5, Issue 29
+ND05_30.ZIP    10365 04-21-92 Neural Digest Volume  5, Issue 30
+ND05_31.ZIP    12463 04-21-92 Neural Digest Volume  5, Issue 31
+ND05_32.ZIP    11271 04-21-92 Neural Digest Volume  5, Issue 32
+ND05_33.ZIP    11180 04-21-92 Neural Digest Volume  5, Issue 33
+ND05_34.ZIP    11696 04-21-92 Neural Digest Volume  5, Issue 34
+ND05_35.ZIP    13626 04-21-92 Neural Digest Volume  5, Issue 35
+ND05_36.ZIP    12078 04-21-92 Neural Digest Volume  5, Issue 36
+ND05_37.ZIP    12695 04-21-92 Neural Digest Volume  5, Issue 37
+ND05_38.ZIP    10547 04-21-92 Neural Digest Volume  5, Issue 38
+ND05_39.ZIP    11083 04-21-92 Neural Digest Volume  5, Issue 39
+ND05_40.ZIP    10827 04-21-92 Neural Digest Volume  5, Issue 40
+ND05_41.ZIP    13719 04-21-92 Neural Digest Volume  5, Issue 41
+ND05_42.ZIP    11061 04-21-92 Neural Digest Volume  5, Issue 42
+ND05_43.ZIP    12560 04-21-92 Neural Digest Volume  5, Issue 43
+ND05_44.ZIP    11487 04-21-92 Neural Digest Volume  5, Issue 44
+ND05_45.ZIP    10972 04-21-92 Neural Digest Volume  5, Issue 45
+ND05_46.ZIP    14046 04-21-92 Neural Digest Volume  5, Issue 46
+ND05_47.ZIP    15545 04-21-92 Neural Digest Volume  5, Issue 47
+ND05_48.ZIP     9932 04-21-92 Neural Digest Volume  5, Issue 48
+ND05_49.ZIP    15490 04-21-92 Neural Digest Volume  5, Issue 49
+ND05_50.ZIP    11734 04-21-92 Neural Digest Volume  5, Issue 50
+ND05_51.ZIP    12039 04-21-92 Neural Digest Volume  5, Issue 51
+ND05_52.ZIP    11723 04-21-92 Neural Digest Volume  5, Issue 52
+ND05_53.ZIP    10049 04-21-92 Neural Digest Volume  5, Issue 53
+ND05_54.ZIP    19995 04-21-92 Neural Digest Volume  5, Issue 54
+ND05_55.ZIP    12738 04-21-92 Neural Digest Volume  5, Issue 55
+NDV5NDX.ZIP    10309 04-22-92 Neural Digest Volume  5, INDEX
+------------------------------------------------------------------------------
+ND06_01.ZIP     7978 04-21-92 Neural Digest Volume  6, Issue 01
+ND06_02.ZIP    11366 04-21-92 Neural Digest Volume  6, Issue 02
+ND06_03.ZIP    16413 04-21-92 Neural Digest Volume  6, Issue 03
+ND06_04.ZIP    12968 04-21-92 Neural Digest Volume  6, Issue 04
+ND06_05.ZIP    12495 04-21-92 Neural Digest Volume  6, Issue 05
+ND06_06.ZIP    12827 04-21-92 Neural Digest Volume  6, Issue 06
+ND06_07.ZIP    14803 04-21-92 Neural Digest Volume  6, Issue 07
+ND06_08.ZIP     9006 04-21-92 Neural Digest Volume  6, Issue 08
+ND06_09.ZIP    12005 04-21-92 Neural Digest Volume  6, Issue 09
+ND06_10.ZIP    13868 04-21-92 Neural Digest Volume  6, Issue 10
+ND06_11.ZIP    13149 04-21-92 Neural Digest Volume  6, Issue 11
+ND06_12.ZIP    13254 04-21-92 Neural Digest Volume  6, Issue 12
+ND06_13.ZIP    11560 04-21-92 Neural Digest Volume  6, Issue 13
+ND06_14.ZIP    10878 04-21-92 Neural Digest Volume  6, Issue 14
+ND06_15.ZIP    12685 04-21-92 Neural Digest Volume  6, Issue 15
+ND06_16.ZIP    12178 04-21-92 Neural Digest Volume  6, Issue 16
+ND06_17.ZIP    11490 04-21-92 Neural Digest Volume  6, Issue 17
+ND06_18.ZIP    11951 04-21-92 Neural Digest Volume  6, Issue 18
+ND06_19.ZIP    11187 04-21-92 Neural Digest Volume  6, Issue 19
+ND06_20.ZIP    14460 04-21-92 Neural Digest Volume  6, Issue 20
+ND06_21.ZIP    11931 04-21-92 Neural Digest Volume  6, Issue 21
+ND06_22.ZIP    14927 04-21-92 Neural Digest Volume  6, Issue 22
+ND06_23.ZIP    15445 04-21-92 Neural Digest Volume  6, Issue 23
+ND06_24.ZIP    14274 04-21-92 Neural Digest Volume  6, Issue 24
+ND06_25.ZIP     9899 04-21-92 Neural Digest Volume  6, Issue 25
+ND06_26.ZIP    13335 04-21-92 Neural Digest Volume  6, Issue 26
+ND06_27.ZIP    10947 04-21-92 Neural Digest Volume  6, Issue 27
+ND06_28.ZIP    12956 04-21-92 Neural Digest Volume  6, Issue 28
+ND06_29.ZIP    12681 04-21-92 Neural Digest Volume  6, Issue 29
+ND06_30.ZIP    14671 04-21-92 Neural Digest Volume  6, Issue 30
+ND06_31.ZIP    13611 04-21-92 Neural Digest Volume  6, Issue 31
+ND06_32.ZIP    14187 04-21-92 Neural Digest Volume  6, Issue 32
+ND06_33.ZIP    11558 04-21-92 Neural Digest Volume  6, Issue 33
+ND06_34.ZIP    12657 04-21-92 Neural Digest Volume  6, Issue 34
+ND06_35.ZIP    13894 04-21-92 Neural Digest Volume  6, Issue 35
+ND06_36.ZIP    13203 04-21-92 Neural Digest Volume  6, Issue 36
+ND06_37.ZIP    11501 04-21-92 Neural Digest Volume  6, Issue 37
+ND06_38.ZIP    13382 04-21-92 Neural Digest Volume  6, Issue 38
+ND06_39.ZIP    10646 04-21-92 Neural Digest Volume  6, Issue 39
+ND06_40.ZIP    12388 04-21-92 Neural Digest Volume  6, Issue 40
+ND06_41.ZIP    13815 04-21-92 Neural Digest Volume  6, Issue 41
+ND06_42.ZIP    13362 04-21-92 Neural Digest Volume  6, Issue 42
+ND06_43.ZIP    11549 04-21-92 Neural Digest Volume  6, Issue 43
+ND06_44.ZIP    14886 04-21-92 Neural Digest Volume  6, Issue 44
+ND06_45.ZIP    14756 04-21-92 Neural Digest Volume  6, Issue 45
+ND06_46.ZIP    13918 04-21-92 Neural Digest Volume  6, Issue 46
+ND06_47.ZIP    11191 04-21-92 Neural Digest Volume  6, Issue 47
+ND06_48.ZIP    14748 04-21-92 Neural Digest Volume  6, Issue 48
+ND06_49.ZIP    14012 04-21-92 Neural Digest Volume  6, Issue 49
+ND06_50.ZIP    11960 04-21-92 Neural Digest Volume  6, Issue 50
+ND06_51.ZIP    13739 04-21-92 Neural Digest Volume  6, Issue 51
+ND06_52.ZIP    14932 04-21-92 Neural Digest Volume  6, Issue 52
+ND06_53.ZIP    14910 04-21-92 Neural Digest Volume  6, Issue 53
+ND06_54.ZIP    14288 04-21-92 Neural Digest Volume  6, Issue 54
+ND06_55.ZIP    15633 04-21-92 Neural Digest Volume  6, Issue 55
+ND06_56.ZIP    15358 04-21-92 Neural Digest Volume  6, Issue 56
+ND06_57.ZIP     6622 04-21-92 Neural Digest Volume  6, Issue 57
+ND06_58.ZIP    13528 04-21-92 Neural Digest Volume  6, Issue 58
+ND06_59.ZIP    12268 04-21-92 Neural Digest Volume  6, Issue 59
+ND06_60.ZIP     9225 04-21-92 Neural Digest Volume  6, Issue 60
+ND06_61.ZIP    14259 04-21-92 Neural Digest Volume  6, Issue 61
+ND06_62.ZIP    13703 04-21-92 Neural Digest Volume  6, Issue 62
+ND06_63.ZIP    14112 04-21-92 Neural Digest Volume  6, Issue 63
+ND06_64.ZIP    12694 04-21-92 Neural Digest Volume  6, Issue 64
+ND06_65.ZIP    12693 04-21-92 Neural Digest Volume  6, Issue 65
+ND06_66.ZIP    10776 04-21-92 Neural Digest Volume  6, Issue 66
+ND06_67.ZIP    11167 04-21-92 Neural Digest Volume  6, Issue 67
+ND06_68.ZIP    11175 04-21-92 Neural Digest Volume  6, Issue 68
+ND06_69.ZIP    12044 04-21-92 Neural Digest Volume  6, Issue 69
+ND06_70.ZIP    12319 04-21-92 Neural Digest Volume  6, Issue 70
+ND06_71.ZIP    13448 04-21-92 Neural Digest Volume  6, Issue 71
+ND06_72.ZIP    13793 04-21-92 Neural Digest Volume  6, Issue 72
+ND06_73.ZIP    13253 04-21-92 Neural Digest Volume  6, Issue 73
+NDV6NDX.ZIP    13077 04-22-92 Neural Digest Volume  6, INDEX
+------------------------------------------------------------------------------
+ND07_01.ZIP    13926 04-21-92 Neural Digest Volume  7, Issue 01
+ND07_02.ZIP    10924 04-21-92 Neural Digest Volume  7, Issue 02
+ND07_03.ZIP    10180 04-21-92 Neural Digest Volume  7, Issue 03
+ND07_04.ZIP    10023 04-21-92 Neural Digest Volume  7, Issue 04
+ND07_05.ZIP    12716 04-21-92 Neural Digest Volume  7, Issue 05
+ND07_06.ZIP    15088 04-21-92 Neural Digest Volume  7, Issue 06
+ND07_07.ZIP    12165 04-21-92 Neural Digest Volume  7, Issue 07
+ND07_08.ZIP    11916 04-21-92 Neural Digest Volume  7, Issue 08
+ND07_09.ZIP     9609 04-21-92 Neural Digest Volume  7, Issue 09
+ND07_10.ZIP    12570 04-21-92 Neural Digest Volume  7, Issue 10
+ND07_11.ZIP    13247 04-21-92 Neural Digest Volume  7, Issue 11
+ND07_12.ZIP    11925 04-21-92 Neural Digest Volume  7, Issue 12
+ND07_13.ZIP     9088 04-21-92 Neural Digest Volume  7, Issue 13
+ND07_14.ZIP     9986 04-21-92 Neural Digest Volume  7, Issue 14
+ND07_15.ZIP    13354 04-21-92 Neural Digest Volume  7, Issue 15
+ND07_16.ZIP    12106 04-21-92 Neural Digest Volume  7, Issue 16
+ND07_17.ZIP     6549 04-21-92 Neural Digest Volume  7, Issue 17
+ND07_18.ZIP     9761 04-21-92 Neural Digest Volume  7, Issue 18
+ND07_19.ZIP     7544 04-21-92 Neural Digest Volume  7, Issue 19
+ND07_20.ZIP    11839 04-21-92 Neural Digest Volume  7, Issue 20
+ND07_21.ZIP    11132 04-21-92 Neural Digest Volume  7, Issue 21
+ND07_22.ZIP     6541 04-21-92 Neural Digest Volume  7, Issue 22
+ND07_23.ZIP    10311 04-21-92 Neural Digest Volume  7, Issue 23
+ND07_24.ZIP     8822 04-21-92 Neural Digest Volume  7, Issue 24
+ND07_25.ZIP     8252 04-21-92 Neural Digest Volume  7, Issue 25
+ND07_26.ZIP    12959 04-21-92 Neural Digest Volume  7, Issue 26
+ND07_27.ZIP    10829 04-21-92 Neural Digest Volume  7, Issue 27
+ND07_28.ZIP     8194 04-21-92 Neural Digest Volume  7, Issue 28
+ND07_29.ZIP    10760 04-21-92 Neural Digest Volume  7, Issue 29
+ND07_30.ZIP    16173 04-21-92 Neural Digest Volume  7, Issue 30
+ND07_31.ZIP     9219 04-21-92 Neural Digest Volume  7, Issue 31
+ND07_32.ZIP     9490 04-21-92 Neural Digest Volume  7, Issue 32
+ND07_33.ZIP    11965 04-21-92 Neural Digest Volume  7, Issue 33
+ND07_34.ZIP    12247 04-21-92 Neural Digest Volume  7, Issue 34
+ND07_35.ZIP     5091 04-21-92 Neural Digest Volume  7, Issue 35
+ND07_36.ZIP     6437 04-21-92 Neural Digest Volume  7, Issue 36
+ND07_37.ZIP     9780 04-21-92 Neural Digest Volume  7, Issue 37
+ND07_38.ZIP    10160 04-21-92 Neural Digest Volume  7, Issue 38
+ND07_39.ZIP    11037 04-21-92 Neural Digest Volume  7, Issue 39
+ND07_40.ZIP     7083 04-21-92 Neural Digest Volume  7, Issue 40
+ND07_41.ZIP     9789 04-21-92 Neural Digest Volume  7, Issue 41
+ND07_42.ZIP    10271 04-21-92 Neural Digest Volume  7, Issue 42
+ND07_43.ZIP     8104 04-21-92 Neural Digest Volume  7, Issue 43
+ND07_44.ZIP     9753 04-21-92 Neural Digest Volume  7, Issue 44
+ND07_45.ZIP     6356 04-21-92 Neural Digest Volume  7, Issue 45
+NDV7NDX.ZIP     8122 04-22-92 Neural Digest Volume  7, INDEX
+------------------------------------------------------------------------------
+ND08_01.ZIP    10091 04-21-92 Neural Digest Volume  8, Issue 01
+ND08_02.ZIP     8566 04-21-92 Neural Digest Volume  8, Issue 02
+ND08_03.ZIP     8058 04-21-92 Neural Digest Volume  8, Issue 03
+ND08_04.ZIP    11172 04-21-92 Neural Digest Volume  8, Issue 04
+ND08_05.ZIP     8399 04-21-92 Neural Digest Volume  8, Issue 05
+ND08_06.ZIP     8486 04-21-92 Neural Digest Volume  8, Issue 06
+ND08_07.ZIP    11459 04-21-92 Neural Digest Volume  8, Issue 07
+ND08_08.ZIP    11450 04-21-92 Neural Digest Volume  8, Issue 08
+ND08_09.ZIP    10390 04-21-92 Neural Digest Volume  8, Issue 09
+ND08_10.ZIP    11098 04-21-92 Neural Digest Volume  8, Issue 10
+ND08_11.ZIP     7735 04-21-92 Neural Digest Volume  8, Issue 11
+ND08_12.ZIP    13848 04-21-92 Neural Digest Volume  8, Issue 12
+ND08_13.ZIP    12973 04-21-92 Neural Digest Volume  8, Issue 13
+ND08_14.ZIP    12204 04-21-92 Neural Digest Volume  8, Issue 14
+ND08_15.ZIP     6899 04-21-92 Neural Digest Volume  8, Issue 15
+ND08_16.ZIP    12499 04-21-92 Neural Digest Volume  8, Issue 16
+NDV8NDX.ZIP     3389 04-22-92 Neural Digest Volume  8, INDEX
+------------------------------------------------------------------------------
+ND09_01.ZIP     8152 04-21-92 Neural Digest Volume  9, Issue 01
+ND09_02.ZIP    10628 04-21-92 Neural Digest Volume  9, Issue 02
+ND09_03.ZIP     9431 04-21-92 Neural Digest Volume  9, Issue 03
+ND09_04.ZIP     9818 04-21-92 Neural Digest Volume  9, Issue 04
+ND09_05.ZIP    11495 04-21-92 Neural Digest Volume  9, Issue 05
+ND09_06.ZIP    12123 04-21-92 Neural Digest Volume  9, Issue 06
+ND09_07.ZIP    12167 04-21-92 Neural Digest Volume  9, Issue 07
+ND09_08.ZIP     9473 04-21-92 Neural Digest Volume  9, Issue 08
+ND09_09.ZIP    10591 04-21-92 Neural Digest Volume  9, Issue 09
+ND09_10.ZIP     9758 04-21-92 Neural Digest Volume  9, Issue 10
+ND09_11.ZIP    14094 04-21-92 Neural Digest Volume  9, Issue 11
+ND09_12.ZIP    11369 04-21-92 Neural Digest Volume  9, Issue 12
+ND09_13.ZIP    10273 04-21-92 Neural Digest Volume  9, Issue 13
+ND09_14.ZIP    11015 04-21-92 Neural Digest Volume  9, Issue 14
+ND09_15.ZIP     9225 04-21-92 Neural Digest Volume  9, Issue 15
+ND09_16.ZIP    16905 04-21-92 Neural Digest Volume  9, Issue 16
+ND09_17.ZIP     7830 04-21-92 Neural Digest Volume  9, Issue 17
+ND09_18.ZIP    12530 04-21-92 Neural Digest Volume  9, Issue 18
+ND09_19.ZIP     5808 04-21-92 Neural Digest Volume  9, Issue 19
+ND09_20.ZIP     9124 06-16-92 Neural Digest Volume  9, Issue 20
+ND09_21.ZIP    10186 06-16-92 Neural Digest Volume  9, Issue 21
+ND09_22.ZIP     4241 06-16-92 Neural Digest Volume  9, Issue 22
+ND09_23.ZIP    10260 05-01-92 Neural Digest Volume  9, Issue 23
+ND09_24.ZIP    12876 06-16-92 Neural Digest Volume  9, Issue 24
+ND09_25.ZIP    12279 06-16-92 Neural Digest Volume  9, Issue 25
+ND09_26.ZIP    12762 06-16-92 Neural Digest Volume  9, Issue 26
+ND09_27.ZIP     9764 06-16-92 Neural Digest Volume  9, Issue 27
+ND09_28.ZIP     8130 06-16-92 Neural Digest Volume  9, Issue 28
+ND09_29.ZIP     9586 06-16-92 Neural Digest Volume  9, Issue 29
+ND09_30.ZIP    10602 06-16-92 Neural Digest Volume  9, Issue 30
+ND09_31.ZIP    11768 06-16-92 Neural Digest Volume  9, Issue 31
+ND09_32.ZIP    10244 06-16-92 Neural Digest Volume  9, Issue 32
+ND09_33.ZIP    13529 06-16-92 Neural Digest Volume  9, Issue 33
+ND09_34.ZIP    10136 06-16-92 Neural Digest Volume  9, Issue 34
+ND09_35.ZIP    10755 06-16-92 Neural Digest Volume  9, Issue 35
+ND09_36.ZIP    12537 06-16-92 Neural Digest Volume  9, Issue 36
+ND09_37.ZIP     9650 07-17-93 Neural Digest Volume  9, Issue 37
+ND09_38.ZIP     8469 07-17-93 Neural Digest Volume  9, Issue 38
+ND09_39.ZIP     9437 07-17-93 Neural Digest Volume  9, Issue 39
+ND09_40.ZIP     8790 07-17-93 Neural Digest Volume  9, Issue 40
+ND09_41.ZIP     9069 07-17-93 Neural Digest Volume  9, Issue 41
+ND09_42.ZIP     9127 07-17-93 Neural Digest Volume  9, Issue 42
+ND09_43.ZIP     7357 07-17-93 Neural Digest Volume  9, Issue 43
+NDV9NDX.ZIP     4045 04-22-92 Neural Digest Volume  9, INDEX
+------------------------------------------------------------------------------
+ND10_01.ZIP     9006 07-17-93 Neural Digest Volume 10, Issue 01
+ND10_02.ZIP    11857 07-17-93 Neural Digest Volume 10, Issue 02
+ND10_03.ZIP     8893 07-17-93 Neural Digest Volume 10, Issue 03
+ND10_04.ZIP     9090 07-17-93 Neural Digest Volume 10, Issue 04
+ND10_05.ZIP    10690 07-17-93 Neural Digest Volume 10, Issue 05
+ND10_06.ZIP    10107 07-17-93 Neural Digest Volume 10, Issue 06
+ND10_07.ZIP    10451 07-17-93 Neural Digest Volume 10, Issue 07
+ND10_08.ZIP     7403 07-17-93 Neural Digest Volume 10, Issue 08
+ND10_09.ZIP    13240 07-17-93 Neural Digest Volume 10, Issue 09
+ND10_10.ZIP    11026 07-17-93 Neural Digest Volume 10, Issue 10
+ND10_11.ZIP     9381 07-17-93 Neural Digest Volume 10, Issue 11
+ND10_12.ZIP    12679 07-17-93 Neural Digest Volume 10, Issue 12
+ND10_13.ZIP    14535 07-17-93 Neural Digest Volume 10, Issue 13
+ND10_14.ZIP    11906 07-17-93 Neural Digest Volume 10, Issue 14
+ND10_15.ZIP     8182 07-17-93 Neural Digest Volume 10, Issue 15
+ND10_16.ZIP     9933 07-17-93 Neural Digest Volume 10, Issue 16
+ND10_17.ZIP     8869 07-17-93 Neural Digest Volume 10, Issue 17
+ND10_18.ZIP    13340 07-17-93 Neural Digest Volume 10, Issue 18
+ND10_19.ZIP    11053 07-17-93 Neural Digest Volume 10, Issue 19
+ND10_20.ZIP    11048 07-17-93 Neural Digest Volume 10, Issue 20
+ND10_21.ZIP    11291 07-17-93 Neural Digest Volume 10, Issue 21
+ND10_22.ZIP    11962 07-17-93 Neural Digest Volume 10, Issue 22
+ND10_23.ZIP    11033 07-17-93 Neural Digest Volume 10, Issue 23
+ND10_24.ZIP     8572 07-17-93 Neural Digest Volume 10, Issue 24
+ND10_25.ZIP    12494 07-17-93 Neural Digest Volume 10, Issue 25
+NDV10NDX.ZIP    3414 12-03-94 Neural Digest Volume 10, INDEX
+------------------------------------------------------------------------------
+ND11_01.ZIP    13771 07-17-93 Neural Digest Volume 11, Issue 01
+ND11_02.ZIP    10003 07-17-93 Neural Digest Volume 11, Issue 02
+ND11_03.ZIP    10570 07-17-93 Neural Digest Volume 11, Issue 03
+ND11_04.ZIP    12314 07-17-93 Neural Digest Volume 11, Issue 04
+ND11_05.ZIP    13608 07-17-93 Neural Digest Volume 11, Issue 05
+ND11_06.ZIP    10081 07-17-93 Neural Digest Volume 11, Issue 06
+ND11_07.ZIP    10758 07-17-93 Neural Digest Volume 11, Issue 07
+ND11_08.ZIP     8979 07-17-93 Neural Digest Volume 11, Issue 08
+ND11_09.ZIP     8316 07-17-93 Neural Digest Volume 11, Issue 09
+ND11_10.ZIP    10227 07-17-93 Neural Digest Volume 11, Issue 10
+ND11_11.ZIP     9156 07-17-93 Neural Digest Volume 11, Issue 11
+ND11_12.ZIP    10126 07-17-93 Neural Digest Volume 11, Issue 12
+ND11_13.ZIP    11799 07-17-93 Neural Digest Volume 11, Issue 13
+ND11_14.ZIP    10740 07-17-93 Neural Digest Volume 11, Issue 14
+ND11_15.ZIP    10631 07-17-93 Neural Digest Volume 11, Issue 15
+ND11_16.ZIP    10436 07-17-93 Neural Digest Volume 11, Issue 16
+ND11_17.ZIP    11476 07-17-93 Neural Digest Volume 11, Issue 17
+ND11_18.ZIP    14835 07-17-93 Neural Digest Volume 11, Issue 18
+ND11_19.ZIP    12313 07-17-93 Neural Digest Volume 11, Issue 19
+ND11_20.ZIP     8408 07-17-93 Neural Digest Volume 11, Issue 20
+ND11_21.ZIP    11158 07-17-93 Neural Digest Volume 11, Issue 21
+ND11_22.ZIP     9259 07-17-93 Neural Digest Volume 11, Issue 22
+ND11_23.ZIP    12030 07-17-93 Neural Digest Volume 11, Issue 23
+ND11_24.ZIP     9382 07-17-93 Neural Digest Volume 11, Issue 24
+ND11_25.ZIP    10915 07-17-93 Neural Digest Volume 11, Issue 25
+ND11_26.ZIP    10695 07-17-93 Neural Digest Volume 11, Issue 26
+ND11_27.ZIP     9790 07-17-93 Neural Digest Volume 11, Issue 27
+ND11_28.ZIP    11120 07-17-93 Neural Digest Volume 11, Issue 28
+ND11_29.ZIP    11445 07-17-93 Neural Digest Volume 11, Issue 29
+ND11_30.ZIP    10506 07-17-93 Neural Digest Volume 11, Issue 30
+ND11_31.ZIP     9981 07-17-93 Neural Digest Volume 11, Issue 31
+ND11_32.ZIP    10184 07-17-93 Neural Digest Volume 11, Issue 32
+ND11_33.ZIP    10035 07-17-93 Neural Digest Volume 11, Issue 33
+ND11_34.ZIP    11302 07-17-93 Neural Digest Volume 11, Issue 34
+ND11_35.ZIP    11221 07-17-93 Neural Digest Volume 11, Issue 35
+ND11_36.ZIP    12934 07-17-93 Neural Digest Volume 11, Issue 36
+ND11_37.ZIP    12559 07-17-93 Neural Digest Volume 11, Issue 37
+ND11_38.ZIP    10944 07-17-93 Neural Digest Volume 11, Issue 38
+ND11_39.ZIP    14163 07-17-93 Neural Digest Volume 11, Issue 39
+ND11_40.ZIP     8751 12-03-94 Neural Digest Volume 11, Issue 40
+ND11_41.ZIP     7800 12-03-94 Neural Digest Volume 11, Issue 41
+ND11_42.ZIP    10893 12-03-94 Neural Digest Volume 11, Issue 42
+ND11_43.ZIP     9556 12-03-94 Neural Digest Volume 11, Issue 43
+ND11_44.ZIP    10744 12-03-94 Neural Digest Volume 11, Issue 44
+ND11_45.ZIP    12631 12-03-94 Neural Digest Volume 11, Issue 45
+ND11_46.ZIP     7317 12-03-94 Neural Digest Volume 11, Issue 46
+ND11_47.ZIP    10338 12-03-94 Neural Digest Volume 11, Issue 47
+ND11_48.ZIP    11424 12-03-94 Neural Digest Volume 11, Issue 48
+ND11_49.ZIP     8265 12-03-94 Neural Digest Volume 11, Issue 49
+NDV11NDX.ZIP    7545 12-03-94 Neural Digest Volume 11, INDEX
+------------------------------------------------------------------------------
+ND12_01.ZIP    12720 12-03-94 Neural Digest Volume 12, Issue 01
+ND12_02.ZIP     9787 12-03-94 Neural Digest Volume 12, Issue 02
+ND12_03.ZIP    10966 12-03-94 Neural Digest Volume 12, Issue 03
+ND12_04.ZIP     9346 12-03-94 Neural Digest Volume 12, Issue 04
+ND12_05.ZIP    10918 12-03-94 Neural Digest Volume 12, Issue 05
+ND12_06.ZIP     9043 12-03-94 Neural Digest Volume 12, Issue 06
+ND12_07.ZIP    10813 12-03-94 Neural Digest Volume 12, Issue 07
+ND12_08.ZIP    11113 12-03-94 Neural Digest Volume 12, Issue 08
+ND12_09.ZIP    12488 12-03-94 Neural Digest Volume 12, Issue 09
+ND12_10.ZIP    11660 12-03-94 Neural Digest Volume 12, Issue 10
+ND12_11.ZIP    10365 12-03-94 Neural Digest Volume 12, Issue 11
+ND12_12.ZIP    11583 12-03-94 Neural Digest Volume 12, Issue 12
+ND12_13.ZIP    12282 12-03-94 Neural Digest Volume 12, Issue 13
+ND12_14.ZIP    10721 12-03-94 Neural Digest Volume 12, Issue 14
+ND12_15.ZIP    12497 12-03-94 Neural Digest Volume 12, Issue 15
+ND12_16.ZIP    12016 12-03-94 Neural Digest Volume 12, Issue 16
+ND12_17.ZIP    11948 12-03-94 Neural Digest Volume 12, Issue 17
+ND12_18.ZIP    12722 12-03-94 Neural Digest Volume 12, Issue 18
+ND12_19.ZIP    10718 12-03-94 Neural Digest Volume 12, Issue 19
+ND12_20.ZIP     9840 12-03-94 Neural Digest Volume 12, Issue 20
+ND12_21.ZIP     7838 12-03-94 Neural Digest Volume 12, Issue 21
+ND12_22.ZIP    11460 12-03-94 Neural Digest Volume 12, Issue 22
+ND12_23.ZIP    11300 12-03-94 Neural Digest Volume 12, Issue 23
+ND12_24.ZIP    11101 12-03-94 Neural Digest Volume 12, Issue 24
+ND12_25.ZIP    11883 12-03-94 Neural Digest Volume 12, Issue 25
+ND12_26.ZIP     9650 12-03-94 Neural Digest Volume 12, Issue 26
+ND12_27.ZIP    11164 12-03-94 Neural Digest Volume 12, Issue 27
+ND12_28.ZIP    12330 12-03-94 Neural Digest Volume 12, Issue 28
+ND12_29.ZIP     6324 12-03-94 Neural Digest Volume 12, Issue 29
+NDV12NDX.ZIP    4309 12-03-94 Neural Digest Volume 12, INDEX
+------------------------------------------------------------------------------
+ND13_01.ZIP     9228 12-03-94 Neural Digest Volume 13, Issue 01
+ND13_02.ZIP    12365 12-03-94 Neural Digest Volume 13, Issue 02
+ND13_03.ZIP    11864 12-03-94 Neural Digest Volume 13, Issue 03
+ND13_04.ZIP    11194 12-03-94 Neural Digest Volume 13, Issue 04
+ND13_05.ZIP     9935 12-03-94 Neural Digest Volume 13, Issue 05
+ND13_06.ZIP    12041 12-03-94 Neural Digest Volume 13, Issue 06
+ND13_07.ZIP    11111 12-03-94 Neural Digest Volume 13, Issue 07
+ND13_08.ZIP    12153 12-03-94 Neural Digest Volume 13, Issue 08
+ND13_09.ZIP    10872 12-03-94 Neural Digest Volume 13, Issue 09
+ND13_10.ZIP     6964 12-03-94 Neural Digest Volume 13, Issue 10
+ND13_11.ZIP    12226 12-03-94 Neural Digest Volume 13, Issue 11
+ND13_12.ZIP     9561 12-03-94 Neural Digest Volume 13, Issue 12
+ND13_13.ZIP    11212 12-03-94 Neural Digest Volume 13, Issue 13
+ND13_14.ZIP    11161 12-03-94 Neural Digest Volume 13, Issue 14
+ND13_15.ZIP    13593 12-03-94 Neural Digest Volume 13, Issue 15
+ND13_16.ZIP     9143 12-03-94 Neural Digest Volume 13, Issue 16
+ND13_17.ZIP     7612 12-03-94 Neural Digest Volume 13, Issue 17
+ND13_18.ZIP    11120 12-03-94 Neural Digest Volume 13, Issue 18
+ND13_19.ZIP    10016 12-03-94 Neural Digest Volume 13, Issue 19
+ND13_20.ZIP    11484 12-03-94 Neural Digest Volume 13, Issue 20
+ND13_21.ZIP    11325 12-03-94 Neural Digest Volume 13, Issue 21
+ND13_22.ZIP    10306 12-03-94 Neural Digest Volume 13, Issue 22
+ND13_23.ZIP    13503 12-03-94 Neural Digest Volume 13, Issue 23
+ND13_24.ZIP     8043 12-03-94 Neural Digest Volume 13, Issue 24
+ND13_25.ZIP    10603 12-03-94 Neural Digest Volume 13, Issue 25
+ND13_26.ZIP    11052 12-03-94 Neural Digest Volume 13, Issue 26
+ND13_27.ZIP     8833 12-03-94 Neural Digest Volume 13, Issue 27
+ND13_28.ZIP    13056 12-03-94 Neural Digest Volume 13, Issue 28
+ND13_29.ZIP    11698 12-03-94 Neural Digest Volume 13, Issue 29
+ND13_30.ZIP    12186 12-03-94 Neural Digest Volume 13, Issue 30
+ND13_31.ZIP    10641 12-03-94 Neural Digest Volume 13, Issue 31
+ND13_32.ZIP    11036 12-03-94 Neural Digest Volume 13, Issue 32
+ND13_33.ZIP    13280 12-03-94 Neural Digest Volume 13, Issue 33
+ND13_34.ZIP    10918 12-03-94 Neural Digest Volume 13, Issue 34
+ND13_35.ZIP     9855 12-03-94 Neural Digest Volume 13, Issue 35
+ND13_36.ZIP    14712 12-03-94 Neural Digest Volume 13, Issue 36
+ND13_37.ZIP    11299 12-03-94 Neural Digest Volume 13, Issue 37
+ND13_38.ZIP    13000 12-03-94 Neural Digest Volume 13, Issue 38
+ND13_39.ZIP    11510 12-03-94 Neural Digest Volume 13, Issue 39
+ND13_40.ZIP    11392 12-03-94 Neural Digest Volume 13, Issue 40
+ND13_41.ZIP    12452 12-03-94 Neural Digest Volume 13, Issue 41
+ND13_42.ZIP    13388 12-03-94 Neural Digest Volume 13, Issue 42
+ND13_43.ZIP    10088 12-03-94 Neural Digest Volume 13, Issue 43
+ND13_44.ZIP    12349 12-03-94 Neural Digest Volume 13, Issue 44
+ND13_45.ZIP     7408 12-03-94 Neural Digest Volume 13, Issue 45
+ND13_46.ZIP    10605 12-03-94 Neural Digest Volume 13, Issue 46
+ND13_47.ZIP    10025 12-03-94 Neural Digest Volume 13, Issue 47
+NDV13NDX.ZIP    6219 12-03-94 Neural Digest Volume 13, INDEX
+------------------------------------------------------------------------------
+ND14_01.ZIP     8791 12-03-94 Neural Digest Volume 14, Issue 01
+ND14_02.ZIP     6890 12-03-94 Neural Digest Volume 14, Issue 02
+ND14_03.ZIP    11291 12-03-94 Neural Digest Volume 14, Issue 03
+ND14_04.ZIP    12500 12-03-94 Neural Digest Volume 14, Issue 04
+ND14_05.ZIP    10182 12-03-94 Neural Digest Volume 14, Issue 05
+ND14_06.ZIP     7720 12-03-94 Neural Digest Volume 14, Issue 06
+ND14_07.ZIP     9894 12-03-94 Neural Digest Volume 14, Issue 07
+ND14_08.ZIP    12145 12-03-94 Neural Digest Volume 14, Issue 08
+ND14_09.ZIP    12148 12-03-94 Neural Digest Volume 14, Issue 09
+ND14_10.ZIP    12456 12-03-94 Neural Digest Volume 14, Issue 10
+ND14_11.ZIP    11315 12-03-94 Neural Digest Volume 14, Issue 11
+ND14_12.ZIP    11824 12-03-94 Neural Digest Volume 14, Issue 12
+ND14_13.ZIP    12485 12-03-94 Neural Digest Volume 14, Issue 13
+ND14_14.ZIP    13267 12-03-94 Neural Digest Volume 14, Issue 14
+NDV14NDX.ZIP   10857 12-03-94 Neural Digest Volume 14, INDEX
+

@@ -1,0 +1,61 @@
+If you have any type of problem with the CD-ROM or one of the files it
+contains, you should send us a problem report so that we can correct the
+problem before the next revision of the disc is published. We appreciate
+you help in finding problems. You may return the form by conventional
+mail, fax, or email to this address:
+
+    Network Cybernetics Corporation
+    ATTN: AI CD-ROM project
+    4201 Wingren Road, Suite 202
+    Irving TX 75062-2763
+
+    FAX 214-650-1929
+ 
+    Internet: problems@ncc.com
+    Fidonet:  problems @ 1:124/2206.0
+
+    Name ______________________________________________________________
+    Address ___________________________________________________________
+    Address ___________________________________________________________
+    City ____________________________ State/Province __________________
+    Country _________________________ Postal code _____________________
+    Voice phone _____________________ Fax _____________________________
+    Email address _____________________________________________________
+
+    Have you already sent in your registration form? [ ]YES  [ ]NO
+    
+    Describe the system you were using when the problem occured:
+
+    Type of computer      _____________________________________________
+    Operating system      _____________________________________________
+    Type of CD-ROM drive  _____________________________________________
+
+    The file causing the problem is ___________________________________
+
+    Are you the author of the file? [ ] YES  [ ]NO
+
+    This file:
+
+    [ ] Is corrupt and cannot be unpacked.
+    [ ] Can be unpacked but the resulting files do not run.
+    [ ] Can be unpacked but is missing some one or more components
+    [ ] Contains a virus!
+    [ ] Should be replaced by version  ________________________________
+    [ ] Is a duplicate of another file ________________________________
+    [ ] Is incorrectly catagorized. Where should it be? _______________
+    [ ] Should be removed because _____________________________________
+    [ ] Has an incorrect description. Include correct description below.
+
+
+    Addition comments:
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+    ___________________________________________________________________
+

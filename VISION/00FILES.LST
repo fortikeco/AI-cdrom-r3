@@ -1,0 +1,493 @@
+##############################################################################
+## Directory: \VISION - Machine vision                                      ##
+##############################################################################
+CCDIMAGE.ZIP    2253 10-15-90 Sources of info on CCD image processing
+CIPS.ZIP      403593 03-30-92 The C Image Processing System source code
+CONVOLVE.ZIP   79720 07-06-90 C source for image convolution algorithm
+CVD10.ZIP      89081 04-10-91 Color vision demonstrations for MSDOS & VGA
+EYESIGHT.ZIP  168598 03-13-89 V1.7 of complete PC vision system
+FLASHER.ZIP    48897 10-12-92 v1.51 Visual brainwave stimulator
+GESTURES.ZIP  302788 06-08-91 D. Rubines gesture recognition work
+GRAYIMAG.ZIP   72706 07-19-94 C++ Class library for generic image processing
+                              on grayscale images and to read and write files
+                              in several graphics formats.  Compiles under
+                              gcc/g++ on most platforms and with Symantec
+                              C++ on Macintosh.
+SIZE.ZIP      105798 12-23-93 A program that computers 1 dimensional size
+                              functions based on Size Theory. Includes binary
+                              that runs on SunOS 4, sample images, and some
+                              short documentation in ASCII format.
+TR126.ZIP     312001 07-03-93 Paper on vision system for robotics, PS format
+------------------------------------------------------------------------------
+-- Papers and other information files ----------------------------------------
+------------------------------------------------------------------------------
+ACCV93.ZIP    148849 11-23-94 Paper: "On Regularization, Formulation and
+                              Initialization of the Active Contour Models" by
+                              Kok F. Lai and Roland T. Chin. Post Script.
+AD93_01.ZIP   195163 11-23-94 Paper: "Computing Spatiotemporal Relations for
+                              Dynamic Perceptual Organization" by M. Allmen
+                              and C. R. Dyer. Post Script.
+EBDCG92.ZIP   245545 11-23-94 Paper: "The Scale-Space Aspect Graph" by D. W.
+                              Eggert, K. W. Bowyer, C. R. Dyer, D. B. Goldgof,
+                              and H. I. Christensen. Post Script.
+EBDCG93.ZIP   283123 11-23-94 Paper: "The Scale Space Aspect Graph" (revised)
+                              by D. W. Eggert, K. W. Bowyer, C. R. Dyer, H. I.
+                              Christensen, and D. B. Goldgof. Post Script.
+KD91_01.ZIP   155439 11-23-94 Technical Report: "Recovering Shape by Purposive
+                              Viewpoint Adjustment" by K. N. Kutulakos and
+                              C. R. Dyer. Post Script.
+KD92_01.ZIP    92908 11-23-94 Paper: "Recovering Shape by Purposive Viewpoint
+                              Adjustment" by K. N. Kutulakos and C. R. Dyer.
+                              Post Script.
+KD93_01.ZIP    12796 11-23-94 Paper: "Toward Global Surface Reconstruction By
+                              Purposive Viewpoint Adjustment" by K.N.Kutulakos
+                              and C. R. Dyer. Post Script.
+KD93_02.ZIP  1076846 11-23-94 Technical Report: "Global Surface Reconstruction
+                              by Purposive Control of Observer Motion" by
+                              K. N. Kutulakos and C. R. Dyer. Post Script.
+KD94_01.ZIP   186591 11-23-94 Paper: "Occluding Contour Detection Using Affine
+                              Invariants and Purposive Viewpoint Control" by
+                              K. N. Kutulakos and C. R. Dyer. Post Script.
+KD94_02.ZIP   367457 11-23-94 Paper: "Global Surface Reconstruction by
+                              Purposive Control of Observer Motion" by
+                              K. N. Kutulakos and C. R. Dyer. Post Script.
+KD94_03.ZIP   570537 11-23-94 Paper: "Recovering Shape by Purposive Viewpoint
+                              Adjustment" by K. N. Kutulakos and C. R. Dyer.
+                              Post Script.
+KDL94_01.ZIP  208594 11-23-94 Paper: "Provable Strategies for Vision-Guided
+                              Exploration in Three Dimensions" by K. N.
+                              Kutulakos, C. R. Dyer, and V. J. Lumelsky.
+                              Post Script.
+KFL_1994.ZIP  822787 11-23-94 Thesis: "Deformable Contours: Modeling,
+                              Extraction, Detection, and Classification" by
+                              Kok Fung Lai. Post Script.
+KL92_01.ZIP    86963 11-23-94 Technical Report: "Vision-Guided Exploration: A
+                              Step Toward General Motion Planning in Three
+                              Dimensions" by K.N. Kutulakos and V.J. Lumelsky
+                              Post Script.
+KLD93_01.ZIP   53998 11-23-94 Paper: "Vision-Guided Exploration: A Step Toward
+                              General Motion Planning in Three Dimensions" by
+                              K. N. Kutulakos, V. J. Lumelsky, and C. R. Dyer.
+                              Post Script format.
+KSD93_01.ZIP  737894 11-23-94 Paper: "Building Global Surface Models by
+                              Purposive and Qualitative Viewpoint Adjustment"
+                              by K. N. Kutulakos, W. B. Seales, and C. R. Dyer
+                              Post Script.
+KSD94_01.ZIP  756278 11-23-94 Paper: "Building Global Object Models by
+                              Purposive Viewpoint Control" by K. N. Kutulakos,
+                              W. B. Seales, and C. R. Dyer. Post Script.
+LC94_01.ZIP   222250 11-23-94 Paper: "Deformable Contours: Modeling and
+                              Extraction" by K.F.Lai and R.T.Chin. Post Script
+LC94_02.ZIP   149713 11-23-94 Paper: "On Classifying Deformable Contours Using
+                              the Generalized Active Contour Model" by K. F.
+                              Lai and R. T. Chin. Post Script.
+LC94_03.ZIP   346062 11-23-94 Paper: "Deformable Contours: Modeling and
+                              Extraction" by K.F.Lai and R.T.Chin. Post Script
+MCA_1991.ZIP 1126907 11-23-94 Thesis: "Image Sequence Description Using
+                              Spatiotemporal Flow Curves: Toward Motion-Based
+                              Recognition" by Mark C. Allmen. Post Script.
+SD92_01.ZIP   294622 11-23-94 Paper: "Viewpoint From Occluding Contour" by
+                              W. B. Seales and C. R. Dyer. Post Script.
+SD92_02.ZIP    79446 11-23-94 Paper: "An Occlusion-Based Representation of
+                              Shape for Viewpoint Recovery" by W. B. Seales
+                              and C. R. Dyer. Post Script.
+SD94_01.ZIP   998693 11-23-94 Paper: "Affine Invariant Detection of Periodic
+                              Motion" by S.M. Seitz and C.R. Dyer. Post Script
+SD94_02.ZIP   905577 11-23-94 Paper: "Detecting Irregularities in Cyclic
+                              Motion" by S.M. Seitz and C.R. Dyer. Post Script
+WD93_01.ZIP   144492 11-23-94 Paper: "Dynamic Shading, Motion Parallax and
+                              Qualitative Shape" by S. Waldon and C. R. Dyer.
+                              Post Script.
+WBS_1991.ZIP  461201 11-23-94 Thesis: "Appearance Models of Three-Dimensional
+                              Shape for Machine Vision and Graphics" by
+                              W. B. Seales. Post Script.
+------------------------------------------------------------------------------
+-- Image file format data ----------------------------------------------------
+------------------------------------------------------------------------------
+ANSIAIIM.ZIP   33126 03-11-93 ANSI AIIM MS-53 199x file format docs & C source
+COLORFAQ.ZIP   14669 11-17-94 Usenet color space FAQ
+FLI_FMT.ZIP    10500 02-08-93 Animator Pro FLI/FLC file format docs
+GIF89A.ZIP     21011 11-26-91 GIF version 89a image file format docs
+GNENCODE.ZIP   41259 05-18-90 C src to encode/decode CCITT group 3 / 4 images
+GRFAQ.ZIP     125352 11-17-94 Usenet graphics resources FAQ
+JPEGFAQ.ZIP    24616 11-15-94 Usenet comp.graphics newsgroup JPEG FAQ
+MPEGFAQ.ZIP   104966 06-15-94 Usenet comp.graphics newsgroup MPEG FAQ
+------------------------------------------------------------------------------
+-- Image utilities -----------------------------------------------------------
+------------------------------------------------------------------------------
+CHIARO10.ZIP  121894 02-18-93 Chiaro v1.0 image analysis utilities
+CHROMA.ZIP   1063862 04-14-91 Targa imaging & graphics utilities
+GRAFWK61.ZIP  352087 08-22-91 Graphics Workshop for MSDOS v6.1
+HPCD2PPM.ZIP   39630 05-18-93 v0.5 of Hadmut's Kodak Photo-CD C src
+IMDISP76.ZIP  203391 08-19-91 v7.6 JPL interactive image processor
+IMPROC24.ZIP  163895 09-04-91 v2.4 SVGA Image processor software
+JPEG_R3.ZIP   283541 01-12-93 Release 3 JPEG C source code library
+MPEG386.ZIP   107394 01-10-93 MPEG viewer for MSDOS & 386+ CPU
+PBMPLUS.ZIP   420804 06-29-91 GCC port of PBM utilities for MSDOS
+PBMPLUS2.ZIP 1374839 10-04-92 OS/2 full 32bit port of PBM utilities
+VGALIB.ZIP    111484 09-13-92 OS/2 graphics library w/src & examples
+------------------------------------------------------------------------------
+-- OCR and related character recognition info. -------------------------------
+------------------------------------------------------------------------------
+CAT_OCR.ZIP   281968 11-12-89 v1.54 OCR program for TIFF files
+OCRSHR22.ZIP  337922 10-13-90 Advantex OCR for TIFF, PCX, IMG files
+OCR_VEC.ZIP    96871 04-11-90 Vector-based OCR for captured screens
+PLN.ZIP        13817 06-26-92 C++ source for a 5x7 pixel grid ASCII digit
+                              recognizer made from a probabilistic logic
+                              node network.
+PROCR202.ZIP   74444 04-16-91 PRO-CR v2.02 OCR for TIFF files
+------------------------------------------------------------------------------
+-- Vision-list digest --------------------------------------------------------
+------------------------------------------------------------------------------
+VLD07_01.ZIP    2504 07-19-92 Vision-list digest Volume 07, Issue 01
+VLD07_02.ZIP    3527 07-24-92 Vision-list digest Volume 07, Issue 02
+VLD07_03.ZIP    7585 07-19-92 Vision-list digest Volume 07, Issue 03
+VLD07_04.ZIP    5092 07-19-92 Vision-list digest Volume 07, Issue 04
+VLD07_05.ZIP    6718 07-19-92 Vision-list digest Volume 07, Issue 05
+VLD07_06.ZIP    3511 07-19-92 Vision-list digest Volume 07, Issue 06
+VLD07_07.ZIP    4472 07-19-92 Vision-list digest Volume 07, Issue 07
+VLD07_08.ZIP    2547 07-19-92 Vision-list digest Volume 07, Issue 08
+VLD07_09.ZIP    8079 07-24-92 Vision-list digest Volume 07, Issue 09
+VLD07_10.ZIP    2579 07-24-92 Vision-list digest Volume 07, Issue 10
+VLD07_11.ZIP    7896 07-24-92 Vision-list digest Volume 07, Issue 11
+VLD07_12.ZIP    2152 07-19-92 Vision-list digest Volume 07, Issue 12
+VLD07_13.ZIP    3852 07-19-92 Vision-list digest Volume 07, Issue 13
+VLD07_14.ZIP    5178 07-19-92 Vision-list digest Volume 07, Issue 14
+VLD07_15.ZIP   11519 07-19-92 Vision-list digest Volume 07, Issue 15
+VLD07_16.ZIP    1078 07-19-92 Vision-list digest Volume 07, Issue 16
+VLD07_17.ZIP    4744 07-19-92 Vision-list digest Volume 07, Issue 17
+VLD07_18.ZIP    4495 07-19-92 Vision-list digest Volume 07, Issue 18
+VLD07_19.ZIP    2035 07-19-92 Vision-list digest Volume 07, Issue 19
+VLD07_20.ZIP    3168 07-19-92 Vision-list digest Volume 07, Issue 20
+VLD07_21.ZIP    1809 07-19-92 Vision-list digest Volume 07, Issue 21
+VLD07_22.ZIP    1911 07-19-92 Vision-list digest Volume 07, Issue 22
+VLD07_23.ZIP    8652 07-19-92 Vision-list digest Volume 07, Issue 23
+VLD07_24.ZIP    2526 07-19-92 Vision-list digest Volume 07, Issue 24
+VLD07_25.ZIP    2138 07-19-92 Vision-list digest Volume 07, Issue 25
+VLD07_26.ZIP    2340 07-19-92 Vision-list digest Volume 07, Issue 26
+VLD07_27.ZIP    2727 07-24-92 Vision-list digest Volume 07, Issue 27
+VLD07_28.ZIP     725 07-24-92 Vision-list digest Volume 07, Issue 28
+VLD07_29.ZIP    4430 07-24-92 Vision-list digest Volume 07, Issue 29
+VLD07_30.ZIP    1307 07-24-92 Vision-list digest Volume 07, Issue 30
+VLD07_31.ZIP    1395 07-24-92 Vision-list digest Volume 07, Issue 31
+------------------------------------------------------------------------------
+VLD08_01.ZIP    2845 07-24-92 Vision-list digest Volume 08, Issue 01
+VLD08_02.ZIP    4748 07-24-92 Vision-list digest Volume 08, Issue 02
+VLD08_03.ZIP    5173 07-24-92 Vision-list digest Volume 08, Issue 03
+VLD08_04.ZIP    3947 07-24-92 Vision-list digest Volume 08, Issue 04
+VLD08_05.ZIP    4205 07-24-92 Vision-list digest Volume 08, Issue 05
+VLD08_06.ZIP    6566 07-24-92 Vision-list digest Volume 08, Issue 06
+VLD08_07.ZIP    4658 07-24-92 Vision-list digest Volume 08, Issue 07
+VLD08_08.ZIP    4648 07-24-92 Vision-list digest Volume 08, Issue 08
+VLD08_09.ZIP    4665 07-24-92 Vision-list digest Volume 08, Issue 09
+VLD08_10.ZIP    3329 07-19-92 Vision-list digest Volume 08, Issue 10
+VLD08_11.ZIP    2638 07-19-92 Vision-list digest Volume 08, Issue 11
+VLD08_12.ZIP    3076 07-19-92 Vision-list digest Volume 08, Issue 12
+VLD08_13.ZIP    7136 07-19-92 Vision-list digest Volume 08, Issue 13
+VLD08_14.ZIP    4285 07-19-92 Vision-list digest Volume 08, Issue 14
+VLD08_15.ZIP    3649 07-19-92 Vision-list digest Volume 08, Issue 15
+VLD08_16.ZIP    2414 07-19-92 Vision-list digest Volume 08, Issue 16
+VLD08_17.ZIP    1965 07-24-92 Vision-list digest Volume 08, Issue 17
+VLD08_18.ZIP    3686 07-24-92 Vision-list digest Volume 08, Issue 18
+VLD08_19.ZIP    2387 07-24-92 Vision-list digest Volume 08, Issue 19
+VLD08_20.ZIP    5578 07-19-92 Vision-list digest Volume 08, Issue 20
+VLD08_21.ZIP    3346 07-19-92 Vision-list digest Volume 08, Issue 21
+VLD08_22.ZIP    1428 07-19-92 Vision-list digest Volume 08, Issue 22
+VLD08_23.ZIP    3223 07-19-92 Vision-list digest Volume 08, Issue 23
+VLD08_24.ZIP    1312 07-19-92 Vision-list digest Volume 08, Issue 24
+VLD08_25.ZIP    3022 07-19-92 Vision-list digest Volume 08, Issue 25
+VLD08_26.ZIP    4798 07-19-92 Vision-list digest Volume 08, Issue 26
+VLD08_27.ZIP    6681 07-19-92 Vision-list digest Volume 08, Issue 27
+VLD08_28.ZIP    3336 07-19-92 Vision-list digest Volume 08, Issue 28
+VLD08_29.ZIP    3483 07-24-92 Vision-list digest Volume 08, Issue 29
+VLD08_30.ZIP    5768 07-19-92 Vision-list digest Volume 08, Issue 30
+VLD08_31.ZIP     859 07-19-92 Vision-list digest Volume 08, Issue 31
+VLD08_32.ZIP    4009 07-19-92 Vision-list digest Volume 08, Issue 32
+VLD08_33.ZIP    2419 07-24-92 Vision-list digest Volume 08, Issue 33
+VLD08_34.ZIP    4023 07-24-92 Vision-list digest Volume 08, Issue 34
+VLD08_35.ZIP    5155 07-24-92 Vision-list digest Volume 08, Issue 35
+VLD08_36.ZIP    1294 07-24-92 Vision-list digest Volume 08, Issue 36
+VLD08_37.ZIP    3504 07-24-92 Vision-list digest Volume 08, Issue 37
+VLD08_38.ZIP     928 07-19-92 Vision-list digest Volume 08, Issue 38
+VLD08_39.ZIP    2904 07-19-92 Vision-list digest Volume 08, Issue 39
+VLD08_40.ZIP   53921 07-19-92 Vision-list digest Volume 08, Issue 40
+VLD08_41.ZIP   27986 07-19-92 Vision-list digest Volume 08, Issue 41
+VLD08_42.ZIP    3946 07-19-92 Vision-list digest Volume 08, Issue 42
+VLD08_43.ZIP    4444 07-19-92 Vision-list digest Volume 08, Issue 43
+VLD08_44.ZIP    5304 07-19-92 Vision-list digest Volume 08, Issue 44
+VLD08_45.ZIP    5717 07-19-92 Vision-list digest Volume 08, Issue 45
+VLD08_46.ZIP    6973 07-19-92 Vision-list digest Volume 08, Issue 46
+VLD08_47.ZIP    9762 07-24-92 Vision-list digest Volume 08, Issue 47
+VLD08_48.ZIP    6196 07-24-92 Vision-list digest Volume 08, Issue 48
+VLD08_49.ZIP    2692 07-24-92 Vision-list digest Volume 08, Issue 49
+VLD08_50.ZIP    3625 07-24-92 Vision-list digest Volume 08, Issue 50
+VLD08_51.ZIP    1109 07-24-92 Vision-list digest Volume 08, Issue 51
+------------------------------------------------------------------------------
+VLD09_01.ZIP   12349 07-24-92 Vision-list digest Volume 09, Issue 01
+VLD09_02.ZIP    5224 07-24-92 Vision-list digest Volume 09, Issue 02
+VLD09_03.ZIP    6527 07-24-92 Vision-list digest Volume 09, Issue 03
+VLD09_04.ZIP    6307 07-24-92 Vision-list digest Volume 09, Issue 04
+VLD09_05.ZIP    3764 07-24-92 Vision-list digest Volume 09, Issue 05
+VLD09_06.ZIP    6819 07-24-92 Vision-list digest Volume 09, Issue 06
+VLD09_07.ZIP    5518 07-24-92 Vision-list digest Volume 09, Issue 07
+VLD09_08.ZIP   12150 07-24-92 Vision-list digest Volume 09, Issue 08
+VLD09_09.ZIP    1714 07-24-92 Vision-list digest Volume 09, Issue 09
+VLD09_10.ZIP    2718 07-19-92 Vision-list digest Volume 09, Issue 10
+VLD09_11.ZIP   16040 07-19-92 Vision-list digest Volume 09, Issue 11
+VLD09_12.ZIP   84232 07-19-92 Vision-list digest Volume 09, Issue 12
+VLD09_13.ZIP    6971 07-19-92 Vision-list digest Volume 09, Issue 13
+VLD09_14.ZIP    5338 07-19-92 Vision-list digest Volume 09, Issue 14
+VLD09_15.ZIP    4063 07-19-92 Vision-list digest Volume 09, Issue 15
+VLD09_16.ZIP    3029 07-19-92 Vision-list digest Volume 09, Issue 16
+VLD09_17.ZIP    5533 07-24-92 Vision-list digest Volume 09, Issue 17
+VLD09_18.ZIP    5071 07-24-92 Vision-list digest Volume 09, Issue 18
+VLD09_19.ZIP    3563 07-24-92 Vision-list digest Volume 09, Issue 19
+VLD09_20.ZIP    7723 07-24-92 Vision-list digest Volume 09, Issue 20
+VLD09_21.ZIP    5276 07-19-92 Vision-list digest Volume 09, Issue 21
+VLD09_22.ZIP    4275 07-19-92 Vision-list digest Volume 09, Issue 22
+VLD09_23.ZIP    2424 07-19-92 Vision-list digest Volume 09, Issue 23
+VLD09_24.ZIP    4963 07-19-92 Vision-list digest Volume 09, Issue 24
+VLD09_25.ZIP    8214 07-19-92 Vision-list digest Volume 09, Issue 25
+VLD09_26.ZIP   10980 07-19-92 Vision-list digest Volume 09, Issue 26
+VLD09_27.ZIP    3071 07-19-92 Vision-list digest Volume 09, Issue 27
+VLD09_28.ZIP    9529 07-19-92 Vision-list digest Volume 09, Issue 28
+VLD09_29.ZIP    4422 07-19-92 Vision-list digest Volume 09, Issue 29
+VLD09_30.ZIP    2650 07-19-92 Vision-list digest Volume 09, Issue 30
+VLD09_31.ZIP    3634 07-19-92 Vision-list digest Volume 09, Issue 31
+VLD09_32.ZIP    4740 07-19-92 Vision-list digest Volume 09, Issue 32
+VLD09_33.ZIP    1735 07-19-92 Vision-list digest Volume 09, Issue 33
+VLD09_34.ZIP    7272 07-19-92 Vision-list digest Volume 09, Issue 34
+VLD09_35.ZIP   14945 07-19-92 Vision-list digest Volume 09, Issue 35
+VLD09_36.ZIP    3838 07-19-92 Vision-list digest Volume 09, Issue 36
+VLD09_37.ZIP    9872 07-19-92 Vision-list digest Volume 09, Issue 37
+VLD09_38.ZIP    3952 07-24-92 Vision-list digest Volume 09, Issue 38
+VLD09_39.ZIP    5932 07-24-92 Vision-list digest Volume 09, Issue 39
+VLD09_40.ZIP    9887 07-24-92 Vision-list digest Volume 09, Issue 40
+VLD09_41.ZIP    2697 07-24-92 Vision-list digest Volume 09, Issue 41
+VLD09_42.ZIP    6558 07-24-92 Vision-list digest Volume 09, Issue 42
+VLD09_43.ZIP    2340 07-24-92 Vision-list digest Volume 09, Issue 43
+VLD09_44.ZIP    3286 07-24-92 Vision-list digest Volume 09, Issue 44
+VLD09_45.ZIP    2592 07-19-92 Vision-list digest Volume 09, Issue 45
+VLD09_46.ZIP    5082 07-19-92 Vision-list digest Volume 09, Issue 46
+VLD09_47.ZIP    3354 07-19-92 Vision-list digest Volume 09, Issue 47
+VLD09_48.ZIP    5399 07-19-92 Vision-list digest Volume 09, Issue 48
+VLD09_49.ZIP    4025 07-19-92 Vision-list digest Volume 09, Issue 49
+VLD09_50.ZIP    3213 07-19-92 Vision-list digest Volume 09, Issue 50
+VLD09_51.ZIP    4556 07-19-92 Vision-list digest Volume 09, Issue 51
+VLD09_52.ZIP    5033 07-19-92 Vision-list digest Volume 09, Issue 52
+VLD09_53.ZIP    4914 07-19-92 Vision-list digest Volume 09, Issue 53
+VLD09_54.ZIP    5380 07-19-92 Vision-list digest Volume 09, Issue 54
+VLD09_55.ZIP    5431 07-19-92 Vision-list digest Volume 09, Issue 55
+VLD09_56.ZIP    3952 07-19-92 Vision-list digest Volume 09, Issue 56
+VLD09_57.ZIP   29749 07-19-92 Vision-list digest Volume 09, Issue 57
+VLD09_58.ZIP    4271 07-19-92 Vision-list digest Volume 09, Issue 58
+VLD09_59.ZIP    2860 07-19-92 Vision-list digest Volume 09, Issue 59
+VLD09_60.ZIP   10521 07-19-92 Vision-list digest Volume 09, Issue 60
+VLD09_61.ZIP    5401 07-19-92 Vision-list digest Volume 09, Issue 61
+VLD09_62.ZIP    4258 07-24-92 Vision-list digest Volume 09, Issue 62
+VLD09_63.ZIP    3509 07-24-92 Vision-list digest Volume 09, Issue 63
+VLD09_64.ZIP    3718 07-24-92 Vision-list digest Volume 09, Issue 64
+VLD09_65.ZIP    5735 07-24-92 Vision-list digest Volume 09, Issue 65
+------------------------------------------------------------------------------
+VLD10_01.ZIP    2789 07-24-92 Vision-list digest Volume 10, Issue 01
+VLD10_02.ZIP    4677 07-24-92 Vision-list digest Volume 10, Issue 02
+VLD10_03.ZIP    4740 07-24-92 Vision-list digest Volume 10, Issue 03
+VLD10_04.ZIP    9401 07-24-92 Vision-list digest Volume 10, Issue 04
+VLD10_05.ZIP    5502 07-24-92 Vision-list digest Volume 10, Issue 05
+VLD10_06.ZIP    4537 07-24-92 Vision-list digest Volume 10, Issue 06
+VLD10_07.ZIP    4496 07-24-92 Vision-list digest Volume 10, Issue 07
+VLD10_08.ZIP    5865 07-24-92 Vision-list digest Volume 10, Issue 08
+VLD10_09.ZIP    5218 07-24-92 Vision-list digest Volume 10, Issue 09
+VLD10_10.ZIP    7587 07-24-92 Vision-list digest Volume 10, Issue 10
+VLD10_11.ZIP   19765 07-24-92 Vision-list digest Volume 10, Issue 11
+VLD10_12.ZIP    6941 07-24-92 Vision-list digest Volume 10, Issue 12
+VLD10_13.ZIP    4332 07-24-92 Vision-list digest Volume 10, Issue 13
+VLD10_14.ZIP    9141 07-24-92 Vision-list digest Volume 10, Issue 14
+VLD10_15.ZIP    6140 07-24-92 Vision-list digest Volume 10, Issue 15
+VLD10_16.ZIP    6756 07-24-92 Vision-list digest Volume 10, Issue 16
+VLD10_17.ZIP    9170 07-24-92 Vision-list digest Volume 10, Issue 17
+VLD10_18.ZIP   12373 07-24-92 Vision-list digest Volume 10, Issue 18
+VLD10_19.ZIP    8514 07-24-92 Vision-list digest Volume 10, Issue 19
+VLD10_20.ZIP    8365 07-24-92 Vision-list digest Volume 10, Issue 20
+VLD10_21.ZIP   15818 07-24-92 Vision-list digest Volume 10, Issue 21
+VLD10_22.ZIP    2827 07-24-92 Vision-list digest Volume 10, Issue 22
+VLD10_23.ZIP    8255 07-24-92 Vision-list digest Volume 10, Issue 23
+VLD10_24.ZIP   10313 07-24-92 Vision-list digest Volume 10, Issue 24
+VLD10_26.ZIP    3825 07-24-92 Vision-list digest Volume 10, Issue 26
+VLD10_27.ZIP    7977 07-24-92 Vision-list digest Volume 10, Issue 27
+VLD10_28.ZIP    7773 07-24-92 Vision-list digest Volume 10, Issue 28
+VLD10_29.ZIP    5432 07-24-92 Vision-list digest Volume 10, Issue 29
+VLD10_30.ZIP    7965 07-24-92 Vision-list digest Volume 10, Issue 30
+VLD10_31.ZIP   27417 07-24-92 Vision-list digest Volume 10, Issue 31
+VLD10_32.ZIP    6720 07-24-92 Vision-list digest Volume 10, Issue 32
+VLD10_33.ZIP    7980 07-24-92 Vision-list digest Volume 10, Issue 33
+VLD10_34.ZIP   16226 07-24-92 Vision-list digest Volume 10, Issue 34
+VLD10_35.ZIP    5876 07-24-92 Vision-list digest Volume 10, Issue 35
+VLD10_36.ZIP    8832 07-24-92 Vision-list digest Volume 10, Issue 36
+VLD10_37.ZIP   11846 07-24-92 Vision-list digest Volume 10, Issue 37
+VLD10_38.ZIP    7005 07-24-92 Vision-list digest Volume 10, Issue 38
+VLD10_39.ZIP   13385 07-24-92 Vision-list digest Volume 10, Issue 39
+VLD10_41.ZIP   11974 07-24-92 Vision-list digest Volume 10, Issue 41
+VLD10_42.ZIP   17442 07-24-92 Vision-list digest Volume 10, Issue 42
+VLD10_43.ZIP    8266 07-24-92 Vision-list digest Volume 10, Issue 43
+VLD10_44.ZIP    8161 07-24-92 Vision-list digest Volume 10, Issue 44
+VLD10_45.ZIP    6757 07-24-92 Vision-list digest Volume 10, Issue 45
+VLD10_46.ZIP    4416 07-24-92 Vision-list digest Volume 10, Issue 46
+VLD10_47.ZIP   13671 07-24-92 Vision-list digest Volume 10, Issue 47
+VLD10_48.ZIP   23964 07-24-92 Vision-list digest Volume 10, Issue 48
+VLD10_49.ZIP    6953 07-24-92 Vision-list digest Volume 10, Issue 49
+VLD10_50.ZIP    7908 07-24-92 Vision-list digest Volume 10, Issue 50
+VLD10_51.ZIP   10559 07-24-92 Vision-list digest Volume 10, Issue 51
+VLD10_52.ZIP    6371 07-24-92 Vision-list digest Volume 10, Issue 52
+VLD10_54.ZIP    7981 07-24-92 Vision-list digest Volume 10, Issue 54
+------------------------------------------------------------------------------
+VLD11_01.ZIP    6073 07-24-92 Vision-list digest Volume 11, Issue 01
+VLD11_02.ZIP    4885 07-24-92 Vision-list digest Volume 11, Issue 02
+VLD11_03.ZIP    6389 07-24-92 Vision-list digest Volume 11, Issue 03
+VLD11_04.ZIP    6580 07-24-92 Vision-list digest Volume 11, Issue 04
+VLD11_05.ZIP   16190 07-24-92 Vision-list digest Volume 11, Issue 05
+VLD11_06.ZIP    6603 07-24-92 Vision-list digest Volume 11, Issue 06
+VLD11_07.ZIP   10150 07-24-92 Vision-list digest Volume 11, Issue 07
+VLD11_08.ZIP   11115 07-24-92 Vision-list digest Volume 11, Issue 08
+VLD11_09.ZIP   18714 07-24-92 Vision-list digest Volume 11, Issue 09
+VLD11_10.ZIP    8474 07-24-92 Vision-list digest Volume 11, Issue 10
+VLD11_11.ZIP   16948 07-24-92 Vision-list digest Volume 11, Issue 11
+VLD11_12.ZIP   17929 07-24-92 Vision-list digest Volume 11, Issue 12
+VLD11_13.ZIP   14468 07-24-92 Vision-list digest Volume 11, Issue 13
+VLD11_14.ZIP   15411 07-24-92 Vision-list digest Volume 11, Issue 14
+VLD11_15.ZIP    5190 07-24-92 Vision-list digest Volume 11, Issue 15
+VLD11_16.ZIP   32527 07-24-92 Vision-list digest Volume 11, Issue 16
+VLD11_17.ZIP    6742 07-24-92 Vision-list digest Volume 11, Issue 17
+VLD11_18.ZIP   10571 07-24-92 Vision-list digest Volume 11, Issue 18
+VLD11_19.ZIP   11720 07-24-92 Vision-list digest Volume 11, Issue 19
+VLD11_20.ZIP   19278 07-24-92 Vision-list digest Volume 11, Issue 20
+VLD11_21.ZIP   11694 07-24-92 Vision-list digest Volume 11, Issue 21
+VLD11_22.ZIP   13828 07-24-92 Vision-list digest Volume 11, Issue 22
+VLD11_23.ZIP    4318 07-24-92 Vision-list digest Volume 11, Issue 23
+VLD11_24.ZIP    9160 07-24-92 Vision-list digest Volume 11, Issue 24
+VLD11_25.ZIP    8004 07-24-92 Vision-list digest Volume 11, Issue 25
+VLD11_26.ZIP   13526 07-24-92 Vision-list digest Volume 11, Issue 26
+VLD11_27.ZIP    8307 08-14-93 Vision-list digest Volume 11, Issue 27
+VLD11_28.ZIP   12068 08-14-93 Vision-list digest Volume 11, Issue 28
+VLD11_29.ZIP   14064 08-14-93 Vision-list digest Volume 11, Issue 29
+VLD11_30.ZIP   10142 08-14-93 Vision-list digest Volume 11, Issue 30
+VLD11_31.ZIP    7179 08-14-93 Vision-list digest Volume 11, Issue 31
+VLD11_32.ZIP    8457 08-14-93 Vision-list digest Volume 11, Issue 32
+VLD11_33.ZIP    9886 08-14-93 Vision-list digest Volume 11, Issue 33
+VLD11_34.ZIP    8327 08-14-93 Vision-list digest Volume 11, Issue 34
+VLD11_35.ZIP   12112 08-14-93 Vision-list digest Volume 11, Issue 35
+VLD11_36.ZIP   17853 08-14-93 Vision-list digest Volume 11, Issue 36
+VLD11_37.ZIP   16201 08-14-93 Vision-list digest Volume 11, Issue 37
+VLD11_38.ZIP   12941 08-14-93 Vision-list digest Volume 11, Issue 38
+VLD11_39.ZIP   21984 08-14-93 Vision-list digest Volume 11, Issue 39
+VLD11_40.ZIP   10810 08-14-93 Vision-list digest Volume 11, Issue 40
+VLD11_41.ZIP    6523 08-14-93 Vision-list digest Volume 11, Issue 41
+VLD11_42.ZIP   11112 08-14-93 Vision-list digest Volume 11, Issue 42
+VLD11_43.ZIP   23874 08-14-93 Vision-list digest Volume 11, Issue 43
+VLD11_44.ZIP    3691 08-14-93 Vision-list digest Volume 11, Issue 44
+------------------------------------------------------------------------------
+VLD12_03.ZIP   16686 08-14-93 Vision-list digest Volume 12, Issue 03
+VLD12_04.ZIP    7648 08-14-93 Vision-list digest Volume 12, Issue 04
+VLD12_05.ZIP    5453 08-14-93 Vision-list digest Volume 12, Issue 05
+VLD12_06.ZIP    7241 08-14-93 Vision-list digest Volume 12, Issue 06
+VLD12_07.ZIP   18617 08-14-93 Vision-list digest Volume 12, Issue 07
+VLD12_08.ZIP   21166 08-14-93 Vision-list digest Volume 12, Issue 08
+VLD12_09.ZIP   22105 08-14-93 Vision-list digest Volume 12, Issue 09
+VLD12_10.ZIP    8115 08-14-93 Vision-list digest Volume 12, Issue 10
+VLD12_11.ZIP   20822 08-14-93 Vision-list digest Volume 12, Issue 11
+VLD12_12.ZIP    5517 08-14-93 Vision-list digest Volume 12, Issue 12
+VLD12_13.ZIP    7988 08-14-93 Vision-list digest Volume 12, Issue 13
+VLD12_14.ZIP   38503 08-14-93 Vision-list digest Volume 12, Issue 14
+VLD12_15.ZIP   14799 08-14-93 Vision-list digest Volume 12, Issue 15
+VLD12_16.ZIP    9523 08-14-93 Vision-list digest Volume 12, Issue 16
+VLD12_17.ZIP   16474 08-14-93 Vision-list digest Volume 12, Issue 17
+VLD12_18.ZIP   10588 08-14-93 Vision-list digest Volume 12, Issue 18
+VLD12_19.ZIP   10905 08-14-93 Vision-list digest Volume 12, Issue 19
+VLD12_20.ZIP    9285 08-14-93 Vision-list digest Volume 12, Issue 20
+VLD12_21.ZIP   20587 08-14-93 Vision-list digest Volume 12, Issue 21
+VLD12_22.ZIP   13411 08-14-93 Vision-list digest Volume 12, Issue 22
+VLD12_23.ZIP   10228 08-14-93 Vision-list digest Volume 12, Issue 23
+VLD12_24.ZIP   11034 08-14-93 Vision-list digest Volume 12, Issue 24
+VLD12_25.ZIP    8312 08-14-93 Vision-list digest Volume 12, Issue 25
+VLD12_26.ZIP   10364 08-14-93 Vision-list digest Volume 12, Issue 26
+VLD12_27.ZIP    4419 08-14-93 Vision-list digest Volume 12, Issue 27
+VLD12_28.ZIP    8152 08-14-93 Vision-list digest Volume 12, Issue 28
+VLD12_29.ZIP   25772 08-14-93 Vision-list digest Volume 12, Issue 29
+VLD12_30.ZIP   10824 08-14-93 Vision-list digest Volume 12, Issue 30
+VLD12_31.ZIP   13023 08-14-93 Vision-list digest Volume 12, Issue 31
+VLD12_32.ZIP    8209 08-14-93 Vision-list digest Volume 12, Issue 32
+VLD12_33.ZIP   17781 08-14-93 Vision-list digest Volume 12, Issue 33
+VLD12_35.ZIP   10409 08-14-93 Vision-list digest Volume 12, Issue 35
+VLD12_36.ZIP   34671 08-14-93 Vision-list digest Volume 12, Issue 36
+VLD12_37.ZIP    7822 08-14-93 Vision-list digest Volume 12, Issue 37
+VLD12_38.ZIP   11128 08-14-93 Vision-list digest Volume 12, Issue 38
+VLD12_39.ZIP    6857 08-14-93 Vision-list digest Volume 12, Issue 39
+VLD12_40.ZIP    6671 12-01-94 Vision-list digest Volume 12, Issue 40
+VLD12_41.ZIP    6606 12-01-94 Vision-list digest Volume 12, Issue 41
+VLD12_42.ZIP    9070 12-01-94 Vision-list digest Volume 12, Issue 42
+VLD12_43.ZIP    7390 12-01-94 Vision-list digest Volume 12, Issue 43
+VLD12_44.ZIP   17323 12-01-94 Vision-list digest Volume 12, Issue 44
+VLD12_45.ZIP   10809 12-01-94 Vision-list digest Volume 12, Issue 45
+VLD12_46.ZIP   15256 12-01-94 Vision-list digest Volume 12, Issue 46
+VLD12_47.ZIP   15518 12-01-94 Vision-list digest Volume 12, Issue 47
+VLD12_48.ZIP    5076 12-01-94 Vision-list digest Volume 12, Issue 48
+VLD12_49.ZIP   11692 12-01-94 Vision-list digest Volume 12, Issue 49
+VLD12_50.ZIP   14284 12-01-94 Vision-list digest Volume 12, Issue 50
+VLD12_51.ZIP    6785 12-01-94 Vision-list digest Volume 12, Issue 51
+VLD12_52.ZIP   11624 12-01-94 Vision-list digest Volume 12, Issue 52
+VLD12_53.ZIP    9045 12-01-94 Vision-list digest Volume 12, Issue 53
+VLD12_55.ZIP   24487 12-01-94 Vision-list digest Volume 12, Issue 55
+VLD12_56.ZIP    7166 12-01-94 Vision-list digest Volume 12, Issue 56
+VLD12_57.ZIP    8897 12-01-94 Vision-list digest Volume 12, Issue 57
+VLD12_58.ZIP    9666 12-01-94 Vision-list digest Volume 12, Issue 58
+VLD12_59.ZIP    9040 12-01-94 Vision-list digest Volume 12, Issue 59
+VLD12_60.ZIP    7189 12-01-94 Vision-list digest Volume 12, Issue 60
+------------------------------------------------------------------------------
+VLD13_01.ZIP    6166 12-01-93 Vision-list digest Volume 13, Issue 01
+VLD13_02.ZIP   19991 12-01-93 Vision-list digest Volume 13, Issue 02
+VLD13_03.ZIP   32838 12-01-93 Vision-list digest Volume 13, Issue 03
+VLD13_04.ZIP    3296 12-01-93 Vision-list digest Volume 13, Issue 04
+VLD13_05.ZIP   10468 12-01-93 Vision-list digest Volume 13, Issue 05
+VLD13_06.ZIP   12460 12-01-93 Vision-list digest Volume 13, Issue 06
+VLD13_07.ZIP   13260 12-01-93 Vision-list digest Volume 13, Issue 07
+VLD13_08.ZIP    4566 12-01-93 Vision-list digest Volume 13, Issue 08
+VLD13_09.ZIP   20252 12-01-93 Vision-list digest Volume 13, Issue 09
+VLD13_10.ZIP   13065 12-01-93 Vision-list digest Volume 13, Issue 10
+VLD13_11.ZIP   26535 12-01-93 Vision-list digest Volume 13, Issue 11
+VLD13_12.ZIP   10339 12-01-93 Vision-list digest Volume 13, Issue 12
+VLD13_13.ZIP   18910 12-01-93 Vision-list digest Volume 13, Issue 13
+VLD13_14.ZIP    6002 12-01-93 Vision-list digest Volume 13, Issue 14
+VLD13_15.ZIP   10825 12-01-93 Vision-list digest Volume 13, Issue 15
+VLD13_16.ZIP   19931 12-01-93 Vision-list digest Volume 13, Issue 16
+VLD13_17.ZIP   12135 12-01-93 Vision-list digest Volume 13, Issue 17
+VLD13_18.ZIP   20702 12-01-93 Vision-list digest Volume 13, Issue 18
+VLD13_19.ZIP    4182 12-01-93 Vision-list digest Volume 13, Issue 19
+VLD13_20.ZIP   20468 12-01-93 Vision-list digest Volume 13, Issue 20
+VLD13_21.ZIP   22325 12-01-93 Vision-list digest Volume 13, Issue 21
+VLD13_22.ZIP   37594 12-01-93 Vision-list digest Volume 13, Issue 22
+VLD13_23.ZIP    3037 12-01-93 Vision-list digest Volume 13, Issue 23
+VLD13_24.ZIP    7047 12-01-93 Vision-list digest Volume 13, Issue 24
+VLD13_25.ZIP    5538 12-01-93 Vision-list digest Volume 13, Issue 25
+VLD13_26.ZIP   16128 12-01-93 Vision-list digest Volume 13, Issue 26
+VLD13_27.ZIP    9940 12-01-93 Vision-list digest Volume 13, Issue 27
+VLD13_28.ZIP   12160 12-01-93 Vision-list digest Volume 13, Issue 28
+VLD13_29.ZIP   28640 12-01-93 Vision-list digest Volume 13, Issue 29
+VLD13_30.ZIP    7615 12-01-93 Vision-list digest Volume 13, Issue 30
+VLD13_31.ZIP   10615 12-01-93 Vision-list digest Volume 13, Issue 31
+VLD13_33.ZIP   14028 12-01-93 Vision-list digest Volume 13, Issue 33
+VLD13_34.ZIP    8174 12-01-93 Vision-list digest Volume 13, Issue 34
+VLD13_35.ZIP    4126 12-01-93 Vision-list digest Volume 13, Issue 35
+VLD13_36.ZIP   35039 12-01-93 Vision-list digest Volume 13, Issue 36
+VLD13_37.ZIP   10468 12-01-93 Vision-list digest Volume 13, Issue 37
+VLD13_38.ZIP   23306 12-01-93 Vision-list digest Volume 13, Issue 38
+VLD13_39.ZIP    9210 12-01-93 Vision-list digest Volume 13, Issue 39
+VLD13_40.ZIP    7105 12-01-94 Vision-list digest Volume 13, Issue 40
+VLD13_41.ZIP    6288 12-01-94 Vision-list digest Volume 13, Issue 41
+VLD13_42.ZIP   16769 12-01-94 Vision-list digest Volume 13, Issue 42
+VLD13_43.ZIP    9752 12-01-94 Vision-list digest Volume 13, Issue 43
+VLD13_44.ZIP    9246 12-01-94 Vision-list digest Volume 13, Issue 44
+VLD13_45.ZIP    9153 12-01-94 Vision-list digest Volume 13, Issue 45
+VLD13_46.ZIP   13182 12-01-94 Vision-list digest Volume 13, Issue 46
+VLD13_47.ZIP   18468 12-01-94 Vision-list digest Volume 13, Issue 47
+VLD13_48.ZIP   13971 12-01-94 Vision-list digest Volume 13, Issue 48
+
