@@ -4,7 +4,9 @@
 This archive has been compiled in 1995 by Network Cybernetics Corp. and provides authoritative, accurate and timely information on the field of Artificial Intelligence from that time.
 It contains research papers, source-code, programs and other files on A.I.
 
-[See the details in the text-file MASTER.TXT](MASTER.TXT).
+[View the Github repository here](https://github.com/fortikeco/AI-cdrom-r3)
+
+See the content details in the text-file [MASTER.TXT](MASTER.TXT).
 
 Topics covered:
 - Artificial Life
